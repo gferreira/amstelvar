@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gheup" format="2">
+  <advance width="725"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="681" y="899" type="line"/>
+      <point x="269" y="899" type="line"/>
+      <point x="263" y="463" type="line"/>
+      <point x="269" y="45" type="line"/>
+      <point x="409" y="16" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="55" y="16" type="line"/>
+      <point x="175" y="45" type="line"/>
+      <point x="179" y="462" type="line"/>
+      <point x="175" y="875" type="line"/>
+      <point x="55" y="904" type="line"/>
+      <point x="55" y="920" type="line"/>
+      <point x="582" y="920" type="line"/>
+      <point x="666" y="1202" type="line"/>
+      <point x="682" y="1202" type="line"/>
+    </contour>
+  </outline>
+</glyph>

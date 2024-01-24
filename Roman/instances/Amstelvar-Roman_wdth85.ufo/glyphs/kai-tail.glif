@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kai-tail" format="2">
+  <advance width="1021"/>
+  <outline>
+    <contour>
+      <point x="461" y="-510" type="qcurve" smooth="yes"/>
+      <point x="302" y="-510"/>
+      <point x="42" y="-362"/>
+      <point x="-42" y="-211" type="qcurve"/>
+      <point x="42" y="-149" type="line"/>
+      <point x="102" y="-235"/>
+      <point x="309" y="-363"/>
+      <point x="467" y="-363" type="qcurve" smooth="yes"/>
+      <point x="668" y="-363"/>
+      <point x="872" y="-96"/>
+      <point x="873" y="115" type="qcurve"/>
+      <point x="1004" y="115" type="line"/>
+      <point x="1020" y="-151"/>
+      <point x="718" y="-510"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hastroke-cy" format="2">
+  <advance width="1472"/>
+  <unicode hex="04FE"/>
+  <outline>
+    <contour>
+      <point x="249" y="666" type="line"/>
+      <point x="249" y="865" type="line"/>
+      <point x="746" y="858" type="line"/>
+      <point x="1222" y="865" type="line"/>
+      <point x="1222" y="666" type="line"/>
+      <point x="729" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="1" y="0" type="line"/>
+      <point x="1" y="169" type="line"/>
+      <point x="145" y="203" type="line"/>
+      <point x="642" y="842" type="line"/>
+      <point x="754" y="842" type="line"/>
+      <point x="1048" y="1286" type="line"/>
+      <point x="928" y="1318" type="line"/>
+      <point x="928" y="1500" type="line"/>
+      <point x="1406" y="1500" type="line"/>
+      <point x="1406" y="1318" type="line"/>
+      <point x="1260" y="1285" type="line"/>
+      <point x="860" y="718" type="line"/>
+      <point x="743" y="718" type="line"/>
+      <point x="358" y="202" type="line"/>
+      <point x="491" y="169" type="line"/>
+      <point x="491" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="1318" type="line"/>
+      <point x="43" y="1500" type="line"/>
+      <point x="804" y="1500" type="line"/>
+      <point x="804" y="1318" type="line"/>
+      <point x="681" y="1284" type="line"/>
+      <point x="918" y="866" type="line"/>
+      <point x="1319" y="203" type="line"/>
+      <point x="1475" y="169" type="line"/>
+      <point x="1475" y="0" type="line"/>
+      <point x="695" y="0" type="line"/>
+      <point x="695" y="169" type="line"/>
+      <point x="822" y="203" type="line"/>
+      <point x="538" y="715" type="line"/>
+      <point x="192" y="1285" type="line"/>
+    </contour>
+  </outline>
+</glyph>

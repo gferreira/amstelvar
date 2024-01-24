@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="1291"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="140" y="37" type="line"/>
+      <point x="979" y="1558" type="line"/>
+      <point x="1137" y="1474" type="line"/>
+      <point x="298" y="-45" type="line"/>
+    </contour>
+    <contour>
+      <point x="777" y="200" type="qcurve" smooth="yes"/>
+      <point x="777" y="290"/>
+      <point x="903" y="423"/>
+      <point x="1000" y="423" type="qcurve" smooth="yes"/>
+      <point x="1099" y="423"/>
+      <point x="1224" y="290"/>
+      <point x="1224" y="200" type="qcurve" smooth="yes"/>
+      <point x="1224" y="112"/>
+      <point x="1099" y="-22"/>
+      <point x="1000" y="-22" type="qcurve" smooth="yes"/>
+      <point x="903" y="-22"/>
+      <point x="777" y="112"/>
+    </contour>
+    <contour>
+      <point x="49" y="1295" type="qcurve" smooth="yes"/>
+      <point x="49" y="1384"/>
+      <point x="174" y="1518"/>
+      <point x="273" y="1518" type="qcurve" smooth="yes"/>
+      <point x="370" y="1518"/>
+      <point x="496" y="1384"/>
+      <point x="496" y="1295" type="qcurve" smooth="yes"/>
+      <point x="496" y="1206"/>
+      <point x="370" y="1073"/>
+      <point x="273" y="1073" type="qcurve" smooth="yes"/>
+      <point x="174" y="1073"/>
+      <point x="49" y="1206"/>
+    </contour>
+  </outline>
+</glyph>

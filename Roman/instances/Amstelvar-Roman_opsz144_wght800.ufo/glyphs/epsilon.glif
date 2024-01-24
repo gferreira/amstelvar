@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilon" format="2">
+  <advance width="1034"/>
+  <unicode hex="03B5"/>
+  <anchor x="564" y="954" name="GRKtop"/>
+  <outline>
+    <contour>
+      <point x="513" y="-20" type="qcurve" smooth="yes"/>
+      <point x="278" y="-20"/>
+      <point x="33" y="128"/>
+      <point x="33" y="257" type="qcurve" smooth="yes"/>
+      <point x="33" y="407"/>
+      <point x="333" y="561"/>
+      <point x="608" y="598" type="qcurve" smooth="yes"/>
+      <point x="708" y="612" type="line"/>
+      <point x="752" y="580" type="line"/>
+      <point x="674" y="360" type="line"/>
+      <point x="572" y="384" type="line" smooth="yes"/>
+      <point x="351" y="422"/>
+      <point x="85" y="575"/>
+      <point x="85" y="704" type="qcurve" smooth="yes"/>
+      <point x="85" y="824"/>
+      <point x="328" y="979"/>
+      <point x="568" y="979" type="qcurve" smooth="yes"/>
+      <point x="697" y="979"/>
+      <point x="904" y="925"/>
+      <point x="951" y="889" type="qcurve"/>
+      <point x="947" y="616" type="line"/>
+      <point x="896" y="616" type="line"/>
+      <point x="847" y="823" type="line"/>
+      <point x="823" y="865"/>
+      <point x="716" y="911"/>
+      <point x="636" y="911" type="qcurve" smooth="yes"/>
+      <point x="531" y="911"/>
+      <point x="417" y="814"/>
+      <point x="417" y="720" type="qcurve" smooth="yes"/>
+      <point x="417" y="637"/>
+      <point x="508" y="544"/>
+      <point x="633" y="508" type="qcurve"/>
+      <point x="629" y="488" type="line"/>
+      <point x="510" y="462"/>
+      <point x="406" y="353"/>
+      <point x="406" y="276" type="qcurve" smooth="yes"/>
+      <point x="406" y="182"/>
+      <point x="531" y="89"/>
+      <point x="647" y="89" type="qcurve" smooth="yes"/>
+      <point x="768" y="89"/>
+      <point x="951" y="181"/>
+      <point x="1008" y="273" type="qcurve"/>
+      <point x="1043" y="242" type="line"/>
+      <point x="986" y="125"/>
+      <point x="729" y="-20"/>
+    </contour>
+  </outline>
+</glyph>

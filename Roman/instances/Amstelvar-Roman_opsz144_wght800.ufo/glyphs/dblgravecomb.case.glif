@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <advance width="896"/>
+  <anchor x="448" y="1500" name="_top"/>
+  <anchor x="448" y="1946" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="1841" type="qcurve" smooth="yes"/>
+      <point x="70" y="1881"/>
+      <point x="131" y="1935"/>
+      <point x="175" y="1935" type="qcurve" smooth="yes"/>
+      <point x="213" y="1934"/>
+      <point x="271" y="1878"/>
+      <point x="298" y="1838" type="qcurve" smooth="yes"/>
+      <point x="456" y="1605" type="line"/>
+      <point x="432" y="1579" type="line"/>
+      <point x="148" y="1728" type="line" smooth="yes"/>
+      <point x="104" y="1748"/>
+      <point x="69" y="1799"/>
+    </contour>
+    <contour>
+      <point x="405" y="1859" type="qcurve" smooth="yes"/>
+      <point x="409" y="1899"/>
+      <point x="471" y="1949"/>
+      <point x="515" y="1945" type="qcurve" smooth="yes"/>
+      <point x="553" y="1942"/>
+      <point x="605" y="1884"/>
+      <point x="629" y="1841" type="qcurve" smooth="yes"/>
+      <point x="775" y="1603" type="line"/>
+      <point x="749" y="1579" type="line"/>
+      <point x="473" y="1743" type="line" smooth="yes"/>
+      <point x="431" y="1766"/>
+      <point x="401" y="1821"/>
+    </contour>
+  </outline>
+</glyph>

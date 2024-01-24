@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1388"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="131" y="1099" type="qcurve" smooth="yes"/>
+      <point x="131" y="1285"/>
+      <point x="451" y="1543"/>
+      <point x="692" y="1543" type="qcurve" smooth="yes"/>
+      <point x="935" y="1543"/>
+      <point x="1257" y="1297"/>
+      <point x="1257" y="1104" type="qcurve" smooth="yes"/>
+      <point x="1257" y="922"/>
+      <point x="932" y="653"/>
+      <point x="693" y="653" type="qcurve" smooth="yes"/>
+      <point x="460" y="652"/>
+      <point x="131" y="903"/>
+    </contour>
+    <contour>
+      <point x="244" y="1109" type="qcurve" smooth="yes"/>
+      <point x="244" y="946"/>
+      <point x="484" y="720"/>
+      <point x="690" y="720" type="qcurve" smooth="yes"/>
+      <point x="910" y="720"/>
+      <point x="1137" y="924"/>
+      <point x="1137" y="1102" type="qcurve" smooth="yes"/>
+      <point x="1137" y="1267"/>
+      <point x="903" y="1468"/>
+      <point x="692" y="1468" type="qcurve" smooth="yes"/>
+      <point x="476" y="1468"/>
+      <point x="244" y="1272"/>
+    </contour>
+  </outline>
+</glyph>

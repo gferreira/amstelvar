@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta" format="2">
+  <advance width="1195"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <contour>
+      <point x="1100" y="-278" type="line"/>
+      <point x="1080" y="-130" type="line" smooth="yes"/>
+      <point x="1070" y="-54"/>
+      <point x="1021" y="-12"/>
+      <point x="970" y="-9" type="qcurve" smooth="yes"/>
+      <point x="841" y="-1" type="line" smooth="yes"/>
+      <point x="393" y="27"/>
+      <point x="87" y="196"/>
+      <point x="87" y="385" type="qcurve" smooth="yes"/>
+      <point x="87" y="583"/>
+      <point x="500" y="967"/>
+      <point x="1166" y="1458" type="qcurve"/>
+      <point x="1165" y="1440" type="line"/>
+      <point x="181" y="1432" type="line"/>
+      <point x="173" y="1442" type="line"/>
+      <point x="180" y="1497" type="line"/>
+      <point x="1207" y="1490" type="line"/>
+      <point x="1207" y="1462" type="line"/>
+      <point x="581" y="986"/>
+      <point x="185" y="611"/>
+      <point x="185" y="408" type="qcurve" smooth="yes"/>
+      <point x="185" y="244"/>
+      <point x="437" y="107"/>
+      <point x="906" y="80" type="qcurve" smooth="yes"/>
+      <point x="1019" y="73" type="line" smooth="yes"/>
+      <point x="1082" y="69"/>
+      <point x="1147" y="35"/>
+      <point x="1155" y="-9" type="qcurve"/>
+      <point x="1118" y="-278" type="line"/>
+    </contour>
+  </outline>
+</glyph>

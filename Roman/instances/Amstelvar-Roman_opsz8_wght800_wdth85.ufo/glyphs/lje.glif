@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lje" format="2">
+  <advance width="1750"/>
+  <unicode hex="0459"/>
+  <outline>
+    <contour>
+      <point x="686" y="891" type="line"/>
+      <point x="688" y="552" type="line"/>
+      <point x="686" y="199" type="line"/>
+      <point x="570" y="164" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="1294" y="0" type="line" smooth="yes"/>
+      <point x="1514" y="0"/>
+      <point x="1736" y="179"/>
+      <point x="1736" y="355" type="qcurve" smooth="yes"/>
+      <point x="1736" y="551"/>
+      <point x="1504" y="718"/>
+      <point x="1294" y="718" type="qcurve" smooth="yes"/>
+      <point x="894" y="718" type="line"/>
+      <point x="894" y="532" type="line"/>
+      <point x="1180" y="532" type="line" smooth="yes"/>
+      <point x="1266" y="532"/>
+      <point x="1336" y="448"/>
+      <point x="1336" y="362" type="qcurve" smooth="yes"/>
+      <point x="1336" y="276"/>
+      <point x="1264" y="191"/>
+      <point x="1168" y="191" type="qcurve" smooth="yes"/>
+      <point x="1103" y="191" type="line"/>
+      <point x="1101" y="561" type="line"/>
+      <point x="1103" y="885" type="line"/>
+      <point x="1236" y="920" type="line"/>
+      <point x="1236" y="1083" type="line"/>
+      <point x="126" y="1083" type="line"/>
+      <point x="126" y="920" type="line"/>
+      <point x="265" y="885" type="line"/>
+      <point x="255" y="581" type="line" smooth="yes"/>
+      <point x="250" y="409"/>
+      <point x="178" y="292"/>
+      <point x="97" y="292" type="qcurve" smooth="yes"/>
+      <point x="78" y="292"/>
+      <point x="45" y="297"/>
+      <point x="26" y="304" type="qcurve"/>
+      <point x="26" y="-1" type="line"/>
+      <point x="45" y="-9"/>
+      <point x="105" y="-18"/>
+      <point x="142" y="-18" type="qcurve" smooth="yes"/>
+      <point x="320" y="-18"/>
+      <point x="471" y="223"/>
+      <point x="480" y="523" type="qcurve" smooth="yes"/>
+      <point x="493" y="891" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.showMeasurements.NbdfSyw2GO</key>
+      <true/>
+    </dict>
+  </lib>
+</glyph>

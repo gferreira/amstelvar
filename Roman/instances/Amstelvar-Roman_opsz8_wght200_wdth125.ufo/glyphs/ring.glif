@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="1024"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="252" y="1512" type="qcurve" smooth="yes"/>
+      <point x="252" y="1618"/>
+      <point x="399" y="1753"/>
+      <point x="512" y="1753" type="qcurve" smooth="yes"/>
+      <point x="625" y="1753"/>
+      <point x="772" y="1618"/>
+      <point x="772" y="1512" type="qcurve" smooth="yes"/>
+      <point x="772" y="1406"/>
+      <point x="625" y="1270"/>
+      <point x="512" y="1270" type="qcurve" smooth="yes"/>
+      <point x="399" y="1270"/>
+      <point x="252" y="1406"/>
+    </contour>
+    <contour>
+      <point x="367" y="1512" type="qcurve" smooth="yes"/>
+      <point x="367" y="1451"/>
+      <point x="448" y="1376"/>
+      <point x="512" y="1376" type="qcurve" smooth="yes"/>
+      <point x="579" y="1376"/>
+      <point x="656" y="1446"/>
+      <point x="656" y="1512" type="qcurve" smooth="yes"/>
+      <point x="656" y="1572"/>
+      <point x="576" y="1647"/>
+      <point x="512" y="1647" type="qcurve" smooth="yes"/>
+      <point x="445" y="1647"/>
+      <point x="367" y="1577"/>
+    </contour>
+  </outline>
+</glyph>

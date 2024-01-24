@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <advance width="896"/>
+  <unicode hex="0323"/>
+  <anchor x="448" y="0" name="_bottom"/>
+  <anchor x="448" y="-330" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="372" y="-255" type="qcurve" smooth="yes"/>
+      <point x="372" y="-221"/>
+      <point x="413" y="-180"/>
+      <point x="447" y="-180" type="qcurve" smooth="yes"/>
+      <point x="481" y="-180"/>
+      <point x="524" y="-223"/>
+      <point x="524" y="-255" type="qcurve" smooth="yes"/>
+      <point x="524" y="-289"/>
+      <point x="483" y="-330"/>
+      <point x="447" y="-330" type="qcurve" smooth="yes"/>
+      <point x="414" y="-330"/>
+      <point x="372" y="-287"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="690"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="454" y="-42" type="line" smooth="yes"/>
+      <point x="457" y="-167"/>
+      <point x="291" y="-309"/>
+      <point x="184" y="-309" type="qcurve" smooth="yes"/>
+      <point x="151" y="-309"/>
+      <point x="75" y="-303"/>
+      <point x="46" y="-295" type="qcurve" smooth="yes"/>
+      <point x="25" y="-290" type="line"/>
+      <point x="41" y="-153" type="line"/>
+      <point x="65" y="-160" type="line" smooth="yes"/>
+      <point x="74" y="-163"/>
+      <point x="106" y="-167"/>
+      <point x="126" y="-167" type="qcurve" smooth="yes"/>
+      <point x="189" y="-167"/>
+      <point x="263" y="-83"/>
+      <point x="261" y="-10" type="qcurve" smooth="yes"/>
+      <point x="242" y="820" type="line"/>
+      <point x="48" y="842" type="line"/>
+      <point x="38" y="976" type="line"/>
+      <point x="234" y="984" type="line"/>
+      <point x="228" y="1298" type="line" smooth="yes"/>
+      <point x="226" y="1397"/>
+      <point x="375" y="1518"/>
+      <point x="478" y="1518" type="qcurve" smooth="yes"/>
+      <point x="512" y="1518"/>
+      <point x="588" y="1514"/>
+      <point x="616" y="1504" type="qcurve" smooth="yes"/>
+      <point x="637" y="1499" type="line"/>
+      <point x="621" y="1352" type="line"/>
+      <point x="597" y="1359" type="line" smooth="yes"/>
+      <point x="589" y="1361"/>
+      <point x="558" y="1366"/>
+      <point x="542" y="1366" type="qcurve" smooth="yes"/>
+      <point x="473" y="1366"/>
+      <point x="421" y="1296"/>
+      <point x="425" y="1223" type="qcurve" smooth="yes"/>
+      <point x="436" y="985" type="line"/>
+      <point x="624" y="985" type="line"/>
+      <point x="624" y="843" type="line"/>
+      <point x="436" y="832" type="line"/>
+    </contour>
+  </outline>
+</glyph>

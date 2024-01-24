@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicron" format="2">
+  <advance width="1506"/>
+  <unicode hex="03BF"/>
+  <anchor x="746" y="1086" name="GRKtop"/>
+  <outline>
+    <component base="o" xOffset="-12"/>
+  </outline>
+</glyph>

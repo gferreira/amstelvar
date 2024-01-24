@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacutecomb" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="1033" name="_top"/>
+  <outline>
+    <contour>
+      <point x="512" y="1591" type="qcurve" smooth="yes"/>
+      <point x="559" y="1591"/>
+      <point x="630" y="1553"/>
+      <point x="678" y="1501" type="qcurve" smooth="yes"/>
+      <point x="945" y="1233" type="line"/>
+      <point x="867" y="1150" type="line"/>
+      <point x="512" y="1379" type="line"/>
+      <point x="157" y="1150" type="line"/>
+      <point x="79" y="1233" type="line"/>
+      <point x="346" y="1501" type="line" smooth="yes"/>
+      <point x="403" y="1558"/>
+      <point x="465" y="1591"/>
+    </contour>
+    <contour>
+      <point x="1367" y="1852" type="qcurve" smooth="yes"/>
+      <point x="1367" y="1817"/>
+      <point x="1298" y="1735"/>
+      <point x="1246" y="1707" type="qcurve" smooth="yes"/>
+      <point x="875" y="1500" type="line"/>
+      <point x="802" y="1584" type="line"/>
+      <point x="1060" y="1844" type="line" smooth="yes"/>
+      <point x="1106" y="1891"/>
+      <point x="1198" y="1967"/>
+      <point x="1244" y="1967" type="qcurve" smooth="yes"/>
+      <point x="1300" y="1967"/>
+      <point x="1367" y="1893"/>
+    </contour>
+  </outline>
+</glyph>

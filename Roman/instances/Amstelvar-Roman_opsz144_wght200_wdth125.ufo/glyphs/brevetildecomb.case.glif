@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevetildecomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="1500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="752" y="1803" type="qcurve"/>
+      <point x="770" y="1799" type="line"/>
+      <point x="748" y="1731"/>
+      <point x="612" y="1600"/>
+      <point x="512" y="1600" type="qcurve" smooth="yes"/>
+      <point x="412" y="1600"/>
+      <point x="279" y="1722"/>
+      <point x="254" y="1795" type="qcurve"/>
+      <point x="273" y="1803" type="line"/>
+      <point x="305" y="1737"/>
+      <point x="430" y="1672"/>
+      <point x="514" y="1674" type="qcurve" smooth="yes"/>
+      <point x="599" y="1671"/>
+      <point x="724" y="1741"/>
+    </contour>
+    <contour>
+      <point x="233" y="1954" type="line"/>
+      <point x="253" y="1988"/>
+      <point x="349" y="2067"/>
+      <point x="397" y="2067" type="qcurve" smooth="yes"/>
+      <point x="442" y="2067"/>
+      <point x="499" y="2040"/>
+      <point x="528" y="2021" type="qcurve" smooth="yes"/>
+      <point x="558" y="2002"/>
+      <point x="618" y="1970"/>
+      <point x="649" y="1970" type="qcurve" smooth="yes"/>
+      <point x="682" y="1970"/>
+      <point x="743" y="2017"/>
+      <point x="758" y="2039" type="qcurve"/>
+      <point x="780" y="2020" type="line"/>
+      <point x="754" y="1973"/>
+      <point x="673" y="1903"/>
+      <point x="627" y="1903" type="qcurve" smooth="yes"/>
+      <point x="588" y="1903"/>
+      <point x="516" y="1936"/>
+      <point x="487" y="1952" type="qcurve" smooth="yes"/>
+      <point x="458" y="1968"/>
+      <point x="390" y="2004"/>
+      <point x="360" y="2004" type="qcurve" smooth="yes"/>
+      <point x="327" y="2004"/>
+      <point x="266" y="1956"/>
+      <point x="254" y="1937" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

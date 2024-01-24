@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dje" format="2">
+  <advance width="1630"/>
+  <unicode hex="0402"/>
+  <guideline x="568" y="625" angle="90.0" identifier="YDADns81zF"/>
+  <outline>
+    <contour>
+      <point x="1051" y="770" type="qcurve" smooth="yes"/>
+      <point x="920" y="770"/>
+      <point x="731" y="737"/>
+      <point x="638" y="705" type="qcurve"/>
+      <point x="638" y="787" type="line"/>
+      <point x="732" y="821"/>
+      <point x="932" y="857"/>
+      <point x="1059" y="857" type="qcurve" smooth="yes"/>
+      <point x="1313" y="857"/>
+      <point x="1570" y="632"/>
+      <point x="1570" y="429" type="qcurve" smooth="yes"/>
+      <point x="1570" y="232"/>
+      <point x="1350" y="0"/>
+      <point x="1165" y="0" type="qcurve"/>
+      <point x="1165" y="65" type="line"/>
+      <point x="1301" y="74"/>
+      <point x="1448" y="266"/>
+      <point x="1448" y="420" type="qcurve" smooth="yes"/>
+      <point x="1448" y="585"/>
+      <point x="1252" y="770"/>
+    </contour>
+    <contour>
+      <point x="58" y="1095" type="line"/>
+      <point x="58" y="1500" type="line"/>
+      <point x="1271" y="1500" type="line"/>
+      <point x="1271" y="1109" type="line"/>
+      <point x="1198" y="1109" type="line"/>
+      <point x="1151" y="1423" type="line"/>
+      <point x="718" y="1423" type="line"/>
+      <point x="695" y="1408" type="line"/>
+      <point x="693" y="754" type="line"/>
+      <point x="695" y="101" type="line"/>
+      <point x="935" y="65" type="line"/>
+      <point x="935" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="65" type="line"/>
+      <point x="581" y="101" type="line"/>
+      <point x="583" y="754" type="line"/>
+      <point x="581" y="1407" type="line"/>
+      <point x="562" y="1423" type="line"/>
+      <point x="172" y="1423" type="line"/>
+      <point x="131" y="1095" type="line"/>
+    </contour>
+  </outline>
+</glyph>

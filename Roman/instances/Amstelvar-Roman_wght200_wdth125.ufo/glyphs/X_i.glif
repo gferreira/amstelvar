@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xi" format="2">
+  <advance width="1912"/>
+  <unicode hex="039E"/>
+  <guideline x="697" y="889" angle="90.0" identifier="GCiNqpylsp"/>
+  <outline>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="63" y="393" type="line"/>
+      <point x="144" y="393" type="line"/>
+      <point x="235" y="95" type="line"/>
+      <point x="958" y="87" type="line"/>
+      <point x="1683" y="95" type="line"/>
+      <point x="1773" y="393" type="line"/>
+      <point x="1855" y="393" type="line"/>
+      <point x="1808" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="530" type="line"/>
+      <point x="419" y="965" type="line"/>
+      <point x="488" y="965" type="line"/>
+      <point x="534" y="796" type="line"/>
+      <point x="960" y="790" type="line"/>
+      <point x="1383" y="796" type="line"/>
+      <point x="1429" y="965" type="line"/>
+      <point x="1498" y="965" type="line"/>
+      <point x="1498" y="530" type="line"/>
+      <point x="1429" y="530" type="line"/>
+      <point x="1383" y="696" type="line"/>
+      <point x="960" y="704" type="line"/>
+      <point x="534" y="696" type="line"/>
+      <point x="488" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="1124" type="line"/>
+      <point x="123" y="1500" type="line"/>
+      <point x="1797" y="1500" type="line"/>
+      <point x="1797" y="1124" type="line"/>
+      <point x="1721" y="1124" type="line"/>
+      <point x="1661" y="1397" type="line"/>
+      <point x="958" y="1410" type="line"/>
+      <point x="258" y="1397" type="line"/>
+      <point x="199" y="1124" type="line"/>
+    </contour>
+  </outline>
+</glyph>

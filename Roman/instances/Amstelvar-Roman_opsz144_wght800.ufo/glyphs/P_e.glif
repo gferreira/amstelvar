@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pe" format="2">
+  <advance width="1608"/>
+  <unicode hex="041F"/>
+  <outline>
+    <contour>
+      <point x="1047" y="1423" type="line"/>
+      <point x="1011" y="1443" type="line"/>
+      <point x="597" y="1443" type="line"/>
+      <point x="560" y="1423" type="line"/>
+      <point x="558" y="775" type="line"/>
+      <point x="560" y="80" type="line"/>
+      <point x="704" y="45" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="34" y="45" type="line"/>
+      <point x="179" y="80" type="line"/>
+      <point x="181" y="775" type="line"/>
+      <point x="179" y="1417" type="line"/>
+      <point x="34" y="1451" type="line"/>
+      <point x="34" y="1500" type="line"/>
+      <point x="1573" y="1500" type="line"/>
+      <point x="1573" y="1451" type="line"/>
+      <point x="1428" y="1417" type="line"/>
+      <point x="1426" y="775" type="line"/>
+      <point x="1428" y="80" type="line"/>
+      <point x="1573" y="45" type="line"/>
+      <point x="1573" y="0" type="line"/>
+      <point x="904" y="0" type="line"/>
+      <point x="904" y="45" type="line"/>
+      <point x="1047" y="80" type="line"/>
+      <point x="1049" y="775" type="line"/>
+    </contour>
+  </outline>
+</glyph>

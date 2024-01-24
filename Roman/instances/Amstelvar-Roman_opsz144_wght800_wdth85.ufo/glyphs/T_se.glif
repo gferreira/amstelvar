@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse" format="2">
+  <advance width="1487"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="936" y="760" type="line"/>
+      <point x="934" y="1426" type="line"/>
+      <point x="812" y="1461" type="line"/>
+      <point x="812" y="1500" type="line"/>
+      <point x="1438" y="1500" type="line"/>
+      <point x="1438" y="1461" type="line"/>
+      <point x="1312" y="1426" type="line"/>
+      <point x="1310" y="760" type="line"/>
+      <point x="1312" y="58" type="line"/>
+      <point x="1453" y="58" type="line"/>
+      <point x="1463" y="-338" type="line"/>
+      <point x="1408" y="-338" type="line"/>
+      <point x="1281" y="0" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="27" y="50" type="line"/>
+      <point x="153" y="83" type="line"/>
+      <point x="155" y="760" type="line"/>
+      <point x="153" y="1426" type="line"/>
+      <point x="27" y="1461" type="line"/>
+      <point x="27" y="1500" type="line"/>
+      <point x="652" y="1500" type="line"/>
+      <point x="652" y="1461" type="line"/>
+      <point x="531" y="1426" type="line"/>
+      <point x="529" y="760" type="line"/>
+      <point x="531" y="81" type="line"/>
+      <point x="594" y="58" type="line"/>
+      <point x="870" y="58" type="line"/>
+      <point x="934" y="81" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance width="1492"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="1470" y="117" type="line"/>
+      <point x="1470" y="0" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="855" y="117" type="line"/>
+      <point x="1007" y="148" type="line"/>
+      <point x="1012" y="506" type="line"/>
+      <point x="1008" y="893" type="line" smooth="yes"/>
+      <point x="1006" y="1085"/>
+      <point x="881" y="1256"/>
+      <point x="714" y="1256" type="qcurve" smooth="yes"/>
+      <point x="566" y="1256"/>
+      <point x="419" y="1070"/>
+      <point x="418" y="873" type="qcurve" smooth="yes"/>
+      <point x="416" y="506" type="line"/>
+      <point x="418" y="148" type="line"/>
+      <point x="594" y="117" type="line"/>
+      <point x="594" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="6" y="117" type="line"/>
+      <point x="178" y="148" type="line"/>
+      <point x="180" y="506" type="line"/>
+      <point x="177" y="907" type="line" smooth="yes"/>
+      <point x="175" y="1167"/>
+      <point x="493" y="1431"/>
+      <point x="743" y="1431" type="qcurve" smooth="yes"/>
+      <point x="1050" y="1431"/>
+      <point x="1308" y="1151"/>
+      <point x="1308" y="912" type="qcurve" smooth="yes"/>
+      <point x="1306" y="506" type="line"/>
+      <point x="1308" y="148" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="263" type="line"/>
+      <point x="639" y="662" type="line"/>
+      <point x="641" y="1350" type="line"/>
+      <point x="614" y="1531" type="line"/>
+      <point x="826" y="1600" type="line"/>
+      <point x="799" y="1350" type="line"/>
+      <point x="803" y="762" type="line"/>
+      <point x="826" y="330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

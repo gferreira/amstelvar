@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance width="1594"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="71" y="149" type="line"/>
+      <point x="261" y="184" type="line"/>
+      <point x="263" y="754" type="line"/>
+      <point x="261" y="1304" type="line"/>
+      <point x="71" y="1338" type="line"/>
+      <point x="71" y="1500" type="line"/>
+      <point x="1523" y="1500" type="line"/>
+      <point x="1523" y="1338" type="line"/>
+      <point x="1333" y="1304" type="line"/>
+      <point x="1331" y="754" type="line"/>
+      <point x="1333" y="184" type="line"/>
+      <point x="1523" y="149" type="line"/>
+      <point x="1523" y="0" type="line"/>
+      <point x="925" y="0" type="line"/>
+      <point x="925" y="149" type="line"/>
+      <point x="1112" y="184" type="line"/>
+      <point x="1114" y="754" type="line"/>
+      <point x="1112" y="1304" type="line"/>
+      <point x="825" y="1315" type="line"/>
+      <point x="482" y="1304" type="line"/>
+      <point x="480" y="754" type="line"/>
+      <point x="482" y="184" type="line"/>
+      <point x="669" y="149" type="line"/>
+      <point x="669" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

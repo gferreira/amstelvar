@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primemod" format="2">
+  <advance width="577"/>
+  <unicode hex="02B9"/>
+  <outline>
+    <contour>
+      <point x="230" y="1502" type="line"/>
+      <point x="503" y="1502" type="line"/>
+      <point x="330" y="914" type="line"/>
+      <point x="171" y="919" type="line"/>
+    </contour>
+  </outline>
+</glyph>

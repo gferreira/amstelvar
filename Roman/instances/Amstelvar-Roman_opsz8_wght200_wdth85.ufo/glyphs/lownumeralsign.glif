@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lownumeralsign" format="2">
+  <advance width="426"/>
+  <unicode hex="0375"/>
+  <outline>
+    <contour>
+      <point x="215" y="-286" type="line"/>
+      <point x="63" y="-268" type="line"/>
+      <point x="36" y="-233" type="line"/>
+      <point x="229" y="257" type="line"/>
+      <point x="316" y="228" type="line"/>
+    </contour>
+  </outline>
+</glyph>

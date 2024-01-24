@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbarH" format="2">
+  <advance width="1746"/>
+  <outline>
+    <contour>
+      <point x="1689" y="977" type="line"/>
+      <point x="1507" y="975" type="line"/>
+      <point x="1507" y="1152" type="line"/>
+      <point x="1699" y="1154" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="975" type="line"/>
+      <point x="47" y="1152" type="line"/>
+      <point x="246" y="1152" type="line"/>
+      <point x="246" y="975" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="975" type="line"/>
+      <point x="246" y="1152" type="line"/>
+      <point x="1507" y="1152" type="line"/>
+      <point x="1507" y="975" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwacyr" format="2">
+  <advance width="1869"/>
+  <unicode hex="04D8"/>
+  <outline>
+    <contour>
+      <point x="127" y="745" type="line"/>
+      <point x="86" y="779" type="line"/>
+      <point x="938" y="774" type="line"/>
+      <point x="1731" y="778" type="line"/>
+      <point x="1731" y="745" type="line"/>
+      <point x="938" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="1489" type="line"/>
+      <point x="217" y="1489" type="line"/>
+      <point x="260" y="1350" type="line"/>
+      <point x="328" y="1408"/>
+      <point x="659" y="1518"/>
+      <point x="901" y="1518" type="qcurve" smooth="yes"/>
+      <point x="1272" y="1518"/>
+      <point x="1785" y="1095"/>
+      <point x="1785" y="761" type="qcurve" smooth="yes"/>
+      <point x="1785" y="413"/>
+      <point x="1310" y="-29"/>
+      <point x="932" y="-29" type="qcurve" smooth="yes"/>
+      <point x="570" y="-29"/>
+      <point x="85" y="394"/>
+      <point x="85" y="738" type="qcurve" smooth="yes"/>
+      <point x="85" y="748"/>
+      <point x="85" y="767"/>
+      <point x="86" y="779" type="qcurve"/>
+      <point x="196" y="772" type="line"/>
+      <point x="196" y="767"/>
+      <point x="196" y="762"/>
+      <point x="196" y="754" type="qcurve" smooth="yes"/>
+      <point x="196" y="397"/>
+      <point x="613" y="-8"/>
+      <point x="938" y="-8" type="qcurve" smooth="yes"/>
+      <point x="1273" y="-8"/>
+      <point x="1671" y="371"/>
+      <point x="1671" y="747" type="qcurve" smooth="yes"/>
+      <point x="1671" y="1098"/>
+      <point x="1234" y="1495"/>
+      <point x="895" y="1495" type="qcurve" smooth="yes"/>
+      <point x="620" y="1495"/>
+      <point x="302" y="1324"/>
+      <point x="256" y="1194" type="qcurve" smooth="yes"/>
+      <point x="215" y="1044" type="line"/>
+      <point x="189" y="1044" type="line"/>
+    </contour>
+  </outline>
+</glyph>

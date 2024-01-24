@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="704"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="147" y="738" type="qcurve" smooth="yes"/>
+      <point x="147" y="820"/>
+      <point x="262" y="940"/>
+      <point x="352" y="940" type="qcurve" smooth="yes"/>
+      <point x="442" y="940"/>
+      <point x="557" y="820"/>
+      <point x="557" y="738" type="qcurve" smooth="yes"/>
+      <point x="557" y="656"/>
+      <point x="442" y="536"/>
+      <point x="352" y="536" type="qcurve" smooth="yes"/>
+      <point x="262" y="536"/>
+      <point x="147" y="656"/>
+    </contour>
+  </outline>
+</glyph>

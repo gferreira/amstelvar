@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarcyr" format="2">
+  <advance width="1602"/>
+  <unicode hex="04E9"/>
+  <outline>
+    <contour>
+      <point x="93" y="500" type="qcurve" smooth="yes"/>
+      <point x="93" y="725"/>
+      <point x="490" y="1028"/>
+      <point x="798" y="1028" type="qcurve" smooth="yes"/>
+      <point x="1110" y="1028"/>
+      <point x="1509" y="737"/>
+      <point x="1509" y="506" type="qcurve" smooth="yes"/>
+      <point x="1509" y="283"/>
+      <point x="1115" y="-31"/>
+      <point x="806" y="-31" type="qcurve" smooth="yes"/>
+      <point x="497" y="-31"/>
+      <point x="93" y="267"/>
+    </contour>
+    <contour>
+      <point x="206" y="522" type="qcurve" smooth="yes"/>
+      <point x="207" y="324"/>
+      <point x="535" y="46"/>
+      <point x="799" y="46" type="qcurve" smooth="yes"/>
+      <point x="1069" y="46"/>
+      <point x="1394" y="300"/>
+      <point x="1394" y="507" type="qcurve" smooth="yes"/>
+      <point x="1394" y="697"/>
+      <point x="1067" y="944"/>
+      <point x="802" y="944" type="qcurve" smooth="yes"/>
+      <point x="522" y="944"/>
+      <point x="205" y="712"/>
+    </contour>
+    <contour>
+      <point x="150" y="548" type="line"/>
+      <point x="798" y="545" type="line"/>
+      <point x="1447" y="548" type="line"/>
+      <point x="1447" y="474" type="line"/>
+      <point x="798" y="476" type="line"/>
+      <point x="150" y="474" type="line"/>
+    </contour>
+  </outline>
+</glyph>

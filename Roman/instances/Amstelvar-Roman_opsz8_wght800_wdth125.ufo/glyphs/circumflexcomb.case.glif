@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="1500" name="_top"/>
+  <anchor x="512" y="2200" name="top"/>
+  <outline>
+    <contour>
+      <point x="512" y="2200" type="qcurve" smooth="yes"/>
+      <point x="555" y="2200"/>
+      <point x="652" y="2137"/>
+      <point x="723" y="2075" type="qcurve" smooth="yes"/>
+      <point x="998" y="1834" type="line"/>
+      <point x="869" y="1700" type="line"/>
+      <point x="512" y="1921" type="line"/>
+      <point x="153" y="1698" type="line"/>
+      <point x="27" y="1834" type="line"/>
+      <point x="302" y="2074" type="line" smooth="yes"/>
+      <point x="377" y="2139"/>
+      <point x="469" y="2200"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
+</glyph>

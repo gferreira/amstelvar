@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpha" format="2">
+  <advance width="1801"/>
+  <unicode hex="03B1"/>
+  <anchor x="662" y="923" name="GRKtop"/>
+  <outline>
+    <contour>
+      <point x="655" y="-27" type="qcurve" smooth="yes"/>
+      <point x="385" y="-27"/>
+      <point x="75" y="239"/>
+      <point x="75" y="452" type="qcurve" smooth="yes"/>
+      <point x="75" y="683"/>
+      <point x="400" y="951"/>
+      <point x="662" y="951" type="qcurve" smooth="yes"/>
+      <point x="917" y="951"/>
+      <point x="1236" y="704"/>
+      <point x="1316" y="467" type="qcurve"/>
+      <point x="1332" y="467" type="line"/>
+      <point x="1434" y="161"/>
+      <point x="1516" y="45"/>
+      <point x="1646" y="45" type="qcurve" smooth="yes"/>
+      <point x="1750" y="45" type="line"/>
+      <point x="1750" y="29" type="line"/>
+      <point x="1560" y="-8" type="line"/>
+      <point x="1443" y="-6"/>
+      <point x="1347" y="139"/>
+      <point x="1270" y="397" type="qcurve"/>
+      <point x="1264" y="397" type="line"/>
+      <point x="1141" y="764"/>
+      <point x="846" y="930"/>
+      <point x="670" y="930" type="qcurve" smooth="yes"/>
+      <point x="422" y="930"/>
+      <point x="174" y="694"/>
+      <point x="174" y="453" type="qcurve" smooth="yes"/>
+      <point x="174" y="191"/>
+      <point x="457" y="-9"/>
+      <point x="642" y="-9" type="qcurve" smooth="yes"/>
+      <point x="855" y="-9"/>
+      <point x="1123" y="186"/>
+      <point x="1287" y="471" type="qcurve"/>
+      <point x="1300" y="471" type="line"/>
+      <point x="1578" y="918" type="line"/>
+      <point x="1664" y="924" type="line"/>
+      <point x="1673" y="914" type="line"/>
+      <point x="1326" y="382" type="line"/>
+      <point x="1311" y="382" type="line"/>
+      <point x="1178" y="162"/>
+      <point x="846" y="-27"/>
+    </contour>
+  </outline>
+</glyph>

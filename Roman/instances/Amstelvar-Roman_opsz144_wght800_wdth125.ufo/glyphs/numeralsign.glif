@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numeralsign" format="2">
+  <advance width="584"/>
+  <unicode hex="0374"/>
+  <outline>
+    <contour>
+      <point x="154" y="916" type="line"/>
+      <point x="113" y="931" type="line"/>
+      <point x="238" y="1501" type="line"/>
+      <point x="437" y="1450" type="line"/>
+      <point x="474" y="1415" type="line"/>
+    </contour>
+  </outline>
+</glyph>

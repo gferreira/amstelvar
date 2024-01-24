@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender" format="2">
+  <advance width="2052"/>
+  <unicode hex="04A2"/>
+  <outline>
+    <contour>
+      <point x="1613" y="784" type="line"/>
+      <point x="1611" y="1442" type="line"/>
+      <point x="1386" y="1476" type="line"/>
+      <point x="1386" y="1500" type="line"/>
+      <point x="1931" y="1500" type="line"/>
+      <point x="1931" y="1476" type="line"/>
+      <point x="1710" y="1442" type="line"/>
+      <point x="1708" y="782" type="line"/>
+      <point x="1710" y="31" type="line"/>
+      <point x="1952" y="31" type="line"/>
+      <point x="1970" y="-338" type="line"/>
+      <point x="1943" y="-338" type="line"/>
+      <point x="1840" y="0" type="line"/>
+      <point x="1386" y="0" type="line"/>
+      <point x="1386" y="20" type="line"/>
+      <point x="1611" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="0" type="line"/>
+      <point x="113" y="20" type="line"/>
+      <point x="334" y="55" type="line"/>
+      <point x="336" y="782" type="line"/>
+      <point x="334" y="1442" type="line"/>
+      <point x="113" y="1477" type="line"/>
+      <point x="113" y="1500" type="line"/>
+      <point x="658" y="1500" type="line"/>
+      <point x="658" y="1476" type="line"/>
+      <point x="433" y="1442" type="line"/>
+      <point x="431" y="782" type="line"/>
+      <point x="433" y="55" type="line"/>
+      <point x="658" y="20" type="line"/>
+      <point x="658" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="386" y="769" type="line"/>
+      <point x="386" y="801" type="line"/>
+      <point x="990" y="798" type="line"/>
+      <point x="1655" y="801" type="line"/>
+      <point x="1655" y="769" type="line"/>
+      <point x="990" y="770" type="line"/>
+    </contour>
+  </outline>
+</glyph>

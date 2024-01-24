@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi" format="2">
+  <advance width="1490"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="1421" y="758" type="line"/>
+      <point x="21" y="798" type="line"/>
+      <point x="21" y="978" type="line"/>
+      <point x="223" y="1045" type="line"/>
+      <point x="1426" y="1089" type="line"/>
+      <point x="1460" y="1061" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="line"/>
+      <point x="146" y="26" type="line"/>
+      <point x="245" y="556" type="line"/>
+      <point x="304" y="907" type="line"/>
+      <point x="570" y="907" type="line"/>
+      <point x="560" y="544" type="line"/>
+      <point x="555" y="28" type="line"/>
+    </contour>
+    <contour>
+      <point x="1117" y="-13" type="line"/>
+      <point x="962" y="-13"/>
+      <point x="820" y="117"/>
+      <point x="828" y="234" type="qcurve" smooth="yes"/>
+      <point x="877" y="962" type="line"/>
+      <point x="1173" y="962" type="line"/>
+      <point x="1201" y="330" type="line" smooth="yes"/>
+      <point x="1204" y="263"/>
+      <point x="1258" y="205"/>
+      <point x="1312" y="205" type="qcurve"/>
+      <point x="1417" y="205" type="line"/>
+      <point x="1417" y="31" type="line"/>
+    </contour>
+  </outline>
+</glyph>

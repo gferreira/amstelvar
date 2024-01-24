@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="1500" name="_top"/>
+  <anchor x="512" y="2080" name="top"/>
+  <outline>
+    <contour>
+      <point x="287" y="2004" type="qcurve" smooth="yes"/>
+      <point x="288" y="2037"/>
+      <point x="346" y="2080"/>
+      <point x="380" y="2080" type="qcurve" smooth="yes"/>
+      <point x="416" y="2080"/>
+      <point x="494" y="2018"/>
+      <point x="528" y="1982" type="qcurve" smooth="yes"/>
+      <point x="735" y="1759" type="line"/>
+      <point x="665" y="1684" type="line"/>
+      <point x="365" y="1887" type="line" smooth="yes"/>
+      <point x="324" y="1914"/>
+      <point x="285" y="1959"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
+</glyph>

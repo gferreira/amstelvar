@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonoscomb" format="2">
+  <advance width="820"/>
+  <anchor x="282" y="961" name="_GRKtop"/>
+  <outline>
+    <component base="tonos" xOffset="-29"/>
+  </outline>
+</glyph>

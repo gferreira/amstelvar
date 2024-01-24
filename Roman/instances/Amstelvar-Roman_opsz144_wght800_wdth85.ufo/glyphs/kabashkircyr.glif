@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkircyr" format="2">
+  <advance width="1340"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <contour>
+      <point x="725" y="474" type="line"/>
+      <point x="977" y="727" type="line"/>
+      <point x="1302" y="81" type="line"/>
+      <point x="1379" y="46" type="line"/>
+      <point x="1379" y="0" type="line"/>
+      <point x="896" y="0" type="line"/>
+      <point x="893" y="36" type="line"/>
+      <point x="913" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="509" type="line"/>
+      <point x="732" y="507" type="line"/>
+      <point x="1065" y="871" type="line"/>
+      <point x="957" y="901" type="line"/>
+      <point x="957" y="953" type="line"/>
+      <point x="1282" y="953" type="line"/>
+      <point x="1282" y="901" type="line"/>
+      <point x="1154" y="871" type="line"/>
+      <point x="749" y="454" type="line"/>
+      <point x="503" y="452" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="901" type="line"/>
+      <point x="188" y="901" type="line"/>
+      <point x="67" y="635" type="line"/>
+      <point x="14" y="635" type="line"/>
+      <point x="21" y="953" type="line"/>
+      <point x="770" y="953" type="line"/>
+      <point x="770" y="908" type="line"/>
+      <point x="684" y="874" type="line"/>
+      <point x="681" y="482" type="line"/>
+      <point x="684" y="79" type="line"/>
+      <point x="768" y="46" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="221" y="46" type="line"/>
+      <point x="324" y="79" type="line"/>
+      <point x="326" y="482" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma" format="2">
+  <advance width="1445"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="583" y="-476" type="line"/>
+      <point x="546" y="-448" type="line"/>
+      <point x="589" y="213" type="line"/>
+      <point x="844" y="213" type="line"/>
+      <point x="971" y="668" type="line"/>
+      <point x="1079" y="1069" type="line"/>
+      <point x="1423" y="1094" type="line"/>
+      <point x="1457" y="1065" type="line"/>
+      <point x="1210" y="548" type="line"/>
+      <point x="901" y="-100" type="line"/>
+      <point x="604" y="-101" type="line"/>
+      <point x="353" y="461" type="line"/>
+      <point x="212" y="765" type="line" smooth="yes"/>
+      <point x="190" y="817"/>
+      <point x="155" y="847"/>
+      <point x="100" y="858" type="qcurve" smooth="yes"/>
+      <point x="13" y="874" type="line"/>
+      <point x="13" y="1055" type="line"/>
+      <point x="424" y="1086" type="line"/>
+      <point x="506" y="1085"/>
+      <point x="597" y="1008"/>
+      <point x="623" y="931" type="qcurve" smooth="yes"/>
+      <point x="721" y="650" type="line"/>
+      <point x="907" y="132" type="line"/>
+      <point x="912" y="132" type="line"/>
+      <point x="982" y="-445" type="line"/>
+    </contour>
+  </outline>
+</glyph>

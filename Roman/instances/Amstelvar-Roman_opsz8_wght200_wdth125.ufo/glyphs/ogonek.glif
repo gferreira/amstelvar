@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="1024"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="446" y="-237" type="qcurve" smooth="yes"/>
+      <point x="446" y="-287"/>
+      <point x="524" y="-352"/>
+      <point x="598" y="-352" type="qcurve" smooth="yes"/>
+      <point x="666" y="-352"/>
+      <point x="801" y="-298"/>
+      <point x="855" y="-255" type="qcurve"/>
+      <point x="911" y="-327" type="line"/>
+      <point x="854" y="-382"/>
+      <point x="671" y="-460"/>
+      <point x="571" y="-460" type="qcurve" smooth="yes"/>
+      <point x="460" y="-460"/>
+      <point x="312" y="-363"/>
+      <point x="312" y="-279" type="qcurve" smooth="yes"/>
+      <point x="312" y="-192"/>
+      <point x="465" y="-40"/>
+      <point x="559" y="19" type="qcurve" smooth="yes"/>
+      <point x="589" y="37" type="line"/>
+      <point x="652" y="0" type="line"/>
+      <point x="629" y="-14" type="line" smooth="yes"/>
+      <point x="548" y="-67"/>
+      <point x="446" y="-183"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
+</glyph>

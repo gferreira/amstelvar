@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarl" format="2">
+  <advance width="667"/>
+  <outline>
+    <contour>
+      <point x="316" y="768" type="line"/>
+      <point x="595" y="958" type="line"/>
+      <point x="616" y="920" type="line"/>
+      <point x="339" y="742" type="line"/>
+      <point x="75" y="563" type="line"/>
+      <point x="52" y="603" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbar" format="2">
+  <advance width="774"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="338" y="752" type="line"/>
+      <point x="72" y="752" type="line"/>
+      <point x="77" y="789" type="line"/>
+      <point x="339" y="789" type="line"/>
+      <point x="632" y="789" type="line"/>
+      <point x="631" y="752" type="line"/>
+    </contour>
+  </outline>
+</glyph>

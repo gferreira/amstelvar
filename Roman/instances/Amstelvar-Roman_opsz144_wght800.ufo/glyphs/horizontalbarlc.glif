@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbarlc" format="2">
+  <advance width="1047"/>
+  <outline>
+    <contour>
+      <point x="447" y="705" type="line"/>
+      <point x="50" y="705" type="line"/>
+      <point x="55" y="768" type="line"/>
+      <point x="448" y="768" type="line"/>
+      <point x="825" y="768" type="line"/>
+      <point x="827" y="705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

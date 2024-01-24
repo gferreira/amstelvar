@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe.bgr" format="2">
+  <advance width="2521"/>
+  <outline>
+    <contour>
+      <point x="865" y="0" type="line"/>
+      <point x="865" y="170" type="line"/>
+      <point x="1032" y="205" type="line"/>
+      <point x="1034" y="754" type="line"/>
+      <point x="1032" y="1282" type="line"/>
+      <point x="837" y="1316" type="line"/>
+      <point x="837" y="1500" type="line"/>
+      <point x="1663" y="1500" type="line"/>
+      <point x="1663" y="1316" type="line"/>
+      <point x="1470" y="1282" type="line"/>
+      <point x="1468" y="754" type="line"/>
+      <point x="1470" y="205" type="line"/>
+      <point x="1636" y="170" type="line"/>
+      <point x="1636" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1251" y="299" type="line"/>
+      <point x="1251" y="535" type="line"/>
+      <point x="1966" y="1289" type="line"/>
+      <point x="1836" y="1317" type="line"/>
+      <point x="1836" y="1500" type="line"/>
+      <point x="2399" y="1500" type="line"/>
+      <point x="2399" y="1317" type="line"/>
+      <point x="2202" y="1279" type="line"/>
+      <point x="1785" y="853" type="line"/>
+      <point x="1744" y="812" type="line"/>
+    </contour>
+    <contour>
+      <point x="1575" y="764" type="line"/>
+      <point x="1875" y="1064" type="line"/>
+      <point x="2372" y="205" type="line"/>
+      <point x="2533" y="170" type="line"/>
+      <point x="2533" y="0" type="line"/>
+      <point x="1780" y="0" type="line"/>
+      <point x="1780" y="170" type="line"/>
+      <point x="1902" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="1251" y="292" type="line"/>
+      <point x="754" y="806" type="line"/>
+      <point x="684" y="853" type="line"/>
+      <point x="267" y="1279" type="line"/>
+      <point x="76" y="1317" type="line"/>
+      <point x="76" y="1500" type="line"/>
+      <point x="665" y="1500" type="line"/>
+      <point x="665" y="1317" type="line"/>
+      <point x="535" y="1289" type="line"/>
+      <point x="1251" y="535" type="line"/>
+    </contour>
+    <contour>
+      <point x="926" y="764" type="line"/>
+      <point x="599" y="205" type="line"/>
+      <point x="721" y="170" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="-11" y="0" type="line"/>
+      <point x="-11" y="170" type="line"/>
+      <point x="163" y="205" type="line"/>
+      <point x="660" y="1064" type="line"/>
+    </contour>
+  </outline>
+</glyph>

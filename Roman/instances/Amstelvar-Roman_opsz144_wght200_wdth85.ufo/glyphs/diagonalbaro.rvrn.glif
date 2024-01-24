@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbaro.rvrn" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="16" y="-106" type="line"/>
+      <point x="77" y="75" type="line"/>
+      <point x="77" y="75" type="line"/>
+      <point x="79" y="83" type="line"/>
+      <point x="102" y="71" type="line"/>
+      <point x="99" y="65" type="line"/>
+      <point x="99" y="65" type="line"/>
+      <point x="43" y="-109" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="1125" type="line"/>
+      <point x="450" y="1124" type="line"/>
+      <point x="388" y="942" type="line"/>
+      <point x="388" y="942" type="line"/>
+      <point x="385" y="933" type="line"/>
+      <point x="361" y="944" type="line"/>
+      <point x="363" y="950" type="line"/>
+      <point x="363" y="950" type="line"/>
+    </contour>
+  </outline>
+</glyph>

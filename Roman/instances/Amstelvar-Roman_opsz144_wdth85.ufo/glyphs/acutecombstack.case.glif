@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecombstack.case" format="2">
+  <advance width="986"/>
+  <anchor x="493" y="1500" name="_top"/>
+  <anchor x="493" y="1975" name="top"/>
+  <outline>
+    <contour>
+      <point x="625" y="1912" type="qcurve" smooth="yes"/>
+      <point x="626" y="1880"/>
+      <point x="537" y="1798"/>
+      <point x="516" y="1781" type="qcurve" smooth="yes"/>
+      <point x="317" y="1596" type="line"/>
+      <point x="298" y="1613" type="line"/>
+      <point x="422" y="1831" type="line" smooth="yes"/>
+      <point x="451" y="1876"/>
+      <point x="521" y="1971"/>
+      <point x="556" y="1973" type="qcurve" smooth="yes"/>
+      <point x="589" y="1975"/>
+      <point x="625" y="1933"/>
+    </contour>
+  </outline>
+</glyph>

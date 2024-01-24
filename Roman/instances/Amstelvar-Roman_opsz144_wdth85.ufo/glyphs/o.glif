@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="928"/>
+  <unicode hex="006F"/>
+  <anchor x="464" y="0" name="bottom"/>
+  <anchor x="464" y="460" name="center"/>
+  <anchor x="595" y="0" name="ogonek"/>
+  <anchor x="464" y="920" name="top"/>
+  <anchor x="602" y="920" name="topright"/>
+  <outline>
+    <contour>
+      <point x="44" y="460" type="qcurve" smooth="yes"/>
+      <point x="44" y="676"/>
+      <point x="277" y="941"/>
+      <point x="463" y="941" type="qcurve" smooth="yes"/>
+      <point x="649" y="941"/>
+      <point x="884" y="682"/>
+      <point x="884" y="466" type="qcurve" smooth="yes"/>
+      <point x="884" y="249"/>
+      <point x="654" y="-18"/>
+      <point x="466" y="-18" type="qcurve" smooth="yes"/>
+      <point x="278" y="-18"/>
+      <point x="44" y="233"/>
+    </contour>
+    <contour>
+      <point x="207" y="479" type="qcurve" smooth="yes"/>
+      <point x="207" y="232"/>
+      <point x="349" y="8"/>
+      <point x="462" y="8" type="qcurve" smooth="yes"/>
+      <point x="582" y="8"/>
+      <point x="724" y="203"/>
+      <point x="723" y="461" type="qcurve" smooth="yes"/>
+      <point x="723" y="704"/>
+      <point x="575" y="913"/>
+      <point x="464" y="913" type="qcurve" smooth="yes"/>
+      <point x="343" y="913"/>
+      <point x="207" y="714"/>
+    </contour>
+  </outline>
+</glyph>

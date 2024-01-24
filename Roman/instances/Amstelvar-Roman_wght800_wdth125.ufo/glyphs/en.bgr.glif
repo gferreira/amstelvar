@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="en.bgr" format="2">
+  <advance width="2102"/>
+  <outline>
+    <contour>
+      <point x="480" y="599" type="line"/>
+      <point x="1018" y="596" type="line"/>
+      <point x="1628" y="599" type="line"/>
+      <point x="1628" y="457" type="line"/>
+      <point x="1018" y="459" type="line"/>
+      <point x="480" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="111" type="line"/>
+      <point x="288" y="146" type="line"/>
+      <point x="290" y="517" type="line"/>
+      <point x="286" y="852" type="line"/>
+      <point x="83" y="882" type="line"/>
+      <point x="83" y="1002" type="line"/>
+      <point x="551" y="1035" type="line"/>
+      <point x="630" y="1035" type="line"/>
+      <point x="677" y="990" type="line"/>
+      <point x="670" y="517" type="line"/>
+      <point x="673" y="146" type="line"/>
+      <point x="857" y="111" type="line"/>
+      <point x="857" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1245" y="0" type="line"/>
+      <point x="1245" y="111" type="line"/>
+      <point x="1429" y="146" type="line"/>
+      <point x="1432" y="517" type="line"/>
+      <point x="1429" y="852" type="line"/>
+      <point x="1223" y="882" type="line"/>
+      <point x="1223" y="1002" type="line"/>
+      <point x="1693" y="1035" type="line"/>
+      <point x="1772" y="1035" type="line"/>
+      <point x="1819" y="990" type="line"/>
+      <point x="1812" y="517" type="line"/>
+      <point x="1814" y="146" type="line"/>
+      <point x="2012" y="111" type="line"/>
+      <point x="2012" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

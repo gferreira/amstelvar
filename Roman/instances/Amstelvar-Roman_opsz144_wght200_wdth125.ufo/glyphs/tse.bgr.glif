@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse.bgr" format="2">
+  <advance width="1675"/>
+  <outline>
+    <contour>
+      <point x="1447" y="5" type="line"/>
+      <point x="1314" y="-4" type="line"/>
+      <point x="1284" y="20" type="line"/>
+      <point x="1272" y="164" type="line"/>
+      <point x="1192" y="92"/>
+      <point x="887" y="-13"/>
+      <point x="715" y="-13" type="qcurve" smooth="yes"/>
+      <point x="511" y="-13"/>
+      <point x="271" y="163"/>
+      <point x="271" y="314" type="qcurve" smooth="yes"/>
+      <point x="271" y="398"/>
+      <point x="273" y="498"/>
+      <point x="273" y="513" type="qcurve" smooth="yes"/>
+      <point x="269" y="858" type="line"/>
+      <point x="63" y="885" type="line"/>
+      <point x="63" y="904" type="line"/>
+      <point x="315" y="923" type="line"/>
+      <point x="353" y="923" type="line"/>
+      <point x="363" y="890" type="line"/>
+      <point x="361" y="513" type="line"/>
+      <point x="361" y="347" type="line" smooth="yes"/>
+      <point x="361" y="166"/>
+      <point x="573" y="19"/>
+      <point x="749" y="19" type="qcurve" smooth="yes"/>
+      <point x="879" y="19"/>
+      <point x="1184" y="114"/>
+      <point x="1271" y="193" type="qcurve"/>
+      <point x="1274" y="465" type="line"/>
+      <point x="1272" y="861" type="line"/>
+      <point x="1059" y="886" type="line"/>
+      <point x="1059" y="904" type="line"/>
+      <point x="1308" y="923" type="line"/>
+      <point x="1341" y="919" type="line"/>
+      <point x="1365" y="889" type="line"/>
+      <point x="1362" y="465" type="line"/>
+      <point x="1367" y="27" type="line"/>
+      <point x="1554" y="27" type="line"/>
+      <point x="1568" y="-318" type="line"/>
+      <point x="1542" y="-318" type="line"/>
+    </contour>
+  </outline>
+</glyph>

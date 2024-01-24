@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="0" name="_bottom"/>
+  <anchor x="512" y="-568" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="552" y="0" type="line"/>
+      <point x="505" y="-115" type="line"/>
+      <point x="522" y="-110"/>
+      <point x="570" y="-105"/>
+      <point x="598" y="-105" type="qcurve" smooth="yes"/>
+      <point x="703" y="-105"/>
+      <point x="869" y="-216"/>
+      <point x="869" y="-332" type="qcurve" smooth="yes"/>
+      <point x="869" y="-438"/>
+      <point x="677" y="-568"/>
+      <point x="517" y="-568" type="qcurve" smooth="yes"/>
+      <point x="433" y="-568"/>
+      <point x="261" y="-525"/>
+      <point x="196" y="-495" type="qcurve"/>
+      <point x="253" y="-369" type="line"/>
+      <point x="304" y="-392"/>
+      <point x="423" y="-415"/>
+      <point x="500" y="-415" type="qcurve" smooth="yes"/>
+      <point x="558" y="-415"/>
+      <point x="634" y="-375"/>
+      <point x="634" y="-326" type="qcurve" smooth="yes"/>
+      <point x="634" y="-286"/>
+      <point x="571" y="-243"/>
+      <point x="526" y="-243" type="qcurve" smooth="yes"/>
+      <point x="502" y="-243"/>
+      <point x="448" y="-254"/>
+      <point x="426" y="-264" type="qcurve"/>
+      <point x="333" y="-166" type="line"/>
+      <point x="399" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9908,1,0.037,1</string>
+    </dict>
+  </lib>
+</glyph>

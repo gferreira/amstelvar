@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaisymbol" format="2">
+  <advance width="1139"/>
+  <unicode hex="03D7"/>
+  <outline>
+    <component base="kappa" xScale="1.0759339394133334" yScale="1.0276066800466668" yOffset="-8"/>
+    <component base="kai-tail"/>
+  </outline>
+</glyph>

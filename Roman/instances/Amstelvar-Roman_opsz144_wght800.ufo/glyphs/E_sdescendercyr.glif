@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esdescendercyr" format="2">
+  <advance width="1325"/>
+  <unicode hex="04AA"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedillacomb.case" xOffset="283" yOffset="-30"/>
+  </outline>
+</glyph>

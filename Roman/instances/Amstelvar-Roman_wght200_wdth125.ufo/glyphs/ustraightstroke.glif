@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraightstroke" format="2">
+  <advance width="1591"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="397" y="-75" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="1200" y="0" type="line"/>
+      <point x="1200" y="-75" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="934" type="line"/>
+      <point x="5" y="1000" type="line"/>
+      <point x="547" y="1000" type="line"/>
+      <point x="547" y="934" type="line"/>
+      <point x="332" y="906" type="line"/>
+      <point x="555" y="522" type="line"/>
+      <point x="808" y="92" type="line"/>
+      <point x="1066" y="538" type="line"/>
+      <point x="1271" y="909" type="line"/>
+      <point x="1051" y="934" type="line"/>
+      <point x="1051" y="1000" type="line"/>
+      <point x="1586" y="1000" type="line"/>
+      <point x="1586" y="934" type="line"/>
+      <point x="1380" y="907" type="line"/>
+      <point x="1142" y="504" type="line"/>
+      <point x="854" y="0" type="line"/>
+      <point x="855" y="-392" type="line"/>
+      <point x="1075" y="-421" type="line"/>
+      <point x="1075" y="-480" type="line"/>
+      <point x="516" y="-480" type="line"/>
+      <point x="516" y="-421" type="line"/>
+      <point x="741" y="-393" type="line"/>
+      <point x="742" y="0" type="line"/>
+      <point x="467" y="470" type="line"/>
+      <point x="206" y="906" type="line"/>
+    </contour>
+  </outline>
+</glyph>

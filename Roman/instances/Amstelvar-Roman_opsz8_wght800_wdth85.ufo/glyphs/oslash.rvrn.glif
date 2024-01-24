@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.rvrn" format="2">
+  <advance width="1390"/>
+  <anchor x="695" y="1083" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="diagonalbaro.rvrn" xOffset="428" yOffset="6"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el.bgr" format="2">
+  <advance width="820"/>
+  <outline>
+    <contour>
+      <point x="858" y="17" type="line"/>
+      <point x="858" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="17" type="line"/>
+      <point x="637" y="45" type="line"/>
+      <point x="520" y="430" type="line"/>
+      <point x="390" y="850" type="line"/>
+      <point x="255" y="420" type="line"/>
+      <point x="143" y="47" type="line"/>
+      <point x="298" y="17" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="-41" y="0" type="line"/>
+      <point x="-41" y="17" type="line"/>
+      <point x="121" y="48" type="line"/>
+      <point x="237" y="426" type="line"/>
+      <point x="388" y="925" type="line"/>
+      <point x="454" y="925" type="line"/>
+      <point x="598" y="459" type="line"/>
+      <point x="729" y="45" type="line"/>
+    </contour>
+  </outline>
+</glyph>

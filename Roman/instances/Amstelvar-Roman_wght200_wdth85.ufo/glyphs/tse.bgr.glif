@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse.bgr" format="2">
+  <advance width="1135"/>
+  <outline>
+    <contour>
+      <point x="952" y="1" type="line"/>
+      <point x="854" y="-1" type="line"/>
+      <point x="829" y="22" type="line"/>
+      <point x="812" y="160" type="line"/>
+      <point x="765" y="85"/>
+      <point x="577" y="-16"/>
+      <point x="474" y="-16" type="qcurve" smooth="yes"/>
+      <point x="344" y="-16"/>
+      <point x="200" y="115"/>
+      <point x="200" y="244" type="qcurve" smooth="yes"/>
+      <point x="200" y="316"/>
+      <point x="203" y="463"/>
+      <point x="203" y="473" type="qcurve" smooth="yes"/>
+      <point x="200" y="890" type="line"/>
+      <point x="40" y="913" type="line"/>
+      <point x="40" y="979" type="line"/>
+      <point x="273" y="1000" type="line"/>
+      <point x="295" y="996" type="line"/>
+      <point x="306" y="967" type="line"/>
+      <point x="304" y="473" type="line"/>
+      <point x="306" y="274" type="line" smooth="yes"/>
+      <point x="307" y="173"/>
+      <point x="413" y="80"/>
+      <point x="505" y="80" type="qcurve" smooth="yes"/>
+      <point x="594" y="80"/>
+      <point x="763" y="167"/>
+      <point x="811" y="251" type="qcurve"/>
+      <point x="811" y="473" type="line"/>
+      <point x="809" y="891" type="line"/>
+      <point x="662" y="914" type="line"/>
+      <point x="662" y="979" type="line"/>
+      <point x="884" y="1000" type="line"/>
+      <point x="904" y="996" type="line"/>
+      <point x="915" y="966" type="line"/>
+      <point x="913" y="473" type="line"/>
+      <point x="915" y="72" type="line"/>
+      <point x="1070" y="72" type="line"/>
+      <point x="1080" y="-318" type="line"/>
+      <point x="1016" y="-318" type="line"/>
+    </contour>
+  </outline>
+</glyph>

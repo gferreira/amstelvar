@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexhookabovecomb.case" format="2">
+  <advance width="1024"/>
+  <anchor x="512" y="1500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="512" y="2092" type="qcurve" smooth="yes"/>
+      <point x="553" y="2092"/>
+      <point x="638" y="2040"/>
+      <point x="698" y="1986" type="qcurve" smooth="yes"/>
+      <point x="897" y="1806" type="line"/>
+      <point x="787" y="1697" type="line"/>
+      <point x="513" y="1866" type="line"/>
+      <point x="240" y="1697" type="line"/>
+      <point x="131" y="1806" type="line"/>
+      <point x="327" y="1986" type="line" smooth="yes"/>
+      <point x="386" y="2040"/>
+      <point x="470" y="2092"/>
+    </contour>
+    <contour>
+      <point x="871" y="2017" type="line"/>
+      <point x="871" y="2148" type="line"/>
+      <point x="954" y="2239" type="line"/>
+      <point x="969" y="2233"/>
+      <point x="1006" y="2226"/>
+      <point x="1026" y="2226" type="qcurve" smooth="yes"/>
+      <point x="1070" y="2226"/>
+      <point x="1111" y="2260"/>
+      <point x="1111" y="2297" type="qcurve" smooth="yes"/>
+      <point x="1111" y="2331"/>
+      <point x="1049" y="2358"/>
+      <point x="1006" y="2358" type="qcurve" smooth="yes"/>
+      <point x="947" y="2357"/>
+      <point x="834" y="2330"/>
+      <point x="796" y="2314" type="qcurve"/>
+      <point x="739" y="2453" type="line"/>
+      <point x="806" y="2492"/>
+      <point x="955" y="2528"/>
+      <point x="1033" y="2528" type="qcurve" smooth="yes"/>
+      <point x="1168" y="2528"/>
+      <point x="1319" y="2412"/>
+      <point x="1319" y="2308" type="qcurve" smooth="yes"/>
+      <point x="1319" y="2197"/>
+      <point x="1192" y="2092"/>
+      <point x="1106" y="2092" type="qcurve" smooth="yes"/>
+      <point x="1079" y="2092"/>
+      <point x="1044" y="2096"/>
+      <point x="1029" y="2098" type="qcurve"/>
+      <point x="1029" y="2017" type="line"/>
+    </contour>
+  </outline>
+</glyph>
