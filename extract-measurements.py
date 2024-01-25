@@ -45,12 +45,6 @@ sources = {}
 for ufoPath in sorted(ufos):
     fontName = os.path.splitext(os.path.split(ufoPath)[-1])[0]
     styleName = '_'.join(fontName.split('_')[1:])
-    # # don't include the default
-    # if styleName == 'wght400':
-    #     continue
-    # ignore GRAD sources
-    # if 'GRAD' in styleName:
-    #     continue
     f = OpenFont(ufoPath, showInterface=False)
     M = FontMeasurements()
     M.read(measurementsPath)
