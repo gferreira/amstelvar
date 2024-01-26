@@ -102,9 +102,9 @@
     "YOLC": {
       "direction": "y",
       "glyph 1": "f",
-      "point 1": "4",
+      "point 1": "20",
       "glyph 2": "f",
-      "point 2": "7",
+      "point 2": "11",
       "parent": "YOPQ",
       "description": ""
     },
@@ -376,6 +376,15 @@
       "glyph 2": "period",
       "point 2": "3",
       "parent": "XDOT",
+      "description": ""
+    },
+    "YTOS": {
+      "direction": "y",
+      "glyph 1": "O",
+      "point 1": "C",
+      "glyph 2": "O",
+      "point 2": "3",
+      "parent": "",
       "description": ""
     }
   },
@@ -1577,14 +1586,6 @@
         "name": "XTUC",
         "direction": "x"
       },
-      "0 -1": {
-        "name": "XUCR",
-        "direction": "x"
-      },
-      "99 6": {
-        "name": "XUCR",
-        "direction": "x"
-      },
       "15 9": {
         "name": "YOUC",
         "direction": "y"
@@ -1596,6 +1597,14 @@
       "3 9": {
         "name": "YTUC",
         "direction": "y"
+      },
+      "0 -1": {
+        "name": "XUCR",
+        "direction": "x"
+      },
+      "99 6": {
+        "name": "XUCR",
+        "direction": "x"
       }
     },
     "P": {
@@ -2017,10 +2026,6 @@
       }
     },
     "c": {
-      "-1 0": {
-        "name": "XLCR",
-        "direction": "x"
-      },
       "0 17": {
         "name": "XOLC",
         "direction": "x"
@@ -2051,6 +2056,10 @@
       },
       "10 9": {
         "name": "XSVL",
+        "direction": "x"
+      },
+      "-1 0": {
+        "name": "XLCR",
         "direction": "x"
       }
     },
