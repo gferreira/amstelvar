@@ -39,4 +39,4 @@ M2.measure(f2)
 for key, value2 in M2.values.items():
     value1 = M1.values.get(key)
     if value2 != value1:
-        print(key, value2, value1)
+        print(key, ':', value2, '(2)', value1, '(1)')

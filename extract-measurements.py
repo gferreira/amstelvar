@@ -6,10 +6,10 @@ from variableValues.measurements import FontMeasurements, permille
 subfamilyName    = ['Roman', 'Italic'][0]
 baseFolder       = os.getcwd()
 sourcesFolder    = os.path.join(baseFolder, subfamilyName)
-instancesFolder  = os.path.join(sourcesFolder, 'instances')
+# instancesFolder  = os.path.join(sourcesFolder, 'instances')
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
-parametricAxes   = 'XOPQ XTRA YOPQ YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS'.split()
+parametricAxes   = 'XOPQ XTRA YOPQ YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP'.split()
 
 assert os.path.exists(sourcesFolder)
 assert os.path.exists(measurementsPath)
@@ -39,7 +39,7 @@ axes = {
 
 # extract measurements from Amstelvar1 instances
 
-ufos = glob.glob(f'{instancesFolder}/*.ufo')
+ufos = [f for f in glob.glob(f'{sourcesFolder}/*.ufo') if 'GRAD' not in f]
 
 sources = {}
 for ufoPath in sorted(ufos):
