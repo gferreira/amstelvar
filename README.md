@@ -3,7 +3,7 @@ Amstelvar
 
 fork of the original Amstelvar, with all unnecessary files removed and a few new ones added
 
-this repository is used to produce the initial blend parameters for [AmstelvarA2](http://github.com/gferreira/amstelvar-avar2)
+this repository is used to produce the initial blend parameters for [AmstelvarA2](http://github.com/gferreira2/amstelvar-avar2)
 
 Steps
 -----
