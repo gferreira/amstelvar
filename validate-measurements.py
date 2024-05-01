@@ -9,7 +9,7 @@ measurements for the default in both projects must be equal!
 import os, glob
 from variableValues.measurements import FontMeasurements
 
-subfamilyName     = ['Roman', 'Italic'][0]
+subfamilyName     = ['Roman', 'Italic'][1]
 defaultName       = 'wght400'
 
 baseFolder1       = os.getcwd()

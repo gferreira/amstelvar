@@ -3,9 +3,9 @@
 import os, glob, json
 from variableValues.measurements import FontMeasurements, permille
 
-subfamilyName    = ['Roman', 'Italic'][0]
+subFamilyName    = ['Roman', 'Italic'][1]
 baseFolder       = os.getcwd()
-sourcesFolder    = os.path.join(baseFolder, subfamilyName)
+sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 # instancesFolder  = os.path.join(sourcesFolder, 'instances')
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
@@ -16,26 +16,49 @@ assert os.path.exists(measurementsPath)
 
 # define blended axes
 
-axes = {
-    "opsz": {
-      "name"    : "Optical size",
-      "default" : 14,
-      "min"     : 8,
-      "max"     : 144,
+_axes = {
+    'Roman' : {
+        "opsz" : {
+          "name"    : "Optical size",
+          "default" : 14,
+          "min"     : 8,
+          "max"     : 144,
+        },
+        "wght" : {
+          "name"    : "Weight",
+          "default" : 400,
+          "min"     : 100,
+          "max"     : 1000,
+        },
+        "wdth": {
+          "name"    : "Width",
+          "default" : 100,
+          "min"     : 50,
+          "max"     : 125,
+        }
     },
-    "wght": {
-      "name"    : "Weight",
-      "default" : 400,
-      "min"     : 100,
-      "max"     : 1000,
+    'Italic' : {
+        "opsz" : {
+          "name"    : "Optical size",
+          "default" : 14,
+          "min"     : 8,
+          "max"     : 144,
+        },
+        "wght" : {
+          "name"    : "Weight",
+          "default" : 400,
+          "min"     : 100,
+          "max"     : 900,
+        },
+        "wdth": {
+          "name"    : "Width",
+          "default" : 100,
+          "min"     : 50,
+          "max"     : 125,
+        }
     },
-    "wdth": {
-      "name"    : "Width",
-      "default" : 100,
-      "min"     : 50,
-      "max"     : 125,
-    }
 }
+axes = _axes[subFamilyName]
 
 # extract measurements from Amstelvar1 instances
 

@@ -20,29 +20,51 @@ class AmstelvarDesignSpaceBuilder:
 
     '''
     familyName      = 'Amstelvar'
-    subFamilyName   = ['Roman', 'Italic'][0]
+    subFamilyName   = ['Roman', 'Italic'][1]
     defaultName     = 'wght400'
     designspaceName = f'{familyName}-{subFamilyName}.designspace'
 
-    axes = {
-        "opsz" : {
-          "name"    : "Optical size",
-          "default" : 14,
-          "min"     : 8,
-          "max"     : 144,
+    _axes = {
+        'Roman' : {
+            "opsz" : {
+              "name"    : "Optical size",
+              "default" : 14,
+              "min"     : 8,
+              "max"     : 144,
+            },
+            "wght" : {
+              "name"    : "Weight",
+              "default" : 400,
+              "min"     : 100,
+              "max"     : 1000,
+            },
+            "wdth": {
+              "name"    : "Width",
+              "default" : 100,
+              "min"     : 50,
+              "max"     : 125,
+            }
         },
-        "wght" : {
-          "name"    : "Weight",
-          "default" : 400,
-          "min"     : 100,
-          "max"     : 1000,
+        'Italic' : {
+            "opsz" : {
+              "name"    : "Optical size",
+              "default" : 14,
+              "min"     : 8,
+              "max"     : 144,
+            },
+            "wght" : {
+              "name"    : "Weight",
+              "default" : 400,
+              "min"     : 100,
+              "max"     : 900,
+            },
+            "wdth": {
+              "name"    : "Width",
+              "default" : 100,
+              "min"     : 50,
+              "max"     : 125,
+            }
         },
-        "wdth": {
-          "name"    : "Width",
-          "default" : 100,
-          "min"     : 50,
-          "max"     : 125,
-        }
     }
 
     instances = [
@@ -94,6 +116,10 @@ class AmstelvarDesignSpaceBuilder:
     @property
     def sources(self):
         return glob.glob(f'{self.sourcesFolder}/*.ufo')
+
+    @property
+    def axes(self):
+        return self._axes[self.subFamilyName]
 
     def addAxes(self):
         for tag in self.axes.keys():
@@ -181,6 +207,6 @@ if __name__ == '__main__':
     D = AmstelvarDesignSpaceBuilder()
     D.build()
     D.save()
-    D.buildInstances()
+    # D.buildInstances()
     
     
