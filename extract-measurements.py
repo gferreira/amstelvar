@@ -1,15 +1,15 @@
 # menuTitle: extract parametric blends from Amstelvar1 extrema
 
 import os, glob, json
-from variableValues.measurements import FontMeasurements, permille
+from xTools4.modules.measurements import FontMeasurements, permille
 
-subFamilyName    = ['Roman', 'Italic'][1]
+subFamilyName    = ['Roman', 'Italic'][0]
 baseFolder       = os.getcwd()
 sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 # instancesFolder  = os.path.join(sourcesFolder, 'instances')
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
-parametricAxes   = 'XOPQ XTRA YOPQ YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP'.split()
+parametricAxes   = 'XOUC XOLC XOFI XTRA YOPQ YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP'.split()
 
 assert os.path.exists(sourcesFolder)
 assert os.path.exists(measurementsPath)
