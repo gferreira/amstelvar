@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <advance width="903"/>
+  <outline>
+    <contour>
+      <point x="103" y="1889" type="qcurve"/>
+      <point x="103" y="1912"/>
+      <point x="146" y="1946"/>
+      <point x="166" y="1946" type="qcurve"/>
+      <point x="186" y="1946"/>
+      <point x="227" y="1921"/>
+      <point x="244" y="1897" type="qcurve"/>
+      <point x="432" y="1624" type="line"/>
+      <point x="409" y="1605" type="line"/>
+      <point x="142" y="1816" type="line"/>
+      <point x="122" y="1832"/>
+      <point x="103" y="1862"/>
+    </contour>
+    <contour>
+      <point x="428" y="1887" type="qcurve"/>
+      <point x="428" y="1909"/>
+      <point x="468" y="1945"/>
+      <point x="488" y="1945" type="qcurve"/>
+      <point x="510" y="1945"/>
+      <point x="549" y="1921"/>
+      <point x="566" y="1897" type="qcurve"/>
+      <point x="754" y="1624" type="line"/>
+      <point x="731" y="1605" type="line"/>
+      <point x="464" y="1816" type="line"/>
+      <point x="444" y="1832"/>
+      <point x="428" y="1869"/>
+    </contour>
+  </outline>
+</glyph>

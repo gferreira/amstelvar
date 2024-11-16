@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="540"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="24" type="line"/>
+      <point x="202" y="59" type="line"/>
+      <point x="204" y="480" type="line"/>
+      <point x="198" y="831" type="line"/>
+      <point x="54" y="865" type="line"/>
+      <point x="54" y="893" type="line"/>
+      <point x="313" y="931" type="line"/>
+      <point x="329" y="931" type="line"/>
+      <point x="363" y="892" type="line"/>
+      <point x="356" y="480" type="line"/>
+      <point x="358" y="59" type="line"/>
+      <point x="489" y="24" type="line"/>
+      <point x="489" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

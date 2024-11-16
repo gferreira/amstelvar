@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.lc" format="2">
+  <advance width="775"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="84" type="line"/>
+      <point x="337" y="119" type="line"/>
+      <point x="337" y="539" type="line"/>
+      <point x="335" y="931" type="line"/>
+      <point x="80" y="964" type="line"/>
+      <point x="80" y="1057" type="line"/>
+      <point x="481" y="1084" type="line"/>
+      <point x="513" y="1050" type="line"/>
+      <point x="507" y="539" type="line"/>
+      <point x="507" y="119" type="line"/>
+      <point x="761" y="84" type="line"/>
+      <point x="761" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

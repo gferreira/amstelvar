@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="569" y="0" type="line"/>
+      <point x="490" y="-161" type="line"/>
+      <point x="507" y="-156"/>
+      <point x="567" y="-146"/>
+      <point x="597" y="-146" type="qcurve"/>
+      <point x="674" y="-146"/>
+      <point x="785" y="-245"/>
+      <point x="785" y="-337" type="qcurve"/>
+      <point x="785" y="-442"/>
+      <point x="640" y="-555"/>
+      <point x="542" y="-555" type="qcurve"/>
+      <point x="453" y="-555"/>
+      <point x="295" y="-516"/>
+      <point x="236" y="-467" type="qcurve"/>
+      <point x="286" y="-364" type="line"/>
+      <point x="319" y="-388"/>
+      <point x="443" y="-435"/>
+      <point x="506" y="-435" type="qcurve"/>
+      <point x="552" y="-435"/>
+      <point x="625" y="-382"/>
+      <point x="625" y="-337" type="qcurve"/>
+      <point x="625" y="-291"/>
+      <point x="564" y="-245"/>
+      <point x="512" y="-245" type="qcurve"/>
+      <point x="481" y="-245"/>
+      <point x="432" y="-253"/>
+      <point x="415" y="-259" type="qcurve"/>
+      <point x="357" y="-180" type="line"/>
+      <point x="465" y="28" type="line"/>
+    </contour>
+  </outline>
+</glyph>

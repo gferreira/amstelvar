@@ -20,7 +20,7 @@ class AmstelvarDesignSpaceBuilder:
 
     '''
     familyName      = 'Amstelvar'
-    subFamilyName   = ['Roman', 'Italic'][1]
+    subFamilyName   = ['Roman', 'Italic'][0]
     defaultName     = 'wght400'
     designspaceName = f'{familyName}-{subFamilyName}.designspace'
 

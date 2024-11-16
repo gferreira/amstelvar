@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightanglebracket" format="2">
+  <advance width="954"/>
+  <unicode hex="27E9"/>
+  <outline>
+    <contour>
+      <point x="42" y="-150" type="line"/>
+      <point x="15" y="-123" type="line"/>
+      <point x="759" y="658" type="line"/>
+      <point x="25" y="1484" type="line"/>
+      <point x="59" y="1518" type="line"/>
+      <point x="930" y="686" type="line"/>
+      <point x="930" y="621" type="line"/>
+    </contour>
+  </outline>
+</glyph>

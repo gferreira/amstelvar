@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che.bgr" format="2">
+  <advance width="1150"/>
+  <outline>
+    <contour>
+      <point x="643" y="0" type="line"/>
+      <point x="643" y="51" type="line"/>
+      <point x="782" y="86" type="line"/>
+      <point x="784" y="483" type="line"/>
+      <point x="782" y="839" type="line"/>
+      <point x="653" y="869" type="line"/>
+      <point x="653" y="928" type="line"/>
+      <point x="887" y="962" type="line"/>
+      <point x="922" y="962" type="line"/>
+      <point x="945" y="926" type="line"/>
+      <point x="942" y="483" type="line"/>
+      <point x="945" y="86" type="line"/>
+      <point x="1080" y="51" type="line"/>
+      <point x="1080" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="926" type="line"/>
+      <point x="340" y="693" type="line"/>
+      <point x="340" y="570"/>
+      <point x="444" y="470"/>
+      <point x="571" y="470" type="qcurve"/>
+      <point x="655" y="470"/>
+      <point x="789" y="495"/>
+      <point x="863" y="525" type="qcurve"/>
+      <point x="863" y="460" type="line"/>
+      <point x="791" y="430"/>
+      <point x="644" y="398"/>
+      <point x="536" y="398" type="qcurve"/>
+      <point x="360" y="398"/>
+      <point x="181" y="539"/>
+      <point x="180" y="693" type="qcurve"/>
+      <point x="178" y="839" type="line"/>
+      <point x="43" y="869" type="line"/>
+      <point x="43" y="928" type="line"/>
+      <point x="284" y="962" type="line"/>
+      <point x="319" y="962" type="line"/>
+    </contour>
+  </outline>
+</glyph>

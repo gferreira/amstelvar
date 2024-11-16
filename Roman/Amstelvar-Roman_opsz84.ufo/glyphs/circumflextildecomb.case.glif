@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextildecomb.case" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="512" y="1908" type="qcurve"/>
+      <point x="530" y="1908"/>
+      <point x="571" y="1868"/>
+      <point x="604" y="1830" type="qcurve"/>
+      <point x="792" y="1622" type="line"/>
+      <point x="768" y="1602" type="line"/>
+      <point x="512" y="1769" type="line"/>
+      <point x="266" y="1603" type="line"/>
+      <point x="243" y="1621" type="line"/>
+      <point x="420" y="1825" type="line"/>
+      <point x="456" y="1866"/>
+      <point x="494" y="1908"/>
+    </contour>
+    <contour>
+      <point x="214" y="2058" type="line"/>
+      <point x="238" y="2111"/>
+      <point x="358" y="2222"/>
+      <point x="413" y="2222" type="qcurve"/>
+      <point x="454" y="2222"/>
+      <point x="515" y="2198"/>
+      <point x="548" y="2175" type="qcurve"/>
+      <point x="589" y="2147"/>
+      <point x="645" y="2115"/>
+      <point x="683" y="2115" type="qcurve"/>
+      <point x="716" y="2115"/>
+      <point x="769" y="2165"/>
+      <point x="786" y="2196" type="qcurve"/>
+      <point x="825" y="2163" type="line"/>
+      <point x="798" y="2099"/>
+      <point x="695" y="2011"/>
+      <point x="649" y="2011" type="qcurve"/>
+      <point x="609" y="2011"/>
+      <point x="541" y="2037"/>
+      <point x="506" y="2059" type="qcurve"/>
+      <point x="470" y="2081"/>
+      <point x="410" y="2119"/>
+      <point x="381" y="2119" type="qcurve"/>
+      <point x="341" y="2119"/>
+      <point x="260" y="2052"/>
+      <point x="247" y="2027" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

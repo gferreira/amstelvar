@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb.case" format="2">
+  <advance width="903"/>
+  <outline>
+    <contour>
+      <point x="199" y="-307" type="qcurve"/>
+      <point x="199" y="-218"/>
+      <point x="344" y="-60"/>
+      <point x="408" y="-8" type="qcurve"/>
+      <point x="441" y="18" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="449" y="-24" type="line"/>
+      <point x="377" y="-93"/>
+      <point x="307" y="-212"/>
+      <point x="307" y="-264" type="qcurve"/>
+      <point x="307" y="-326"/>
+      <point x="390" y="-388"/>
+      <point x="458" y="-388" type="qcurve"/>
+      <point x="519" y="-388"/>
+      <point x="622" y="-353"/>
+      <point x="696" y="-304" type="qcurve"/>
+      <point x="716" y="-330" type="line"/>
+      <point x="672" y="-402"/>
+      <point x="508" y="-497"/>
+      <point x="418" y="-497" type="qcurve"/>
+      <point x="313" y="-497"/>
+      <point x="199" y="-387"/>
+    </contour>
+  </outline>
+</glyph>

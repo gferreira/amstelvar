@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.tab" format="2">
+  <advance width="1066"/>
+  <outline>
+    <contour>
+      <point x="993" y="915" type="qcurve"/>
+      <point x="993" y="517"/>
+      <point x="578" y="33"/>
+      <point x="264" y="-55" type="qcurve"/>
+      <point x="239" y="-23" type="line"/>
+      <point x="515" y="64"/>
+      <point x="817" y="492"/>
+      <point x="817" y="853" type="qcurve"/>
+      <point x="817" y="1202"/>
+      <point x="635" y="1488"/>
+      <point x="476" y="1488" type="qcurve"/>
+      <point x="360" y="1488"/>
+      <point x="217" y="1310"/>
+      <point x="217" y="1106" type="qcurve"/>
+      <point x="217" y="905"/>
+      <point x="375" y="729"/>
+      <point x="490" y="729" type="qcurve"/>
+      <point x="553" y="729"/>
+      <point x="670" y="770"/>
+      <point x="698" y="794" type="qcurve"/>
+      <point x="706" y="770" type="line"/>
+      <point x="678" y="738"/>
+      <point x="540" y="681"/>
+      <point x="442" y="681" type="qcurve"/>
+      <point x="281" y="681"/>
+      <point x="43" y="902"/>
+      <point x="43" y="1103" type="qcurve"/>
+      <point x="43" y="1287"/>
+      <point x="292" y="1520"/>
+      <point x="496" y="1520" type="qcurve"/>
+      <point x="708" y="1520"/>
+      <point x="993" y="1184"/>
+    </contour>
+  </outline>
+</glyph>

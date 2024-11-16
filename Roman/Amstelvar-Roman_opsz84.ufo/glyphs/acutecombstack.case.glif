@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecombstack.case" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="641" y="1967" type="qcurve"/>
+      <point x="647" y="1936"/>
+      <point x="575" y="1847"/>
+      <point x="556" y="1828" type="qcurve"/>
+      <point x="340" y="1598" type="line"/>
+      <point x="315" y="1615" type="line"/>
+      <point x="446" y="1879" type="line"/>
+      <point x="470" y="1926"/>
+      <point x="529" y="2015"/>
+      <point x="565" y="2022" type="qcurve"/>
+      <point x="599" y="2029"/>
+      <point x="638" y="1989"/>
+    </contour>
+  </outline>
+</glyph>

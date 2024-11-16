@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.case" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="380" y="1637" type="line"/>
+      <point x="380" y="1734" type="line"/>
+      <point x="437" y="1819" type="line"/>
+      <point x="451" y="1813"/>
+      <point x="496" y="1805"/>
+      <point x="515" y="1805" type="qcurve"/>
+      <point x="560" y="1805"/>
+      <point x="602" y="1848"/>
+      <point x="602" y="1892" type="qcurve"/>
+      <point x="602" y="1934"/>
+      <point x="538" y="1984"/>
+      <point x="497" y="1984" type="qcurve"/>
+      <point x="442" y="1984"/>
+      <point x="337" y="1960"/>
+      <point x="304" y="1943" type="qcurve"/>
+      <point x="260" y="2038" type="line"/>
+      <point x="314" y="2065"/>
+      <point x="451" y="2095"/>
+      <point x="512" y="2095" type="qcurve"/>
+      <point x="615" y="2095"/>
+      <point x="743" y="1990"/>
+      <point x="743" y="1893" type="qcurve"/>
+      <point x="743" y="1807"/>
+      <point x="644" y="1699"/>
+      <point x="577" y="1699" type="qcurve"/>
+      <point x="550" y="1699"/>
+      <point x="498" y="1709"/>
+      <point x="483" y="1713" type="qcurve"/>
+      <point x="483" y="1637" type="line"/>
+    </contour>
+  </outline>
+</glyph>

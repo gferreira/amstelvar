@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <advance width="961"/>
+  <outline>
+    <contour>
+      <point x="271" y="1931" type="qcurve"/>
+      <point x="271" y="1960"/>
+      <point x="322" y="2001"/>
+      <point x="350" y="2001" type="qcurve"/>
+      <point x="379" y="2001"/>
+      <point x="438" y="1957"/>
+      <point x="463" y="1926" type="qcurve"/>
+      <point x="649" y="1689" type="line"/>
+      <point x="601" y="1643" type="line"/>
+      <point x="330" y="1838" type="line"/>
+      <point x="299" y="1859"/>
+      <point x="271" y="1897"/>
+    </contour>
+  </outline>
+</glyph>

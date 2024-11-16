@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha" format="2">
+  <advance width="1773"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="1551" y="67" type="line"/>
+      <point x="1702" y="67" type="line"/>
+      <point x="1712" y="-318" type="line"/>
+      <point x="1652" y="-318" type="line"/>
+      <point x="1545" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="70" y="51" type="line"/>
+      <point x="205" y="86" type="line"/>
+      <point x="207" y="483" type="line"/>
+      <point x="205" y="875" type="line"/>
+      <point x="70" y="910" type="line"/>
+      <point x="70" y="961" type="line"/>
+      <point x="497" y="961" type="line"/>
+      <point x="497" y="910" type="line"/>
+      <point x="368" y="875" type="line"/>
+      <point x="365" y="483" type="line"/>
+      <point x="367" y="67" type="line"/>
+      <point x="797" y="67" type="line"/>
+      <point x="799" y="483" type="line"/>
+      <point x="796" y="875" type="line"/>
+      <point x="668" y="910" type="line"/>
+      <point x="668" y="961" type="line"/>
+      <point x="1087" y="961" type="line"/>
+      <point x="1087" y="910" type="line"/>
+      <point x="959" y="875" type="line"/>
+      <point x="957" y="483" type="line"/>
+      <point x="959" y="67" type="line"/>
+      <point x="1389" y="67" type="line"/>
+      <point x="1391" y="483" type="line"/>
+      <point x="1389" y="875" type="line"/>
+      <point x="1260" y="910" type="line"/>
+      <point x="1260" y="961" type="line"/>
+      <point x="1686" y="961" type="line"/>
+      <point x="1686" y="910" type="line"/>
+      <point x="1551" y="875" type="line"/>
+      <point x="1549" y="483" type="line"/>
+    </contour>
+  </outline>
+</glyph>

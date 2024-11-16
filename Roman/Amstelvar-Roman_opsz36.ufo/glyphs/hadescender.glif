@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender" format="2">
+  <advance width="982"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="770" y="67" type="line"/>
+      <point x="987" y="67" type="line"/>
+      <point x="997" y="-318" type="line"/>
+      <point x="937" y="-318" type="line"/>
+      <point x="830" y="0" type="line"/>
+      <point x="770" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="0" type="line"/>
+      <point x="8" y="52" type="line"/>
+      <point x="166" y="86" type="line"/>
+      <point x="459" y="511" type="line"/>
+      <point x="468" y="511" type="line"/>
+      <point x="703" y="873" type="line"/>
+      <point x="553" y="904" type="line"/>
+      <point x="553" y="961" type="line"/>
+      <point x="938" y="961" type="line"/>
+      <point x="938" y="904" type="line"/>
+      <point x="787" y="870" type="line"/>
+      <point x="509" y="467" type="line"/>
+      <point x="501" y="467" type="line"/>
+      <point x="252" y="83" type="line"/>
+      <point x="390" y="52" type="line"/>
+      <point x="390" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="904" type="line"/>
+      <point x="22" y="961" type="line"/>
+      <point x="414" y="961" type="line"/>
+      <point x="414" y="904" type="line"/>
+      <point x="306" y="867" type="line"/>
+      <point x="530" y="540" type="line"/>
+      <point x="861" y="63" type="line"/>
+      <point x="861" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="52" type="line"/>
+      <point x="669" y="89" type="line"/>
+      <point x="431" y="431" type="line"/>
+      <point x="132" y="869" type="line"/>
+    </contour>
+  </outline>
+</glyph>

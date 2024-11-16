@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De.bgr" format="2">
+  <advance width="1396"/>
+  <outline>
+    <contour>
+      <point x="1080" y="0" type="line"/>
+      <point x="851" y="684" type="line"/>
+      <point x="631" y="1338" type="line"/>
+      <point x="415" y="688" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="381" y="702" type="line"/>
+      <point x="633" y="1506" type="line"/>
+      <point x="742" y="1506" type="line"/>
+      <point x="998" y="738" type="line"/>
+      <point x="1252" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1355" y="-338" type="line"/>
+      <point x="1248" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="41" y="-338" type="line"/>
+      <point x="11" y="-338" type="line"/>
+      <point x="21" y="32" type="line"/>
+      <point x="1375" y="32" type="line"/>
+      <point x="1385" y="-338" type="line"/>
+    </contour>
+  </outline>
+</glyph>

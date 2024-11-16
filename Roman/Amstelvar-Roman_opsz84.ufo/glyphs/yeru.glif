@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru" format="2">
+  <advance width="1413"/>
+  <unicode hex="044B"/>
+  <outline>
+    <contour>
+      <point x="339" y="32" type="line"/>
+      <point x="499" y="32" type="line"/>
+      <point x="632" y="32"/>
+      <point x="734" y="170"/>
+      <point x="734" y="274" type="qcurve"/>
+      <point x="734" y="379"/>
+      <point x="632" y="516"/>
+      <point x="499" y="516" type="qcurve"/>
+      <point x="262" y="516" type="line"/>
+      <point x="262" y="555" type="line"/>
+      <point x="499" y="555" type="line"/>
+      <point x="703" y="555"/>
+      <point x="902" y="403"/>
+      <point x="902" y="274" type="qcurve"/>
+      <point x="902" y="149"/>
+      <point x="703" y="0"/>
+      <point x="499" y="0" type="qcurve"/>
+      <point x="61" y="0" type="line"/>
+      <point x="61" y="24" type="line"/>
+      <point x="184" y="59" type="line"/>
+      <point x="186" y="467" type="line"/>
+      <point x="184" y="865" type="line"/>
+      <point x="61" y="900" type="line"/>
+      <point x="61" y="924" type="line"/>
+      <point x="461" y="924" type="line"/>
+      <point x="461" y="900" type="line"/>
+      <point x="340" y="865" type="line"/>
+      <point x="337" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="1226" y="467" type="line"/>
+      <point x="1229" y="59" type="line"/>
+      <point x="1352" y="24" type="line"/>
+      <point x="1352" y="0" type="line"/>
+      <point x="952" y="0" type="line"/>
+      <point x="952" y="24" type="line"/>
+      <point x="1073" y="59" type="line"/>
+      <point x="1075" y="467" type="line"/>
+      <point x="1073" y="865" type="line"/>
+      <point x="952" y="900" type="line"/>
+      <point x="952" y="924" type="line"/>
+      <point x="1352" y="924" type="line"/>
+      <point x="1352" y="900" type="line"/>
+      <point x="1229" y="865" type="line"/>
+    </contour>
+  </outline>
+</glyph>

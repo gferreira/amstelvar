@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacutecomb.case" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="780" y="1904" type="qcurve"/>
+      <point x="842" y="1862" type="line"/>
+      <point x="818" y="1775"/>
+      <point x="635" y="1620"/>
+      <point x="513" y="1620" type="qcurve"/>
+      <point x="399" y="1620"/>
+      <point x="216" y="1760"/>
+      <point x="183" y="1861" type="qcurve"/>
+      <point x="251" y="1904" type="line"/>
+      <point x="285" y="1850"/>
+      <point x="428" y="1754"/>
+      <point x="513" y="1754" type="qcurve"/>
+      <point x="603" y="1754"/>
+      <point x="748" y="1848"/>
+    </contour>
+    <contour>
+      <point x="775" y="2310" type="qcurve"/>
+      <point x="778" y="2279"/>
+      <point x="726" y="2209"/>
+      <point x="705" y="2187" type="qcurve"/>
+      <point x="493" y="1962" type="line"/>
+      <point x="437" y="1998" type="line"/>
+      <point x="559" y="2238" type="line"/>
+      <point x="582" y="2284"/>
+      <point x="652" y="2374"/>
+      <point x="696" y="2378" type="qcurve"/>
+      <point x="728" y="2382"/>
+      <point x="773" y="2340"/>
+    </contour>
+  </outline>
+</glyph>

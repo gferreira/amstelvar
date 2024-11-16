@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="1290"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="110" y="694" type="qcurve"/>
+      <point x="110" y="1001"/>
+      <point x="461" y="1453"/>
+      <point x="778" y="1453" type="qcurve"/>
+      <point x="986" y="1453"/>
+      <point x="1250" y="1217"/>
+      <point x="1258" y="1000" type="qcurve"/>
+      <point x="1129" y="1000" type="line"/>
+      <point x="1120" y="1161"/>
+      <point x="964" y="1343"/>
+      <point x="767" y="1343" type="qcurve"/>
+      <point x="552" y="1343"/>
+      <point x="300" y="1018"/>
+      <point x="302" y="726" type="qcurve"/>
+      <point x="304" y="452"/>
+      <point x="570" y="158"/>
+      <point x="768" y="158" type="qcurve"/>
+      <point x="915" y="158"/>
+      <point x="1136" y="262"/>
+      <point x="1195" y="347" type="qcurve"/>
+      <point x="1277" y="276" type="line"/>
+      <point x="1206" y="169"/>
+      <point x="931" y="15"/>
+      <point x="771" y="15" type="qcurve"/>
+      <point x="448" y="15"/>
+      <point x="110" y="423"/>
+    </contour>
+    <contour>
+      <point x="437" y="-146" type="line"/>
+      <point x="491" y="82" type="line"/>
+      <point x="508" y="77" type="line"/>
+      <point x="683" y="834" type="line"/>
+      <point x="788" y="767" type="line"/>
+      <point x="622" y="52" type="line"/>
+      <point x="642" y="47" type="line"/>
+      <point x="600" y="-136" type="line"/>
+    </contour>
+    <contour>
+      <point x="836" y="1572" type="line"/>
+      <point x="996" y="1573" type="line"/>
+      <point x="952" y="1387" type="line"/>
+      <point x="933" y="1391" type="line"/>
+      <point x="788" y="767" type="line"/>
+      <point x="683" y="834" type="line"/>
+      <point x="820" y="1418" type="line"/>
+      <point x="800" y="1422" type="line"/>
+    </contour>
+  </outline>
+</glyph>

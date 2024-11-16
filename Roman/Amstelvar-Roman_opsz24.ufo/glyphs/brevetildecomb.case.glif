@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevetildecomb.case" format="2">
+  <advance width="1024"/>
+  <outline>
+    <contour>
+      <point x="800" y="1965" type="qcurve"/>
+      <point x="888" y="1899" type="line"/>
+      <point x="852" y="1802"/>
+      <point x="654" y="1637"/>
+      <point x="513" y="1637" type="qcurve"/>
+      <point x="387" y="1637"/>
+      <point x="184" y="1788"/>
+      <point x="138" y="1900" type="qcurve"/>
+      <point x="233" y="1965" type="line"/>
+      <point x="275" y="1903"/>
+      <point x="420" y="1800"/>
+      <point x="513" y="1800" type="qcurve"/>
+      <point x="613" y="1800"/>
+      <point x="759" y="1899"/>
+    </contour>
+    <contour>
+      <point x="146" y="2183" type="line"/>
+      <point x="179" y="2251"/>
+      <point x="313" y="2364"/>
+      <point x="381" y="2364" type="qcurve"/>
+      <point x="423" y="2364"/>
+      <point x="495" y="2334"/>
+      <point x="533" y="2307" type="qcurve"/>
+      <point x="561" y="2288"/>
+      <point x="646" y="2234"/>
+      <point x="688" y="2234" type="qcurve"/>
+      <point x="728" y="2234"/>
+      <point x="803" y="2290"/>
+      <point x="826" y="2329" type="qcurve"/>
+      <point x="885" y="2248" type="line"/>
+      <point x="849" y="2168"/>
+      <point x="725" y="2079"/>
+      <point x="670" y="2079" type="qcurve"/>
+      <point x="622" y="2079"/>
+      <point x="529" y="2126"/>
+      <point x="499" y="2148" type="qcurve"/>
+      <point x="467" y="2173"/>
+      <point x="393" y="2211"/>
+      <point x="363" y="2211" type="qcurve"/>
+      <point x="316" y="2211"/>
+      <point x="228" y="2132"/>
+      <point x="211" y="2103" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

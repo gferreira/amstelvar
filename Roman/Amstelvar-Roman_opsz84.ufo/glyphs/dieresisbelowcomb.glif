@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <advance width="903"/>
+  <unicode hex="0324"/>
+  <outline>
+    <contour>
+      <point x="185" y="-270" type="qcurve"/>
+      <point x="185" y="-227"/>
+      <point x="231" y="-182"/>
+      <point x="275" y="-182" type="qcurve"/>
+      <point x="316" y="-182"/>
+      <point x="364" y="-231"/>
+      <point x="364" y="-270" type="qcurve"/>
+      <point x="364" y="-312"/>
+      <point x="319" y="-357"/>
+      <point x="274" y="-357" type="qcurve"/>
+      <point x="233" y="-357"/>
+      <point x="185" y="-310"/>
+    </contour>
+    <contour>
+      <point x="539" y="-270" type="qcurve"/>
+      <point x="539" y="-227"/>
+      <point x="585" y="-182"/>
+      <point x="629" y="-182" type="qcurve"/>
+      <point x="670" y="-182"/>
+      <point x="718" y="-231"/>
+      <point x="718" y="-270" type="qcurve"/>
+      <point x="718" y="-312"/>
+      <point x="673" y="-357"/>
+      <point x="628" y="-357" type="qcurve"/>
+      <point x="587" y="-357"/>
+      <point x="539" y="-310"/>
+    </contour>
+  </outline>
+</glyph>
