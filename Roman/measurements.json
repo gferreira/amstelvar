@@ -101,10 +101,10 @@
     },
     "YOLC": {
       "direction": "y",
-      "glyph 1": "f",
-      "point 1": "20",
-      "glyph 2": "f",
-      "point 2": "11",
+      "glyph 1": "n",
+      "point 1": "29",
+      "glyph 2": "n",
+      "point 2": "12",
       "parent": "YOPQ",
       "description": ""
     },
@@ -886,52 +886,52 @@
     },
     "D": {
       "0 1": {
-        "direction": "y",
-        "name": "YSHU"
+        "name": "YSHU",
+        "direction": "y"
       },
       "1 2": {
-        "direction": "x",
-        "name": "XSHU"
+        "name": "XSHU",
+        "direction": "x"
       },
       "13 7": {
-        "direction": "y",
-        "name": "YTUC"
+        "name": "YTUC",
+        "direction": "y"
       },
       "17 13": {
-        "direction": "y",
-        "name": "YOUC"
+        "name": "YOUC",
+        "direction": "y"
       },
       "2 14": {
-        "direction": "x",
-        "name": "XOUC"
+        "name": "XOUC",
+        "direction": "x"
       },
       "20 10": {
-        "direction": "x",
-        "name": "XOUC"
+        "name": "XOUC",
+        "direction": "x"
       },
       "20 14": {
-        "direction": "x",
-        "name": "XTUC"
+        "name": "XTUC",
+        "direction": "x"
       },
       "4 -1": {
-        "direction": "x",
-        "name": "XUCS"
+        "name": "XUCS",
+        "direction": "x"
       },
       "4 5": {
-        "direction": "x",
-        "name": "XSHU"
+        "name": "XSHU",
+        "direction": "x"
       },
       "5 6": {
-        "direction": "y",
-        "name": "YSHU"
+        "name": "YSHU",
+        "direction": "y"
       },
       "7 23": {
-        "direction": "y",
-        "name": "YOUC"
+        "name": "YOUC",
+        "direction": "y"
       },
       "99 10": {
-        "direction": "x",
-        "name": "XUCR"
+        "name": "XUCR",
+        "direction": "x"
       }
     },
     "E": {
@@ -2610,68 +2610,68 @@
     },
     "n": {
       "0 1": {
-        "direction": "y",
-        "name": "YSHL"
+        "name": "YSHL",
+        "direction": "y"
       },
       "1 2": {
-        "direction": "x",
-        "name": "XSHL"
+        "name": "XSHL",
+        "direction": "x"
       },
-      "12 29": {
-        "direction": "y",
-        "name": "YOLC"
+      "29 12": {
+        "name": "YOLC",
+        "direction": "y"
       },
       "19 20": {
-        "direction": "x",
-        "name": "XSHL"
+        "name": "XSHL",
+        "direction": "x"
       },
       "19 99": {
-        "direction": "x",
-        "name": "XLCS"
+        "name": "XLCS",
+        "direction": "x"
       },
-      "2 -1": {
-        "direction": "x",
-        "name": "XLCS"
+      "-1 2": {
+        "name": "XLCS",
+        "direction": "x"
       },
       "2 34": {
-        "direction": "x",
-        "name": "XOLC"
+        "name": "XOLC",
+        "direction": "x"
       },
-      "20 21": {
-        "direction": "y",
-        "name": "YSHL"
+      "21 20": {
+        "name": "YSHL",
+        "direction": "y"
       },
       "23 24": {
-        "direction": "x",
-        "name": "XSHL"
+        "name": "XSHL",
+        "direction": "x"
       },
       "24 19": {
-        "direction": "x",
-        "name": "XOLC"
+        "name": "XOLC",
+        "direction": "x"
       },
       "34 24": {
-        "direction": "x",
-        "name": "XTLC"
+        "name": "XTLC",
+        "direction": "x"
       },
       "34 35": {
-        "direction": "x",
-        "name": "XSHL"
+        "name": "XSHL",
+        "direction": "x"
       },
-      "35 36": {
-        "direction": "y",
-        "name": "YSHL"
+      "36 35": {
+        "name": "YSHL",
+        "direction": "y"
       },
       "36 12": {
-        "direction": "y",
-        "name": "YTLC"
+        "name": "YTLC",
+        "direction": "y"
       },
-      "4 5": {
-        "direction": "x",
-        "name": "XSHL"
+      "5 4": {
+        "name": "XSHL",
+        "direction": "x"
       },
       "5 6": {
-        "direction": "y",
-        "name": "YSHL"
+        "name": "YSHL",
+        "direction": "y"
       }
     },
     "o": {
