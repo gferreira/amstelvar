@@ -56,10 +56,10 @@
     },
     "YOLC": {
       "direction": "y",
-      "glyph 1": "f",
-      "point 1": "20",
-      "glyph 2": "f",
-      "point 2": "11",
+      "glyph 1": "e",
+      "point 1": "15",
+      "glyph 2": "e",
+      "point 2": "16",
       "parent": "YOPQ",
       "description": "Y stem lowercase"
     },

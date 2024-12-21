@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.lf" format="2">
+  <advance width="920"/>
+  <outline>
+    <contour>
+      <point x="-124" y="174" type="qcurve"/>
+      <point x="-124" y="235"/>
+      <point x="-63" y="306"/>
+      <point x="-6" y="317" type="qcurve"/>
+      <point x="14" y="316" type="line"/>
+      <point x="13" y="299"/>
+      <point x="13" y="283"/>
+      <point x="12" y="267" type="qcurve"/>
+      <point x="7" y="166"/>
+      <point x="136" y="38"/>
+      <point x="238" y="38" type="qcurve"/>
+      <point x="419" y="38"/>
+      <point x="634" y="257"/>
+      <point x="634" y="444" type="qcurve"/>
+      <point x="634" y="597"/>
+      <point x="479" y="781"/>
+      <point x="323" y="797" type="qcurve"/>
+      <point x="235" y="805" type="line"/>
+      <point x="239" y="864" type="line"/>
+      <point x="297" y="865" type="line"/>
+      <point x="457" y="870"/>
+      <point x="679" y="1048"/>
+      <point x="679" y="1196" type="qcurve"/>
+      <point x="679" y="1299"/>
+      <point x="563" y="1415"/>
+      <point x="464" y="1415" type="qcurve"/>
+      <point x="356" y="1415"/>
+      <point x="194" y="1315"/>
+      <point x="142" y="1249" type="qcurve"/>
+      <point x="100" y="1288" type="line"/>
+      <point x="165" y="1384"/>
+      <point x="389" y="1523"/>
+      <point x="535" y="1523" type="qcurve"/>
+      <point x="684" y="1523"/>
+      <point x="858" y="1366"/>
+      <point x="858" y="1230" type="qcurve"/>
+      <point x="858" y="1094"/>
+      <point x="624" y="884"/>
+      <point x="464" y="847" type="qcurve"/>
+      <point x="463" y="840" type="line"/>
+      <point x="603" y="822"/>
+      <point x="812" y="655"/>
+      <point x="812" y="492" type="qcurve"/>
+      <point x="812" y="289"/>
+      <point x="448" y="-27"/>
+      <point x="221" y="-27" type="qcurve"/>
+      <point x="49" y="-27"/>
+      <point x="-124" y="85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>59621badcd309ea7d130fa70390e6840e932f490a1bc2b9067e528e8eb366e6384b5748a853413e57e88c007e520b9d2a898eec163dad9c481b43e7812fb7239</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

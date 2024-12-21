@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbaro" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="-77" y="-108" type="line"/>
+      <point x="1" y="57" type="line"/>
+      <point x="2" y="56" type="line"/>
+      <point x="226" y="536" type="line"/>
+      <point x="257" y="517" type="line"/>
+      <point x="36" y="34" type="line"/>
+      <point x="37" y="34" type="line"/>
+      <point x="-36" y="-111" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="1085" type="line"/>
+      <point x="522" y="1085" type="line"/>
+      <point x="437" y="901" type="line"/>
+      <point x="436" y="901" type="line"/>
+      <point x="257" y="517" type="line"/>
+      <point x="226" y="536" type="line"/>
+      <point x="405" y="928" type="line"/>
+      <point x="404" y="928" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l-77-108l1+57l2+56l226+536l257+517l36+34l37+34l-36-111|l476+1085l522+1085l437+901l436+901l257+517l226+536l405+928l404+928|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <advance width="961"/>
+  <outline>
+    <contour>
+      <point x="88" y="961" type="line"/>
+      <point x="102" y="961"/>
+      <point x="138" y="959"/>
+      <point x="165" y="959" type="qcurve"/>
+      <point x="231" y="959"/>
+      <point x="305" y="1008"/>
+      <point x="310" y="1062" type="qcurve"/>
+      <point x="314" y="1100"/>
+      <point x="309" y="1174"/>
+      <point x="305" y="1206" type="qcurve"/>
+      <point x="372" y="1209" type="line"/>
+      <point x="394" y="1173"/>
+      <point x="427" y="1082"/>
+      <point x="423" y="1036" type="qcurve"/>
+      <point x="414" y="963"/>
+      <point x="300" y="873"/>
+      <point x="205" y="873" type="qcurve"/>
+      <point x="164" y="873"/>
+      <point x="100" y="883"/>
+      <point x="73" y="892" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>cad39daaed8688f543b28fc6f9dbc8b8eb2196e2b1835bfc489f7731c2131e07ba8a2fe993bed13cd40a46fa0480542290c42c00b9430e241df96786c35160e0</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

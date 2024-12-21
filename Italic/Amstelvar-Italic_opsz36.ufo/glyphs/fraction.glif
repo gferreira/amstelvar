@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="420"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-381" y="13" type="line"/>
+      <point x="777" y="1517" type="line"/>
+      <point x="847" y="1475" type="line"/>
+      <point x="-311" y="-29" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w420l-381+13l777+1517l847+1475l-311-29|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

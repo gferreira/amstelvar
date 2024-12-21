@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb.case" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="198" y="-556" type="line"/>
+      <point x="239" y="-526"/>
+      <point x="339" y="-422"/>
+      <point x="358" y="-370" type="qcurve"/>
+      <point x="297" y="-371"/>
+      <point x="230" y="-307"/>
+      <point x="230" y="-256" type="qcurve"/>
+      <point x="230" y="-208"/>
+      <point x="305" y="-136"/>
+      <point x="358" y="-136" type="qcurve"/>
+      <point x="408" y="-136"/>
+      <point x="484" y="-223"/>
+      <point x="484" y="-293" type="qcurve"/>
+      <point x="484" y="-381"/>
+      <point x="332" y="-555"/>
+      <point x="242" y="-609" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>66cf5b751f21dbffe43e81d47c2256eb078820c27a4831131da5492b4a17be705421ae7ac877a391937c21b3d619e947642b29c6ed83471f80df94ace5aea077</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

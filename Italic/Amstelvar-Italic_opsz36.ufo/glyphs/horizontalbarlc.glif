@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbarlc" format="2">
+  <advance width="636"/>
+  <outline>
+    <contour>
+      <point x="321" y="680" type="line"/>
+      <point x="49" y="680" type="line"/>
+      <point x="79" y="765" type="line"/>
+      <point x="360" y="765" type="line"/>
+      <point x="645" y="765" type="line"/>
+      <point x="631" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w636l321+680l49+680l79+765l360+765l645+765l631+680|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

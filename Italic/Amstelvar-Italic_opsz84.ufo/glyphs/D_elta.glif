@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="1181"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="-73" y="0" type="line"/>
+      <point x="-67" y="52" type="line"/>
+      <point x="209" y="555" type="line"/>
+      <point x="703" y="1507" type="line"/>
+      <point x="822" y="1496" type="line"/>
+      <point x="925" y="559" type="line"/>
+      <point x="984" y="43" type="line"/>
+      <point x="975" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-2" y="70" type="line"/>
+      <point x="354" y="52" type="line"/>
+      <point x="817" y="63" type="line"/>
+      <point x="765" y="547" type="line"/>
+      <point x="680" y="1352" type="line"/>
+      <point x="663" y="1353" type="line"/>
+      <point x="245" y="551" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1181l-73+0l-67+52l209+555l703+1507l822+1496l925+559l984+43l975+0|l-2+70l354+52l817+63l765+547l680+1352l663+1353l245+551|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gheup" format="2">
+  <advance width="1009"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="1065" y="1425" type="line"/>
+      <point x="555" y="1425" type="line"/>
+      <point x="530" y="1410" type="line"/>
+      <point x="397" y="763" type="line"/>
+      <point x="261" y="84" type="line"/>
+      <point x="461" y="63" type="line"/>
+      <point x="449" y="0" type="line"/>
+      <point x="-90" y="0" type="line"/>
+      <point x="-78" y="63" type="line"/>
+      <point x="96" y="84" type="line"/>
+      <point x="236" y="763" type="line"/>
+      <point x="364" y="1410" type="line"/>
+      <point x="193" y="1428" type="line"/>
+      <point x="202" y="1500" type="line"/>
+      <point x="930" y="1500" type="line"/>
+      <point x="1083" y="1828" type="line"/>
+      <point x="1146" y="1828" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>60b3138d980b3f78f596f001429637882412d3f00d14319184d5abab29657610b98e36bec5bc1083b5624bb98e82b110d59d60729fc94fa44b512b14545f01c1</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

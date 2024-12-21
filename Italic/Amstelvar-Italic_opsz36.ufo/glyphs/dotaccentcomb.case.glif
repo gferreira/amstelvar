@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <advance width="961"/>
+  <outline>
+    <contour>
+      <point x="604" y="1744" type="qcurve"/>
+      <point x="604" y="1794"/>
+      <point x="669" y="1857"/>
+      <point x="721" y="1857" type="qcurve"/>
+      <point x="773" y="1857"/>
+      <point x="837" y="1794"/>
+      <point x="837" y="1744" type="qcurve"/>
+      <point x="837" y="1696"/>
+      <point x="774" y="1631"/>
+      <point x="721" y="1631" type="qcurve"/>
+      <point x="669" y="1631"/>
+      <point x="604" y="1695"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w961q604+1744o604+1794o669+1857q721+1857o773+1857o837+1794q837+1744o837+1696o774+1631q721+1631o669+1631o604+1695|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

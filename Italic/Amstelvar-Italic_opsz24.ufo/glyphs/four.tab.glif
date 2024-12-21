@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tab" format="2">
+  <advance width="1009"/>
+  <outline>
+    <contour>
+      <point x="26" y="456" type="line"/>
+      <point x="25" y="537" type="line"/>
+      <point x="880" y="1536" type="line"/>
+      <point x="957" y="1495" type="line"/>
+      <point x="956" y="1454" type="line"/>
+      <point x="789" y="519" type="line"/>
+      <point x="780" y="487" type="line"/>
+      <point x="718" y="176" type="line"/>
+      <point x="718" y="20" type="line"/>
+      <point x="541" y="-33" type="line"/>
+      <point x="511" y="30" type="line"/>
+      <point x="605" y="483" type="line"/>
+      <point x="615" y="519" type="line"/>
+      <point x="752" y="1273" type="line"/>
+      <point x="174" y="560" type="line"/>
+      <point x="178" y="550" type="line"/>
+      <point x="694" y="549" type="line"/>
+      <point x="989" y="549" type="line"/>
+      <point x="972" y="455" type="line"/>
+      <point x="683" y="441" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4b8d6dc5ac6d093bbc778deccbd22e645b1af8b66fc80b2741486da6d91058f08e695f411366535b439fb372c856d3daf853b14800a119b312ca37ef1934219d</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

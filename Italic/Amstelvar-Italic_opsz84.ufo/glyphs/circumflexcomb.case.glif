@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <advance width="903"/>
+  <outline>
+    <contour>
+      <point x="728" y="1905" type="qcurve"/>
+      <point x="758" y="1904"/>
+      <point x="779" y="1861"/>
+      <point x="794" y="1818" type="qcurve"/>
+      <point x="882" y="1588" type="line"/>
+      <point x="860" y="1571" type="line"/>
+      <point x="699" y="1765" type="line"/>
+      <point x="419" y="1583" type="line"/>
+      <point x="394" y="1600" type="line"/>
+      <point x="614" y="1822" type="line"/>
+      <point x="662" y="1872"/>
+      <point x="698" y="1907"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w903q728+1905o758+1904o779+1861q794+1818l882+1588l860+1571l699+1765l419+1583l394+1600l614+1822o662+1872o698+1907|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncombstack.case" format="2">
+  <advance width="961"/>
+  <outline>
+    <contour>
+      <point x="412" y="1659" type="line"/>
+      <point x="436" y="1789" type="line"/>
+      <point x="994" y="1789" type="line"/>
+      <point x="969" y="1659" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w961l412+1659l436+1789l994+1789l969+1659|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

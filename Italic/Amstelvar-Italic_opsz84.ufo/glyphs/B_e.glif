@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be" format="2">
+  <advance width="1068"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="507" y="821" type="qcurve"/>
+      <point x="397" y="821" type="line"/>
+      <point x="394" y="808" type="line"/>
+      <point x="235" y="53" type="line"/>
+      <point x="265" y="32" type="line"/>
+      <point x="366" y="32" type="line"/>
+      <point x="516" y="32"/>
+      <point x="725" y="207"/>
+      <point x="768" y="416" type="qcurve"/>
+      <point x="809" y="614"/>
+      <point x="694" y="821"/>
+    </contour>
+    <contour>
+      <point x="529" y="1454" type="line"/>
+      <point x="407" y="873" type="line"/>
+      <point x="403" y="854" type="line"/>
+      <point x="515" y="854" type="line"/>
+      <point x="780" y="854"/>
+      <point x="978" y="600"/>
+      <point x="940" y="404" type="qcurve"/>
+      <point x="904" y="215"/>
+      <point x="610" y="0"/>
+      <point x="405" y="0" type="qcurve"/>
+      <point x="-103" y="0" type="line"/>
+      <point x="-97" y="29" type="line"/>
+      <point x="65" y="45" type="line"/>
+      <point x="225" y="784" type="line"/>
+      <point x="362" y="1455" type="line"/>
+      <point x="202" y="1466" type="line"/>
+      <point x="208" y="1500" type="line"/>
+      <point x="1044" y="1500" type="line"/>
+      <point x="977" y="1167" type="line"/>
+      <point x="950" y="1167" type="line"/>
+      <point x="907" y="1465" type="line"/>
+      <point x="554" y="1465" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>7c184091aec1d8e9745d938a452bdf5af7b3fe4041624357c289f53700ebf6de52b8dc02900d4932fb7533fee54acedcddb29ce8ef60f27ad66dfe9a4374252b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

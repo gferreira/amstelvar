@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbarH" format="2">
+  <advance width="1366"/>
+  <outline>
+    <contour>
+      <point x="1428" y="1092" type="line"/>
+      <point x="386" y="1092" type="line"/>
+      <point x="387" y="1100" type="line"/>
+      <point x="364" y="1100" type="line"/>
+      <point x="378" y="1170" type="line"/>
+      <point x="401" y="1170" type="line"/>
+      <point x="403" y="1179" type="line"/>
+      <point x="1455" y="1179" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="1092" type="line"/>
+      <point x="138" y="1179" type="line"/>
+      <point x="360" y="1179" type="line"/>
+      <point x="358" y="1170" type="line"/>
+      <point x="378" y="1170" type="line"/>
+      <point x="364" y="1100" type="line"/>
+      <point x="344" y="1100" type="line"/>
+      <point x="343" y="1092" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>86287b94c7eab4b1b596c44007fb410da4a77d6508256b3c81cfbf2d4420b984d4769764c7b3e679ddcb2abf92fd99eb68d9fa83e2d2a810bafd2bb9db9a6c63</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

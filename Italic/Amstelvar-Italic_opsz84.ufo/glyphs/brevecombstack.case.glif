@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecombstack.case" format="2">
+  <advance width="903"/>
+  <outline>
+    <contour>
+      <point x="917" y="1808" type="qcurve"/>
+      <point x="949" y="1793" type="line"/>
+      <point x="905" y="1705"/>
+      <point x="747" y="1581"/>
+      <point x="646" y="1581" type="qcurve"/>
+      <point x="550" y="1581"/>
+      <point x="417" y="1713"/>
+      <point x="416" y="1804" type="qcurve"/>
+      <point x="455" y="1820" type="line"/>
+      <point x="472" y="1768"/>
+      <point x="589" y="1688"/>
+      <point x="661" y="1688" type="qcurve"/>
+      <point x="744" y="1688"/>
+      <point x="884" y="1766"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f89987ae16855f3ee7f41d060e1e4ccaf98829f4d39c91aa753d306c80f4a6892528905f3b3500b08998bf71daf2f0abd030416534a06cddf2c54e20809ed944</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

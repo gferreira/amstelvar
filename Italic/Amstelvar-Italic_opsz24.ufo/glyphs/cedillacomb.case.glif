@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="473" y="0" type="line"/>
+      <point x="381" y="-133" type="line"/>
+      <point x="398" y="-128"/>
+      <point x="450" y="-118"/>
+      <point x="480" y="-118" type="qcurve"/>
+      <point x="559" y="-118"/>
+      <point x="653" y="-226"/>
+      <point x="635" y="-317" type="qcurve"/>
+      <point x="616" y="-408"/>
+      <point x="461" y="-526"/>
+      <point x="353" y="-526" type="qcurve"/>
+      <point x="272" y="-526"/>
+      <point x="124" y="-479"/>
+      <point x="73" y="-438" type="qcurve"/>
+      <point x="135" y="-336" type="line"/>
+      <point x="163" y="-360"/>
+      <point x="274" y="-408"/>
+      <point x="334" y="-408" type="qcurve"/>
+      <point x="394" y="-408"/>
+      <point x="468" y="-359"/>
+      <point x="478" y="-309" type="qcurve"/>
+      <point x="488" y="-259"/>
+      <point x="437" y="-215"/>
+      <point x="385" y="-215" type="qcurve"/>
+      <point x="354" y="-215"/>
+      <point x="303" y="-224"/>
+      <point x="285" y="-230" type="qcurve"/>
+      <point x="236" y="-154" type="line"/>
+      <point x="385" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>045ec6024ca804bf593062752550e3f22ea82f8fd7526483c210560bf58ab8fb97d4aa9138007147a8ed86098c690b2674f1e2791a3153b9ef5a457aae388f39</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha" format="2">
+  <advance width="2055"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="1009" y="69" type="line"/>
+      <point x="1487" y="69" type="line"/>
+      <point x="1518" y="88" type="line"/>
+      <point x="1664" y="776" type="line"/>
+      <point x="1786" y="1410" type="line"/>
+      <point x="1616" y="1427" type="line"/>
+      <point x="1625" y="1500" type="line"/>
+      <point x="2141" y="1500" type="line"/>
+      <point x="2126" y="1427" type="line"/>
+      <point x="1954" y="1410" type="line"/>
+      <point x="1821" y="760" type="line"/>
+      <point x="1685" y="81" type="line"/>
+      <point x="1860" y="63" type="line"/>
+      <point x="1853" y="0" type="line"/>
+      <point x="-85" y="0" type="line"/>
+      <point x="-73" y="63" type="line"/>
+      <point x="101" y="81" type="line"/>
+      <point x="252" y="800" type="line"/>
+      <point x="370" y="1410" type="line"/>
+      <point x="193" y="1427" type="line"/>
+      <point x="202" y="1500" type="line"/>
+      <point x="722" y="1500" type="line"/>
+      <point x="708" y="1427" type="line"/>
+      <point x="538" y="1410" type="line"/>
+      <point x="408" y="779" type="line"/>
+      <point x="270" y="88" type="line"/>
+      <point x="307" y="69" type="line"/>
+      <point x="774" y="69" type="line"/>
+      <point x="811" y="92" type="line"/>
+      <point x="960" y="800" type="line"/>
+      <point x="1078" y="1410" type="line"/>
+      <point x="908" y="1427" type="line"/>
+      <point x="917" y="1500" type="line"/>
+      <point x="1430" y="1500" type="line"/>
+      <point x="1416" y="1427" type="line"/>
+      <point x="1246" y="1410" type="line"/>
+      <point x="1116" y="779" type="line"/>
+      <point x="979" y="94" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>cdd4ee51eb94ec33fb165f066d49de7827c26de447b9968b765821e2941f721cd6bb0d40323fd7bac7d4d07b813bf4c70f62f9ee4d3bc4d2dfcd7a02448db789</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

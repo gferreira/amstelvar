@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecombstack.case" format="2">
+  <advance width="961"/>
+  <outline>
+    <contour>
+      <point x="911" y="1843" type="qcurve"/>
+      <point x="911" y="1817"/>
+      <point x="881" y="1773"/>
+      <point x="857" y="1755" type="qcurve"/>
+      <point x="627" y="1571" type="line"/>
+      <point x="581" y="1609" type="line"/>
+      <point x="723" y="1826" type="line"/>
+      <point x="749" y="1865"/>
+      <point x="802" y="1913"/>
+      <point x="838" y="1913" type="qcurve"/>
+      <point x="867" y="1913"/>
+      <point x="911" y="1874"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w961q911+1843o911+1817o881+1773q857+1755l627+1571l581+1609l723+1826o749+1865o802+1913q838+1913o867+1913o911+1874|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarO.rvrn" format="2">
+  <advance width="623"/>
+  <outline>
+    <contour>
+      <point x="-120" y="-121" type="line"/>
+      <point x="-26" y="81" type="line"/>
+      <point x="-10" y="77" type="line"/>
+      <point x="2" y="103" type="line"/>
+      <point x="106" y="62" type="line"/>
+      <point x="100" y="50" type="line"/>
+      <point x="117" y="46" type="line"/>
+      <point x="46" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="669" y="1617" type="line"/>
+      <point x="831" y="1617" type="line"/>
+      <point x="743" y="1428" type="line"/>
+      <point x="723" y="1431" type="line"/>
+      <point x="706" y="1392" type="line"/>
+      <point x="607" y="1439" type="line"/>
+      <point x="615" y="1458" type="line"/>
+      <point x="598" y="1462" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>b8cb968f341deb74e2708db3dbfc798e7a05bd00f295c428a3100fb78c72da97a30561a5a71ef68063cbb356cba7b153fa5e2a081a43ec7f6d538ec00f0d9c32</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

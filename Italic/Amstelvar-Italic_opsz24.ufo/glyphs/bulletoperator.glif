@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bulletoperator" format="2">
+  <advance width="1013"/>
+  <unicode hex="2219"/>
+  <outline>
+    <contour>
+      <point x="380" y="644" type="qcurve"/>
+      <point x="380" y="702"/>
+      <point x="460" y="787"/>
+      <point x="523" y="787" type="qcurve"/>
+      <point x="585" y="787"/>
+      <point x="666" y="702"/>
+      <point x="666" y="644" type="qcurve"/>
+      <point x="666" y="587"/>
+      <point x="585" y="502"/>
+      <point x="523" y="502" type="qcurve"/>
+      <point x="460" y="502"/>
+      <point x="380" y="587"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1013q380+644o380+702o460+787q523+787o585+787o666+702q666+644o666+587o585+502q523+502o460+502o380+587|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

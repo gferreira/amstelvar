@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="924"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="63" y="1155" type="line"/>
+      <point x="204" y="1500" type="line"/>
+      <point x="1024" y="1500" type="line"/>
+      <point x="1037" y="1458" type="line"/>
+      <point x="781" y="1127"/>
+      <point x="389" y="379"/>
+      <point x="292" y="24" type="qcurve"/>
+      <point x="139" y="-27" type="line"/>
+      <point x="108" y="26" type="line"/>
+      <point x="246" y="394"/>
+      <point x="681" y="1083"/>
+      <point x="849" y="1318" type="qcurve"/>
+      <point x="837" y="1332" type="line"/>
+      <point x="243" y="1332" type="line"/>
+      <point x="124" y="1155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>ccc3e1ee6169bfc8dafb8a98abbc36490acdf607da7d6a2d35ede3782cfdb01b079685f91baabeb07b03664352a489336aefac52393fbeee3c2167e5247b80b2</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diagonalbarO" format="2">
+  <advance width="623"/>
+  <outline>
+    <contour>
+      <point x="-120" y="-121" type="line"/>
+      <point x="-24" y="85" type="line"/>
+      <point x="-8" y="80" type="line"/>
+      <point x="350" y="867" type="line"/>
+      <point x="440" y="802" type="line"/>
+      <point x="101" y="53" type="line"/>
+      <point x="119" y="49" type="line"/>
+      <point x="46" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="669" y="1617" type="line"/>
+      <point x="831" y="1617" type="line"/>
+      <point x="741" y="1423" type="line"/>
+      <point x="721" y="1427" type="line"/>
+      <point x="440" y="802" type="line"/>
+      <point x="350" y="867" type="line"/>
+      <point x="613" y="1453" type="line"/>
+      <point x="595" y="1458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>3dc40ed567ae352a5d30521525248f6305b27e693d6b303e5bfb0cf056517dc195658d8da433c55fedf7457f2205193d231fd7a044eb9be50f19473e269e88b2</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

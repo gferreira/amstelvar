@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta" format="2">
+  <advance width="725"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <contour>
+      <point x="459" y="-266" type="line"/>
+      <point x="437" y="-31" type="line"/>
+      <point x="342" y="-11" type="line"/>
+      <point x="144" y="30"/>
+      <point x="-37" y="182"/>
+      <point x="-37" y="319" type="qcurve"/>
+      <point x="-37" y="490"/>
+      <point x="245" y="869"/>
+      <point x="754" y="1415" type="qcurve"/>
+      <point x="754" y="1393" type="line"/>
+      <point x="228" y="1387" type="line"/>
+      <point x="194" y="1451" type="line"/>
+      <point x="236" y="1518" type="line"/>
+      <point x="820" y="1490" type="line"/>
+      <point x="802" y="1395" type="line"/>
+      <point x="344" y="900"/>
+      <point x="106" y="536"/>
+      <point x="106" y="391" type="qcurve"/>
+      <point x="106" y="264"/>
+      <point x="263" y="143"/>
+      <point x="464" y="104" type="qcurve"/>
+      <point x="550" y="87" type="line"/>
+      <point x="576" y="51" type="line"/>
+      <point x="482" y="-266" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>9d296de33d4548cb3475076536dfab868ca325c9408d187e921e49417745c77c2e21ab3a9e0fd789d0a9c09edea07131ef61e322c0de75cd3d1a69a55f034daf</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="930"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="194" y="-483" type="line"/>
+      <point x="231" y="-19" type="line"/>
+      <point x="343" y="361" type="line"/>
+      <point x="459" y="925" type="line"/>
+      <point x="515" y="1449" type="line"/>
+      <point x="566" y="1503" type="line"/>
+      <point x="628" y="1506" type="line"/>
+      <point x="653" y="1427" type="line"/>
+      <point x="504" y="925" type="line"/>
+      <point x="388" y="361" type="line"/>
+      <point x="340" y="-40" type="line"/>
+      <point x="196" y="-483" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="911" type="line"/>
+      <point x="81" y="942" type="line"/>
+      <point x="490" y="973" type="line"/>
+      <point x="905" y="942" type="line"/>
+      <point x="900" y="911" type="line"/>
+      <point x="482" y="922" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>fa8abb7a1530a250db80d0eb738c7c3d08a839caba9aab59758af673acc291fccdc08ab0d4f087593d91c0c48561453f90d63264810fe3c54c65a306ba25e05f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

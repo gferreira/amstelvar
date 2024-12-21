@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <advance width="1023"/>
+  <unicode hex="03C5"/>
+  <outline>
+    <contour>
+      <point x="359" y="-16" type="qcurve"/>
+      <point x="180" y="-16"/>
+      <point x="34" y="175"/>
+      <point x="71" y="357" type="qcurve"/>
+      <point x="165" y="823" type="line"/>
+      <point x="25" y="821" type="line"/>
+      <point x="26" y="912" type="line"/>
+      <point x="247" y="996" type="line"/>
+      <point x="291" y="996" type="line"/>
+      <point x="330" y="922" type="line"/>
+      <point x="229" y="348" type="line"/>
+      <point x="207" y="224"/>
+      <point x="275" y="121"/>
+      <point x="371" y="121" type="qcurve"/>
+      <point x="530" y="121"/>
+      <point x="729" y="405"/>
+      <point x="729" y="638" type="qcurve"/>
+      <point x="729" y="753"/>
+      <point x="670" y="914"/>
+      <point x="642" y="956" type="qcurve"/>
+      <point x="755" y="1012" type="line"/>
+      <point x="833" y="927"/>
+      <point x="900" y="727"/>
+      <point x="900" y="636" type="qcurve"/>
+      <point x="900" y="350"/>
+      <point x="595" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f8becc7e7ec881fa6d7f2cc154bb330d840b82039b0b244870bb7bb115eb9f0bbe85cc1778223bf3ac05ce32858e8834dc1a774db79e20e2ef14d23ade49f441</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

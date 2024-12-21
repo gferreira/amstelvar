@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <advance width="903"/>
+  <outline>
+    <contour>
+      <point x="767" y="1874" type="qcurve"/>
+      <point x="767" y="1849"/>
+      <point x="743" y="1815"/>
+      <point x="723" y="1799" type="qcurve"/>
+      <point x="471" y="1604" type="line"/>
+      <point x="448" y="1624" type="line"/>
+      <point x="629" y="1885" type="line"/>
+      <point x="645" y="1908"/>
+      <point x="684" y="1931"/>
+      <point x="710" y="1931" type="qcurve"/>
+      <point x="728" y="1931"/>
+      <point x="767" y="1898"/>
+    </contour>
+    <contour>
+      <point x="1035" y="1874" type="qcurve"/>
+      <point x="1035" y="1849"/>
+      <point x="1011" y="1815"/>
+      <point x="991" y="1799" type="qcurve"/>
+      <point x="739" y="1604" type="line"/>
+      <point x="716" y="1624" type="line"/>
+      <point x="897" y="1885" type="line"/>
+      <point x="913" y="1908"/>
+      <point x="952" y="1931"/>
+      <point x="978" y="1931" type="qcurve"/>
+      <point x="996" y="1931"/>
+      <point x="1035" y="1898"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4d1d03e6b81d46cbba0a5876a8032513b4d7ea866b832928431ebae296a8d5e99bf73ec07b58590e5aeb16dd2dbdca2a307834177b681e0be2433366c8408928</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

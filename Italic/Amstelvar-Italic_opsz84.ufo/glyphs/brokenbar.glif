@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="604"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="273" y="695" type="line"/>
+      <point x="335" y="1012" type="line"/>
+      <point x="359" y="1138" type="line"/>
+      <point x="431" y="1517" type="line"/>
+      <point x="499" y="1531" type="line"/>
+      <point x="420" y="1138" type="line"/>
+      <point x="390" y="1012" type="line"/>
+      <point x="327" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="-510" type="line"/>
+      <point x="127" y="-58" type="line"/>
+      <point x="163" y="100" type="line"/>
+      <point x="205" y="321" type="line"/>
+      <point x="259" y="321" type="line"/>
+      <point x="218" y="100" type="line"/>
+      <point x="188" y="-58" type="line"/>
+      <point x="103" y="-496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>e49fffeb6fc2ff0f25c1455caaaf9b9234c34d26eb1fec93e44e36458fd6d8bed6994baec36b0c7a3ace1e2847c811c9b1a1b09a3306af647353340bff7dc5b6</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

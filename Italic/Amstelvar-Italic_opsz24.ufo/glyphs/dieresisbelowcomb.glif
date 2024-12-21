@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="477" y="-296" type="qcurve"/>
+      <point x="477" y="-242"/>
+      <point x="537" y="-183"/>
+      <point x="592" y="-183" type="qcurve"/>
+      <point x="644" y="-183"/>
+      <point x="707" y="-246"/>
+      <point x="707" y="-296" type="qcurve"/>
+      <point x="707" y="-349"/>
+      <point x="648" y="-408"/>
+      <point x="592" y="-408" type="qcurve"/>
+      <point x="540" y="-408"/>
+      <point x="477" y="-346"/>
+    </contour>
+    <contour>
+      <point x="63" y="-296" type="qcurve"/>
+      <point x="63" y="-242"/>
+      <point x="123" y="-183"/>
+      <point x="178" y="-183" type="qcurve"/>
+      <point x="230" y="-183"/>
+      <point x="293" y="-246"/>
+      <point x="293" y="-296" type="qcurve"/>
+      <point x="293" y="-349"/>
+      <point x="234" y="-408"/>
+      <point x="178" y="-408" type="qcurve"/>
+      <point x="126" y="-408"/>
+      <point x="63" y="-346"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>058d2ab4e17d56f4a463d2e1f22cb124a688ae83959c16517e776cdebe4cdb5690af1f51a301399b31ad7ddc683c17cdc9a608ea0ebc76d1296049adbf390ef5</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

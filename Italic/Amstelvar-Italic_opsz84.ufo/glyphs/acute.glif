@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <advance width="903"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="426" y="1054" type="line"/>
+      <point x="592" y="1301" type="line"/>
+      <point x="608" y="1323"/>
+      <point x="644" y="1348"/>
+      <point x="663" y="1348" type="qcurve"/>
+      <point x="690" y="1348"/>
+      <point x="726" y="1313"/>
+      <point x="726" y="1280" type="qcurve"/>
+      <point x="726" y="1262"/>
+      <point x="704" y="1233"/>
+      <point x="686" y="1220" type="qcurve"/>
+      <point x="448" y="1035" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w903l426+1054l592+1301o608+1323o644+1348q663+1348o690+1348o726+1313q726+1280o726+1262o704+1233q686+1220l448+1035|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

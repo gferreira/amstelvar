@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="429" y="1148" type="qcurve"/>
+      <point x="359" y="1199" type="line"/>
+      <point x="399" y="1296"/>
+      <point x="614" y="1460"/>
+      <point x="737" y="1459" type="qcurve"/>
+      <point x="858" y="1459"/>
+      <point x="1019" y="1307"/>
+      <point x="1022" y="1199" type="qcurve"/>
+      <point x="945" y="1145" type="line"/>
+      <point x="927" y="1206"/>
+      <point x="811" y="1307"/>
+      <point x="720" y="1308" type="qcurve"/>
+      <point x="625" y="1308"/>
+      <point x="467" y="1201"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>dec6706d10399a160bf478b2592e06db136a96d054f2091567620b1753e2a626e111fce88a9c9083e0f3467317e14b2bc47a1f9a5eb89745e54747cbb6c1d583</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

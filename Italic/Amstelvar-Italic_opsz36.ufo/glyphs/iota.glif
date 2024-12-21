@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota" format="2">
+  <advance width="540"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="57" y="-14" type="line"/>
+      <point x="11" y="84" type="line"/>
+      <point x="100" y="507" type="line"/>
+      <point x="172" y="942" type="line"/>
+      <point x="266" y="965" type="line"/>
+      <point x="301" y="962" type="line"/>
+      <point x="328" y="917" type="line"/>
+      <point x="239" y="480" type="line"/>
+      <point x="175" y="112" type="line"/>
+      <point x="416" y="143" type="line"/>
+      <point x="416" y="89" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w540l57-14l11+84l100+507l172+942l266+965l301+962l328+917l239+480l175+112l416+143l416+89|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

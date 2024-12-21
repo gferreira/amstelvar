@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="736" y="1616" type="qcurve"/>
+      <point x="703" y="1616"/>
+      <point x="668" y="1650"/>
+      <point x="644" y="1690" type="qcurve"/>
+      <point x="496" y="1933" type="line"/>
+      <point x="573" y="2001" type="line"/>
+      <point x="761" y="1787" type="line"/>
+      <point x="1041" y="2001" type="line"/>
+      <point x="1111" y="1932" type="line"/>
+      <point x="860" y="1690" type="line"/>
+      <point x="809" y="1641"/>
+      <point x="770" y="1616"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1014q736+1616o703+1616o668+1650q644+1690l496+1933l573+2001l761+1787l1041+2001l1111+1932l860+1690o809+1641o770+1616|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="903"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="617" y="1163" type="qcurve"/>
+      <point x="617" y="1204"/>
+      <point x="668" y="1254"/>
+      <point x="710" y="1254" type="qcurve"/>
+      <point x="752" y="1254"/>
+      <point x="803" y="1203"/>
+      <point x="803" y="1163" type="qcurve"/>
+      <point x="803" y="1123"/>
+      <point x="752" y="1073"/>
+      <point x="710" y="1073" type="qcurve"/>
+      <point x="668" y="1073"/>
+      <point x="617" y="1123"/>
+    </contour>
+    <contour>
+      <point x="305" y="1163" type="qcurve"/>
+      <point x="305" y="1204"/>
+      <point x="356" y="1254"/>
+      <point x="398" y="1254" type="qcurve"/>
+      <point x="440" y="1254"/>
+      <point x="491" y="1203"/>
+      <point x="491" y="1163" type="qcurve"/>
+      <point x="491" y="1123"/>
+      <point x="440" y="1073"/>
+      <point x="398" y="1073" type="qcurve"/>
+      <point x="356" y="1073"/>
+      <point x="305" y="1123"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f42a6d0cfeae7104d6fde1919e418ef738f127f0ef48d36c424759e490a9e8627af8d721e9c672ec3ce6fb2e033463b5fc35523c3d10db968e83d61adda8d31c</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

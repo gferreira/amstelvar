@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.case" format="2">
+  <advance width="961"/>
+  <outline>
+    <contour>
+      <point x="628" y="-113" type="qcurve"/>
+      <point x="682" y="-147" type="line"/>
+      <point x="638" y="-242"/>
+      <point x="440" y="-391"/>
+      <point x="324" y="-391" type="qcurve"/>
+      <point x="209" y="-391"/>
+      <point x="53" y="-245"/>
+      <point x="52" y="-142" type="qcurve"/>
+      <point x="112" y="-106" type="line"/>
+      <point x="131" y="-164"/>
+      <point x="254" y="-258"/>
+      <point x="340" y="-258" type="qcurve"/>
+      <point x="434" y="-258"/>
+      <point x="592" y="-161"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w961q628-113l682-147o638-242o440-391q324-391o209-391o53-245q52-142l112-106o131-164o254-258q340-258o434-258o592-161|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

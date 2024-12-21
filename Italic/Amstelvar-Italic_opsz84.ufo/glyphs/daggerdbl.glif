@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="932"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="202" y="-483" type="line"/>
+      <point x="234" y="-21" type="line"/>
+      <point x="346" y="361" type="line"/>
+      <point x="460" y="925" type="line"/>
+      <point x="512" y="1449" type="line"/>
+      <point x="564" y="1503" type="line"/>
+      <point x="626" y="1506" type="line"/>
+      <point x="650" y="1427" type="line"/>
+      <point x="505" y="925" type="line"/>
+      <point x="391" y="361" type="line"/>
+      <point x="348" y="-38" type="line"/>
+      <point x="204" y="-483" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="911" type="line"/>
+      <point x="100" y="942" type="line"/>
+      <point x="491" y="973" type="line"/>
+      <point x="887" y="942" type="line"/>
+      <point x="882" y="911" type="line"/>
+      <point x="483" y="922" type="line"/>
+    </contour>
+    <contour>
+      <point x="-3" y="414" type="line"/>
+      <point x="1" y="446" type="line"/>
+      <point x="391" y="477" type="line"/>
+      <point x="787" y="446" type="line"/>
+      <point x="783" y="414" type="line"/>
+      <point x="383" y="426" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>6f9fa4033ffe3985e275a91f992351eba07ae1aa14b5863bf5394c0d0604abf80535b9cdff1c708bf2dad7ef097d1b307f93d1db0713daf03e7ee495433ff9af</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

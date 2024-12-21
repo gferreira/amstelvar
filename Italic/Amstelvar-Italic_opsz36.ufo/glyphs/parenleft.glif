@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="598"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="64" y="693" type="qcurve"/>
+      <point x="100" y="945"/>
+      <point x="452" y="1427"/>
+      <point x="627" y="1543" type="qcurve"/>
+      <point x="667" y="1502" type="line"/>
+      <point x="520" y="1367"/>
+      <point x="284" y="931"/>
+      <point x="250" y="694" type="qcurve"/>
+      <point x="217" y="459"/>
+      <point x="326" y="14"/>
+      <point x="435" y="-117" type="qcurve"/>
+      <point x="385" y="-160" type="line"/>
+      <point x="244" y="-44"/>
+      <point x="28" y="432"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w598q64+693o100+945o452+1427q627+1543l667+1502o520+1367o284+931q250+694o217+459o326+14q435-117l385-160o244-44o28+432|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

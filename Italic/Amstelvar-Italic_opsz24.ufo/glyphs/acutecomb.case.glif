@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="611" y="1672" type="line"/>
+      <point x="868" y="1903" type="line"/>
+      <point x="910" y="1940"/>
+      <point x="976" y="1993"/>
+      <point x="1015" y="1993" type="qcurve"/>
+      <point x="1054" y="1993"/>
+      <point x="1107" y="1934"/>
+      <point x="1107" y="1895" type="qcurve"/>
+      <point x="1107" y="1856"/>
+      <point x="1035" y="1803"/>
+      <point x="984" y="1773" type="qcurve"/>
+      <point x="669" y="1591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1014l611+1672l868+1903o910+1940o976+1993q1015+1993o1054+1993o1107+1934q1107+1895o1107+1856o1035+1803q984+1773l669+1591|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

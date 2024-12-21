@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="960"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="24" y="49" type="line"/>
+      <point x="116" y="492" type="line"/>
+      <point x="171" y="826" type="line"/>
+      <point x="42" y="850" type="line"/>
+      <point x="42" y="874" type="line"/>
+      <point x="279" y="926" type="line"/>
+      <point x="308" y="924" type="line"/>
+      <point x="329" y="885" type="line"/>
+      <point x="274" y="630" type="line"/>
+      <point x="176" y="87" type="line"/>
+      <point x="177" y="13" type="line"/>
+      <point x="26" y="-12" type="line"/>
+    </contour>
+    <contour>
+      <point x="908" y="899" type="line"/>
+      <point x="765" y="851" type="line"/>
+      <point x="480" y="595" type="line"/>
+      <point x="748" y="73" type="line"/>
+      <point x="856" y="66" type="line"/>
+      <point x="856" y="47" type="line"/>
+      <point x="701" y="4" type="line"/>
+      <point x="654" y="-9"/>
+      <point x="620" y="16"/>
+      <point x="574" y="113" type="qcurve"/>
+      <point x="375" y="514" type="line"/>
+      <point x="216" y="390" type="line"/>
+      <point x="206" y="411" type="line"/>
+      <point x="696" y="854" type="line"/>
+      <point x="689" y="865" type="line"/>
+      <point x="575" y="894" type="line"/>
+      <point x="582" y="924" type="line"/>
+      <point x="911" y="925" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4d91fe79d947a6ce22f3e62ec9624bb1e2314ad6d3563c60bfcb17adf8c452db375c8c078b46a95c68d9b41c26c003464c0ac67a6251eb978c43a7460af95529</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

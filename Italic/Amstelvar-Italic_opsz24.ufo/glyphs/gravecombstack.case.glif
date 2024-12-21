@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecombstack.case" format="2">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="609" y="1863" type="qcurve"/>
+      <point x="609" y="1902"/>
+      <point x="667" y="1952"/>
+      <point x="699" y="1952" type="qcurve"/>
+      <point x="734" y="1952"/>
+      <point x="788" y="1902"/>
+      <point x="819" y="1846" type="qcurve"/>
+      <point x="942" y="1618" type="line"/>
+      <point x="867" y="1564" type="line"/>
+      <point x="674" y="1761" type="line"/>
+      <point x="649" y="1786"/>
+      <point x="609" y="1839"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1014q609+1863o609+1902o667+1952q699+1952o734+1952o788+1902q819+1846l942+1618l867+1564l674+1761o649+1786o609+1839|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="566"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="173" y="993" type="line"/>
+      <point x="380" y="1463" type="line"/>
+      <point x="398" y="1503"/>
+      <point x="479" y="1545"/>
+      <point x="526" y="1519" type="qcurve"/>
+      <point x="574" y="1492"/>
+      <point x="577" y="1394"/>
+      <point x="548" y="1360" type="qcurve"/>
+      <point x="210" y="975" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w566l173+993l380+1463o398+1503o479+1545q526+1519o574+1492o577+1394q548+1360l210+975|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
