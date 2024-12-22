@@ -50,7 +50,8 @@
       "XUCS": 113,
       "XDOT": 116,
       "YTOS": 10,
-      "WDSP": 267
+      "WDSP": 267,
+      "YTEQ": 194
     },
     "opsz144_wdth125": {
       "XOUC": 86,
@@ -82,7 +83,8 @@
       "XUCS": 157,
       "XDOT": 116,
       "YTOS": 10,
-      "WDSP": 267
+      "WDSP": 267,
+      "YTEQ": 186
     },
     "opsz144_wdth50": {
       "XOUC": 78,
@@ -114,7 +116,8 @@
       "XUCS": 65,
       "XDOT": 95,
       "YTOS": 10,
-      "WDSP": 100
+      "WDSP": 100,
+      "YTEQ": 193
     },
     "opsz144_wght100": {
       "XOUC": 34,
@@ -146,7 +149,8 @@
       "XUCS": 126,
       "XDOT": 64,
       "YTOS": 10,
-      "WDSP": 256
+      "WDSP": 256,
+      "YTEQ": 186
     },
     "opsz144_wght1000": {
       "XOUC": 244,
@@ -178,7 +182,8 @@
       "XUCS": 78,
       "XDOT": 218,
       "YTOS": 13,
-      "WDSP": 198
+      "WDSP": 198,
+      "YTEQ": 238
     },
     "opsz144_wght1000_wdth125": {
       "XOUC": 246,
@@ -210,7 +215,8 @@
       "XUCS": 122,
       "XDOT": 218,
       "YTOS": 13,
-      "WDSP": 225
+      "WDSP": 225,
+      "YTEQ": 180
     },
     "opsz144_wght1000_wdth50": {
       "XOUC": 239,
@@ -242,7 +248,8 @@
       "XUCS": 35,
       "XDOT": 196,
       "YTOS": 9,
-      "WDSP": 156
+      "WDSP": 156,
+      "YTEQ": 307
     },
     "opsz144_wght100_wdth125": {
       "XOUC": 32,
@@ -274,7 +281,8 @@
       "XUCS": 172,
       "XDOT": 64,
       "YTOS": 10,
-      "WDSP": 278
+      "WDSP": 278,
+      "YTEQ": 181
     },
     "opsz144_wght100_wdth50": {
       "XOUC": 28,
@@ -306,7 +314,8 @@
       "XUCS": 78,
       "XDOT": 58,
       "YTOS": 10,
-      "WDSP": 122
+      "WDSP": 122,
+      "YTEQ": 186
     },
     "opsz24": {
       "XOUC": 90,
@@ -338,7 +347,8 @@
       "XUCS": 142,
       "XDOT": 142,
       "YTOS": 10,
-      "WDSP": 316
+      "WDSP": 316,
+      "YTEQ": 145
     },
     "opsz36": {
       "XOUC": 86,
@@ -370,7 +380,8 @@
       "XUCS": 130,
       "XDOT": 130,
       "YTOS": 10,
-      "WDSP": 294
+      "WDSP": 294,
+      "YTEQ": 167
     },
     "opsz8": {
       "XOUC": 112,
@@ -402,7 +413,8 @@
       "XUCS": 145,
       "XDOT": 162,
       "YTOS": 10,
-      "WDSP": 320
+      "WDSP": 320,
+      "YTEQ": 130
     },
     "opsz84": {
       "XOUC": 84,
@@ -434,7 +446,8 @@
       "XUCS": 114,
       "XDOT": 118,
       "YTOS": 10,
-      "WDSP": 270
+      "WDSP": 270,
+      "YTEQ": 190
     },
     "opsz8_wdth125": {
       "XOUC": 114,
@@ -466,7 +479,8 @@
       "XUCS": 189,
       "XDOT": 162,
       "YTOS": 10,
-      "WDSP": 320
+      "WDSP": 320,
+      "YTEQ": 124
     },
     "opsz8_wdth50": {
       "XOUC": 107,
@@ -498,7 +512,8 @@
       "XUCS": 97,
       "XDOT": 140,
       "YTOS": 10,
-      "WDSP": 152
+      "WDSP": 152,
+      "YTEQ": 160
     },
     "opsz8_wght100": {
       "XOUC": 62,
@@ -530,7 +545,8 @@
       "XUCS": 158,
       "XDOT": 109,
       "YTOS": 10,
-      "WDSP": 256
+      "WDSP": 256,
+      "YTEQ": 140
     },
     "opsz8_wght1000": {
       "XOUC": 272,
@@ -562,7 +578,8 @@
       "XUCS": 110,
       "XDOT": 264,
       "YTOS": 14,
-      "WDSP": 250
+      "WDSP": 250,
+      "YTEQ": 144
     },
     "opsz8_wght1000_wdth125": {
       "XOUC": 274,
@@ -594,7 +611,8 @@
       "XUCS": 154,
       "XDOT": 264,
       "YTOS": 14,
-      "WDSP": 310
+      "WDSP": 310,
+      "YTEQ": 138
     },
     "opsz8_wght1000_wdth50": {
       "XOUC": 268,
@@ -626,7 +644,8 @@
       "XUCS": 64,
       "XDOT": 242,
       "YTOS": 14,
-      "WDSP": 240
+      "WDSP": 240,
+      "YTEQ": 224
     },
     "opsz8_wght100_wdth125": {
       "XOUC": 64,
@@ -658,7 +677,8 @@
       "XUCS": 202,
       "XDOT": 120,
       "YTOS": 10,
-      "WDSP": 256
+      "WDSP": 256,
+      "YTEQ": 142
     },
     "opsz8_wght100_wdth50": {
       "XOUC": 57,
@@ -690,7 +710,8 @@
       "XUCS": 110,
       "XDOT": 104,
       "YTOS": 10,
-      "WDSP": 160
+      "WDSP": 160,
+      "YTEQ": 140
     },
     "wdth125": {
       "XOUC": 92,
@@ -722,7 +743,8 @@
       "XUCS": 189,
       "XDOT": 144,
       "YTOS": 10,
-      "WDSP": 320
+      "WDSP": 320,
+      "YTEQ": 136
     },
     "wdth50": {
       "XOUC": 85,
@@ -754,7 +776,8 @@
       "XUCS": 97,
       "XDOT": 122,
       "YTOS": 10,
-      "WDSP": 152
+      "WDSP": 152,
+      "YTEQ": 140
     },
     "wght100": {
       "XOUC": 40,
@@ -786,7 +809,8 @@
       "XUCS": 158,
       "XDOT": 91,
       "YTOS": 10,
-      "WDSP": 256
+      "WDSP": 256,
+      "YTEQ": 152
     },
     "wght1000": {
       "XOUC": 250,
@@ -818,7 +842,8 @@
       "XUCS": 110,
       "XDOT": 246,
       "YTOS": 14,
-      "WDSP": 250
+      "WDSP": 250,
+      "YTEQ": 155
     },
     "wght1000_wdth125": {
       "XOUC": 252,
@@ -850,7 +875,8 @@
       "XUCS": 154,
       "XDOT": 246,
       "YTOS": 14,
-      "WDSP": 250
+      "WDSP": 250,
+      "YTEQ": 150
     },
     "wght1000_wdth50": {
       "XOUC": 246,
@@ -882,7 +908,8 @@
       "XUCS": 39,
       "XDOT": 224,
       "YTOS": 14,
-      "WDSP": 150
+      "WDSP": 150,
+      "YTEQ": 234
     },
     "wght100_wdth125": {
       "XOUC": 42,
@@ -914,7 +941,8 @@
       "XUCS": 202,
       "XDOT": 91,
       "YTOS": 10,
-      "WDSP": 256
+      "WDSP": 256,
+      "YTEQ": 146
     },
     "wght100_wdth50": {
       "XOUC": 35,
@@ -946,7 +974,8 @@
       "XUCS": 110,
       "XDOT": 70,
       "YTOS": 10,
-      "WDSP": 105
+      "WDSP": 105,
+      "YTEQ": 151
     },
     "wght400": {
       "XOUC": 90,
@@ -978,7 +1007,8 @@
       "XUCS": 145,
       "XDOT": 144,
       "YTOS": 10,
-      "WDSP": 320
+      "WDSP": 320,
+      "YTEQ": 141
     }
   }
 }

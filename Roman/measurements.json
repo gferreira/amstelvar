@@ -404,6 +404,15 @@
       "point 2": "23",
       "parent": null,
       "description": null
+    },
+    "XTEQ": {
+      "direction": "x",
+      "glyph 1": "O",
+      "point 1": "22",
+      "glyph 2": "O",
+      "point 2": "21",
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {
@@ -438,37 +447,37 @@
       }
     },
     "zero": {
-      "0 -1": {
-        "direction": "x",
-        "name": "XFIR"
-      },
       "0 12": {
-        "direction": "x",
-        "name": "XOFI"
-      },
-      "12 18": {
-        "direction": "x",
-        "name": "XTFI"
+        "name": "XOFI",
+        "direction": "x"
       },
       "18 6": {
-        "direction": "x",
-        "name": "XOFI"
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "12 18": {
+        "name": "XTFI",
+        "direction": "x"
       },
       "3 21": {
-        "direction": "y",
-        "name": "YOFI"
-      },
-      "3 9": {
-        "direction": "y",
-        "name": "YTFI"
+        "name": "YOFI",
+        "direction": "y"
       },
       "9 15": {
-        "direction": "y",
-        "name": "YOFI"
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "3 9": {
+        "name": "YTFI",
+        "direction": "y"
+      },
+      "0 -1": {
+        "name": "XFIR",
+        "direction": "x"
       },
       "99 6": {
-        "direction": "x",
-        "name": "XFIR"
+        "name": "XFIR",
+        "direction": "x"
       }
     },
     "one": {
@@ -634,45 +643,45 @@
       }
     },
     "eight": {
-      "0 -1": {
-        "direction": "x",
-        "name": "XFIR"
-      },
       "0 7": {
-        "direction": "x",
-        "name": "XOFI"
-      },
-      "10 47": {
-        "direction": "y",
-        "name": "YOFI"
+        "name": "XOFI",
+        "direction": "x"
       },
       "13 44": {
-        "direction": "x",
-        "name": "XOFI"
-      },
-      "16 41": {
-        "direction": "y",
-        "name": "YOFI"
+        "name": "XOFI",
+        "direction": "x"
       },
       "19 38": {
-        "direction": "x",
-        "name": "XOFI"
-      },
-      "22 35": {
-        "direction": "y",
-        "name": "YOFI"
-      },
-      "22 47": {
-        "direction": "y",
-        "name": "YTFI"
+        "name": "XOFI",
+        "direction": "x"
       },
       "32 25": {
-        "direction": "x",
-        "name": "XOFI"
+        "name": "XOFI",
+        "direction": "x"
+      },
+      "10 47": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "16 41": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "22 35": {
+        "name": "YOFI",
+        "direction": "y"
+      },
+      "22 47": {
+        "name": "YTFI",
+        "direction": "y"
+      },
+      "0 -1": {
+        "name": "XFIR",
+        "direction": "x"
       },
       "99 44": {
-        "direction": "x",
-        "name": "XFIR"
+        "name": "XFIR",
+        "direction": "x"
       }
     },
     "nine": {
@@ -1623,6 +1632,10 @@
       "12 23": {
         "name": "YTEQ",
         "direction": "y"
+      },
+      "22 21": {
+        "name": "XTEQ",
+        "direction": "x"
       }
     },
     "P": {
