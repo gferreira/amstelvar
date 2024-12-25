@@ -9,7 +9,7 @@ sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 # instancesFolder  = os.path.join(sourcesFolder, 'instances')
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
-parametricAxes   = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT YTEQ'.split()
+parametricAxes   = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT YTEQ XVAU YHAU XVAL YHAL XVAF YHAF'.split()
 
 assert os.path.exists(sourcesFolder)
 assert os.path.exists(measurementsPath)
