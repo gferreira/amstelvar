@@ -28,10 +28,10 @@
       "description": "X stem lowercase"
     },
     "XOFI": {
-      "direction": "a",
-      "glyph 1": "one",
-      "point 1": "5",
-      "glyph 2": "one",
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "0",
+      "glyph 2": "zero",
       "point 2": "12",
       "parent": "XOPQ",
       "description": "X stem figures"
