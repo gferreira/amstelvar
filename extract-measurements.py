@@ -9,56 +9,38 @@ sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 # instancesFolder  = os.path.join(sourcesFolder, 'instances')
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
-parametricAxes   = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT'.split() # XVAU YHAU XVAL YHAL XVAF YHAF YTEQ
+
+parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT XTEQ YTEQ'.split() # XVAU YHAU XVAL YHAL XVAF YHAF 
+parametricAxesItalic = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT'.split() # XVAU YHAU XVAL YHAL XVAF YHAF YTEQ
+
+parametricAxes = parametricAxesRoman if subFamilyName == 'Roman' else parametricAxesItalic
 
 assert os.path.exists(sourcesFolder)
 assert os.path.exists(measurementsPath)
 
 # define blended axes
 
-_axes = {
-    'Roman' : {
-        "opsz" : {
-          "name"    : "Optical size",
-          "default" : 14,
-          "min"     : 8,
-          "max"     : 144,
-        },
-        "wght" : {
-          "name"    : "Weight",
-          "default" : 400,
-          "min"     : 100,
-          "max"     : 1000,
-        },
-        "wdth": {
-          "name"    : "Width",
-          "default" : 100,
-          "min"     : 50,
-          "max"     : 125,
-        }
+axes = {
+    "opsz" : {
+      "name"    : "Optical size",
+      "default" : 14,
+      "min"     : 8,
+      "max"     : 144,
     },
-    'Italic' : {
-        "opsz" : {
-          "name"    : "Optical size",
-          "default" : 14,
-          "min"     : 8,
-          "max"     : 144,
-        },
-        "wght" : {
-          "name"    : "Weight",
-          "default" : 400,
-          "min"     : 100,
-          "max"     : 900,
-        },
-        "wdth": {
-          "name"    : "Width",
-          "default" : 100,
-          "min"     : 50,
-          "max"     : 125,
-        }
+    "wght" : {
+      "name"    : "Weight",
+      "default" : 400,
+      "min"     : 100,
+      "max"     : 1000,
     },
+    "wdth": {
+      "name"    : "Width",
+      "default" : 100,
+      "min"     : 50,
+      "max"     : 125,
+    }
 }
-axes = _axes[subFamilyName]
+# axes = _axes[subFamilyName]
 
 # extract measurements from Amstelvar1 instances
 

@@ -10,7 +10,7 @@
       "name": "Weight",
       "default": 400,
       "min": 100,
-      "max": 900
+      "max": 1000
     },
     "wdth": {
       "name": "Width",
