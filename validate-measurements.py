@@ -6,7 +6,7 @@ measurements for the default in both projects must be equal!
 
 '''
 
-import os, glob
+import os
 from xTools4.modules.measurements import FontMeasurements
 
 subfamilyName     = ['Roman', 'Italic'][1]
