@@ -368,6 +368,24 @@
       "point 2": "99",
       "parent": "",
       "description": ""
+    },
+    "XSHF": {
+      "direction": "x",
+      "glyph 1": "yen",
+      "point 1": "20",
+      "glyph 2": "yen",
+      "point 2": "21",
+      "parent": null,
+      "description": null
+    },
+    "YSHF": {
+      "direction": "y",
+      "glyph 1": "yen",
+      "point 1": 19,
+      "glyph 2": "yen",
+      "point 2": 20,
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {

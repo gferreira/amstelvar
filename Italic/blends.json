@@ -48,7 +48,9 @@
       "YTOS": 8,
       "XUCS": 181,
       "XDOT": 116,
-      "WDSP": 234
+      "WDSP": 234,
+      "XSHF": 86,
+      "YSHF": 14
     },
     "opsz144_wdth125": {
       "XOUC": 88,
@@ -78,7 +80,9 @@
       "YTOS": 8,
       "XUCS": 227,
       "XDOT": 124,
-      "WDSP": 279
+      "WDSP": 279,
+      "XSHF": 110,
+      "YSHF": 14
     },
     "opsz144_wdth50": {
       "XOUC": 81,
@@ -108,7 +112,9 @@
       "YTOS": 3,
       "XUCS": 152,
       "XDOT": 103,
-      "WDSP": 180
+      "WDSP": 180,
+      "XSHF": 64,
+      "YSHF": 12
     },
     "opsz144_wght100": {
       "XOUC": 31,
@@ -138,7 +144,9 @@
       "YTOS": 8,
       "XUCS": 204,
       "XDOT": 60,
-      "WDSP": 213
+      "WDSP": 213,
+      "XSHF": 86,
+      "YSHF": 10
     },
     "opsz144_wght1000": {
       "XOUC": 253,
@@ -168,7 +176,9 @@
       "YTOS": 14,
       "XUCS": 141,
       "XDOT": 212,
-      "WDSP": 344
+      "WDSP": 344,
+      "XSHF": 74,
+      "YSHF": 28
     },
     "opsz144_wght1000_wdth125": {
       "XOUC": 248,
@@ -198,7 +208,9 @@
       "YTOS": 11,
       "XUCS": 184,
       "XDOT": 212,
-      "WDSP": 400
+      "WDSP": 400,
+      "XSHF": 98,
+      "YSHF": 28
     },
     "opsz144_wght1000_wdth50": {
       "XOUC": 239,
@@ -228,7 +240,9 @@
       "YTOS": 12,
       "XUCS": 107,
       "XDOT": 199,
-      "WDSP": 328
+      "WDSP": 328,
+      "XSHF": 44,
+      "YSHF": 23
     },
     "opsz144_wght100_wdth125": {
       "XOUC": 34,
@@ -258,7 +272,9 @@
       "YTOS": 6,
       "XUCS": 240,
       "XDOT": 64,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 110,
+      "YSHF": 10
     },
     "opsz144_wght100_wdth50": {
       "XOUC": 28,
@@ -288,7 +304,9 @@
       "YTOS": 10,
       "XUCS": 158,
       "XDOT": 55,
-      "WDSP": 162
+      "WDSP": 162,
+      "XSHF": 56,
+      "YSHF": 8
     },
     "opsz24": {
       "XOUC": 84,
@@ -318,7 +336,9 @@
       "YTOS": 10,
       "XUCS": 188,
       "XDOT": 136,
-      "WDSP": 313
+      "WDSP": 313,
+      "XSHF": 98,
+      "YSHF": 47
     },
     "opsz36": {
       "XOUC": 84,
@@ -348,7 +368,9 @@
       "YTOS": 8,
       "XUCS": 185,
       "XDOT": 127,
-      "WDSP": 278
+      "WDSP": 278,
+      "XSHF": 93,
+      "YSHF": 32
     },
     "opsz8": {
       "XOUC": 112,
@@ -378,7 +400,9 @@
       "YTOS": 16,
       "XUCS": 196,
       "XDOT": 154,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 102,
+      "YSHF": 67
     },
     "opsz84": {
       "XOUC": 84,
@@ -408,7 +432,9 @@
       "YTOS": 8,
       "XUCS": 182,
       "XDOT": 118,
-      "WDSP": 238
+      "WDSP": 238,
+      "XSHF": 87,
+      "YSHF": 16
     },
     "opsz8_wdth125": {
       "XOUC": 118,
@@ -438,7 +464,9 @@
       "YTOS": 16,
       "XUCS": 242,
       "XDOT": 154,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 126,
+      "YSHF": 67
     },
     "opsz8_wdth50": {
       "XOUC": 110,
@@ -468,7 +496,9 @@
       "YTOS": 2,
       "XUCS": 146,
       "XDOT": 141,
-      "WDSP": 152
+      "WDSP": 152,
+      "XSHF": 90,
+      "YSHF": 65
     },
     "opsz8_wght100": {
       "XOUC": 61,
@@ -498,7 +528,9 @@
       "YTOS": 16,
       "XUCS": 212,
       "XDOT": 106,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 114,
+      "YSHF": 40
     },
     "opsz8_wght1000": {
       "XOUC": 282,
@@ -528,7 +560,9 @@
       "YTOS": 18,
       "XUCS": 161,
       "XDOT": 250,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 90,
+      "YSHF": 82
     },
     "opsz8_wght1000_wdth125": {
       "XOUC": 287,
@@ -558,7 +592,9 @@
       "YTOS": 19,
       "XUCS": 182,
       "XDOT": 261,
-      "WDSP": 310
+      "WDSP": 310,
+      "XSHF": 98,
+      "YSHF": 88
     },
     "opsz8_wght1000_wdth50": {
       "XOUC": 270,
@@ -588,7 +624,9 @@
       "YTOS": 10,
       "XUCS": 114,
       "XDOT": 237,
-      "WDSP": 240
+      "WDSP": 240,
+      "XSHF": 62,
+      "YSHF": 85
     },
     "opsz8_wght100_wdth125": {
       "XOUC": 66,
@@ -618,7 +656,9 @@
       "YTOS": 6,
       "XUCS": 254,
       "XDOT": 112,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 135,
+      "YSHF": 40
     },
     "opsz8_wght100_wdth50": {
       "XOUC": 56,
@@ -648,7 +688,9 @@
       "YTOS": 4,
       "XUCS": 174,
       "XDOT": 93,
-      "WDSP": 106
+      "WDSP": 106,
+      "XSHF": 85,
+      "YSHF": 40
     },
     "wdth125": {
       "XOUC": 90,
@@ -678,7 +720,9 @@
       "YTOS": 10,
       "XUCS": 235,
       "XDOT": 137,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 122,
+      "YSHF": 50
     },
     "wdth50": {
       "XOUC": 82,
@@ -708,7 +752,9 @@
       "YTOS": 6,
       "XUCS": 157,
       "XDOT": 124,
-      "WDSP": 152
+      "WDSP": 152,
+      "XSHF": 82,
+      "YSHF": 48
     },
     "wght100": {
       "XOUC": 43,
@@ -738,7 +784,9 @@
       "YTOS": 10,
       "XUCS": 201,
       "XDOT": 89,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 100,
+      "YSHF": 24
     },
     "wght1000": {
       "XOUC": 254,
@@ -768,7 +816,9 @@
       "YTOS": 12,
       "XUCS": 159,
       "XDOT": 233,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 87,
+      "YSHF": 65
     },
     "wght1000_wdth125": {
       "XOUC": 259,
@@ -798,7 +848,9 @@
       "YTOS": 13,
       "XUCS": 205,
       "XDOT": 233,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 116,
+      "YSHF": 65
     },
     "wght1000_wdth50": {
       "XOUC": 252,
@@ -828,7 +880,9 @@
       "YTOS": 8,
       "XUCS": 108,
       "XDOT": 220,
-      "WDSP": 150
+      "WDSP": 150,
+      "XSHF": 70,
+      "YSHF": 63
     },
     "wght100_wdth125": {
       "XOUC": 48,
@@ -858,7 +912,9 @@
       "YTOS": 10,
       "XUCS": 247,
       "XDOT": 89,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 122,
+      "YSHF": 24
     },
     "wght100_wdth50": {
       "XOUC": 40,
@@ -888,7 +944,9 @@
       "YTOS": 6,
       "XUCS": 170,
       "XDOT": 76,
-      "WDSP": 200
+      "WDSP": 200,
+      "XSHF": 80,
+      "YSHF": 22
     },
     "wght400": {
       "XOUC": 84,
@@ -918,7 +976,9 @@
       "YTOS": 10,
       "XUCS": 189,
       "XDOT": 137,
-      "WDSP": 320
+      "WDSP": 320,
+      "XSHF": 99,
+      "YSHF": 50
     }
   }
 }
