@@ -3,14 +3,14 @@
 import os, glob, json
 from xTools4.modules.measurements import FontMeasurements, permille
 
-subFamilyName    = ['Roman', 'Italic'][1]
+subFamilyName    = ['Roman', 'Italic'][0]
 baseFolder       = os.getcwd()
 sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 # instancesFolder  = os.path.join(sourcesFolder, 'instances')
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
 
-parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT'.split() # XVAU YHAU XVAL YHAL XVAF YHAF XTEQ YTEQ
+parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT GRAD BARS'.split() # XVAU YHAU XVAL YHAL XVAF YHAF XTEQ YTEQ
 parametricAxesItalic = parametricAxesRoman
 
 parametricAxes = parametricAxesRoman if subFamilyName == 'Roman' else parametricAxesItalic

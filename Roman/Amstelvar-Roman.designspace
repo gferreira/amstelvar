@@ -13,6 +13,13 @@
         <dimension name="Width" xvalue="100"/>
       </location>
     </source>
+    <source filename="Amstelvar-Roman_opsz24.ufo" familyname="Amstelvar" stylename="opsz24">
+      <location>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </source>
     <source filename="Amstelvar-Roman_wght100_wdth50.ufo" familyname="Amstelvar" stylename="wght100_wdth50">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -25,6 +32,13 @@
         <dimension name="Optical size" xvalue="14"/>
         <dimension name="Weight" xvalue="1000"/>
         <dimension name="Width" xvalue="125"/>
+      </location>
+    </source>
+    <source filename="Amstelvar-Roman_opsz36.ufo" familyname="Amstelvar" stylename="opsz36">
+      <location>
+        <dimension name="Optical size" xvalue="36"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
       </location>
     </source>
     <source filename="Amstelvar-Roman_opsz144_wght1000.ufo" familyname="Amstelvar" stylename="opsz144_wght1000">
@@ -46,6 +60,13 @@
         <dimension name="Optical size" xvalue="8"/>
         <dimension name="Weight" xvalue="1000"/>
         <dimension name="Width" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="Amstelvar-Roman_opsz84.ufo" familyname="Amstelvar" stylename="opsz84">
+      <location>
+        <dimension name="Optical size" xvalue="84"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
       </location>
     </source>
     <source filename="Amstelvar-Roman_opsz144.ufo" familyname="Amstelvar" stylename="opsz144">
@@ -197,6 +218,13 @@
     </source>
   </sources>
   <instances>
+    <instance name="wght400" familyname="Amstelvar" stylename="wght400" filename="instances/Amstelvar-Roman_wght400.ufo">
+      <location>
+        <dimension name="Optical size" xvalue="14"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+      </location>
+    </instance>
     <instance name="wght200" familyname="Amstelvar" stylename="wght200" filename="instances/Amstelvar-Roman_wght200.ufo">
       <location>
         <dimension name="Optical size" xvalue="14"/>

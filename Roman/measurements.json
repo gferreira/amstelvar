@@ -485,6 +485,24 @@
       "point 2": "2",
       "parent": "YHAA",
       "description": null
+    },
+    "GRAD": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": 2,
+      "glyph 2": "H",
+      "point 2": 11,
+      "parent": null,
+      "description": null
+    },
+    "BARS": {
+      "direction": "y",
+      "glyph 1": "dollar",
+      "point 1": 41,
+      "glyph 2": "dollar",
+      "point 2": 51,
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {
@@ -3242,6 +3260,8 @@
       }
     },
     "Germandbls": {},
-    "at": {}
+    "at": {},
+    "logicalnot": {},
+    "dollar": {}
   }
 }

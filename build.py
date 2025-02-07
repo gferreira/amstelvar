@@ -5,7 +5,7 @@ from fontTools.ttLib import TTFont
 from defcon import Font
 from ufo2ft import compileTTF, compileVariableTTF
 import ufoProcessor # upgrade to UFOOperator
-from variableValues.measurements import FontMeasurements, permille
+from xTools4.modules.measurements import FontMeasurements, permille
 
 
 class AmstelvarDesignSpaceBuilder:
@@ -20,51 +20,29 @@ class AmstelvarDesignSpaceBuilder:
 
     '''
     familyName      = 'Amstelvar'
-    subFamilyName   = ['Roman', 'Italic'][0]
+    subFamilyName   = ['Roman', 'Italic'][1]
     defaultName     = 'wght400'
     designspaceName = f'{familyName}-{subFamilyName}.designspace'
 
     _axes = {
-        'Roman' : {
-            "opsz" : {
-              "name"    : "Optical size",
-              "default" : 14,
-              "min"     : 8,
-              "max"     : 144,
-            },
-            "wght" : {
-              "name"    : "Weight",
-              "default" : 400,
-              "min"     : 100,
-              "max"     : 1000,
-            },
-            "wdth": {
-              "name"    : "Width",
-              "default" : 100,
-              "min"     : 50,
-              "max"     : 125,
-            }
+        "opsz" : {
+          "name"    : "Optical size",
+          "default" : 14,
+          "min"     : 8,
+          "max"     : 144,
         },
-        'Italic' : {
-            "opsz" : {
-              "name"    : "Optical size",
-              "default" : 14,
-              "min"     : 8,
-              "max"     : 144,
-            },
-            "wght" : {
-              "name"    : "Weight",
-              "default" : 400,
-              "min"     : 100,
-              "max"     : 900,
-            },
-            "wdth": {
-              "name"    : "Width",
-              "default" : 100,
-              "min"     : 50,
-              "max"     : 125,
-            }
+        "wght" : {
+          "name"    : "Weight",
+          "default" : 400,
+          "min"     : 100,
+          "max"     : 1000,
         },
+        "wdth": {
+          "name"    : "Width",
+          "default" : 100,
+          "min"     : 50,
+          "max"     : 125,
+        }
     }
 
     instances = [
@@ -119,7 +97,7 @@ class AmstelvarDesignSpaceBuilder:
 
     @property
     def axes(self):
-        return self._axes[self.subFamilyName]
+        return self._axes # [self.subFamilyName]
 
     def addAxes(self):
         for tag in self.axes.keys():
