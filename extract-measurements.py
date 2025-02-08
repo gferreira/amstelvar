@@ -10,7 +10,7 @@ sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
 
-parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT GRAD BARS'.split() # XVAU YHAU XVAL YHAL XVAF YHAF XTEQ YTEQ
+parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS WDSP XDOT BARS'.split() # GRAD XVAU YHAU XVAL YHAL XVAF YHAF XTEQ YTEQ
 parametricAxesItalic = parametricAxesRoman
 
 parametricAxes = parametricAxesRoman if subFamilyName == 'Roman' else parametricAxesItalic
@@ -40,21 +40,25 @@ axes = {
       "max"     : 125,
     }
 }
-# axes = _axes[subFamilyName]
 
 # extract measurements from Amstelvar1 instances
 
 ufos = [f for f in glob.glob(f'{sourcesFolder}/*.ufo') if 'GRAD' not in f]
+
+print(f'extracting measurements from {subFamilyName} sources...')
 
 sources = {}
 for ufoPath in sorted(ufos):
     fontName = os.path.splitext(os.path.split(ufoPath)[-1])[0]
     styleName = '_'.join(fontName.split('_')[1:])
     f = OpenFont(ufoPath, showInterface=False)
+    print(f'\t{fontName}')
     M = FontMeasurements()
     M.read(measurementsPath)
     M.measure(f)
-    sources[styleName] = { k: permille(v, 2000) for k, v in M.values.items() if k in parametricAxes }
+    sources[styleName] = { k: permille(v, f.info.unitsPerEm) for k, v in M.values.items() if k in parametricAxes }
+
+print()
 
 # save measurements to JSON blends file
 
@@ -63,5 +67,9 @@ blendsDict = {
     'sources' : sources,
 }
 
+print('saving measurements data to blends.json...\n')
+
 with open(blendsPath, 'w', encoding='utf-8') as f:
     json.dump(blendsDict, f, indent=2)
+
+print('done!\n')

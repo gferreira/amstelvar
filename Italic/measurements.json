@@ -386,6 +386,24 @@
       "point 2": 20,
       "parent": null,
       "description": null
+    },
+    "GRAD": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": 2,
+      "glyph 2": "H",
+      "point 2": 11,
+      "parent": null,
+      "description": null
+    },
+    "BARS": {
+      "direction": "y",
+      "glyph 1": "dollar",
+      "point 1": 41,
+      "glyph 2": "dollar",
+      "point 2": 51,
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {
@@ -10426,6 +10444,12 @@
       "-1 99": {
         "name": "WDSP",
         "direction": "x"
+      }
+    },
+    "dollar.rvrn": {
+      "41 51": {
+        "name": "BARS",
+        "direction": "y"
       }
     }
   }
