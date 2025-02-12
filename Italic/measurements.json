@@ -404,6 +404,15 @@
       "point 2": 51,
       "parent": null,
       "description": null
+    },
+    "XFIS": {
+      "direction": "x",
+      "glyph 1": "one",
+      "point 1": 14,
+      "glyph 2": "one",
+      "point 2": "99",
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {
@@ -511,6 +520,10 @@
       "B 15": {
         "name": "YTOS",
         "direction": "y"
+      },
+      "14 99": {
+        "name": "XFIS",
+        "direction": "x"
       }
     },
     "two": {
