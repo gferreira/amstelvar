@@ -76,13 +76,11 @@
     <key>com.typemytype.robofont.guideline.showMeasurements.gc8IVLaOb5</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
-    <integer>0</integer>
+    <integer>-144</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>qcurve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
-    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
-    <string>5912309712</string>
     <key>com.typesupply.defcon.sortDescriptor</key>
     <array>
       <dict>

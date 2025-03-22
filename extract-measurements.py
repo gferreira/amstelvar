@@ -3,13 +3,13 @@
 import os, glob, json
 from xTools4.modules.measurements import FontMeasurements, permille
 
-subFamilyName    = ['Roman', 'Italic'][1]
+subFamilyName    = ['Roman', 'Italic'][0]
 baseFolder       = os.getcwd()
 sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
 
-parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTLC XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS XLCS XFIR WDSP XDOT BARS'.split() # GRAD XVAU YHAU XVAL YHAL XVAF YHAF XTEQ YTEQ
+parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTUR XTUD XTLC XTLR XTLD XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XVAU YHAU XVAL YHAL XVAF YHAF XTTW YTTL YTOS XUCS XUCR XUCD XLCS XLCR XLCD XFIR WDSP XDOT BARS XQUC XQLC XQFI YQUC YQLC YQFI'.split() # GRAD 
 parametricAxesItalic = parametricAxesRoman
 
 parametricAxes = parametricAxesRoman if subFamilyName == 'Roman' else parametricAxesItalic
@@ -71,4 +71,4 @@ print('saving measurements data to blends.json...\n')
 with open(blendsPath, 'w', encoding='utf-8') as f:
     json.dump(blendsDict, f, indent=2)
 
-print('done!\n')
+print('...done!\n')
