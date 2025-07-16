@@ -3,14 +3,14 @@
 import os, glob, json
 from xTools4.modules.measurements import FontMeasurements, permille
 
-subFamilyName    = ['Roman', 'Italic'][1]
+subFamilyName    = ['Roman', 'Italic'][0]
 baseFolder       = os.getcwd()
 sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
 
-parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTUR XTUD XTLC XTLR XTLD XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XVAU YHAU XVAL YHAL XVAF YHAF XTTW YTTL YTOS XUCS XUCR XUCD XLCS XLCR XLCD XFIR WDSP XDOT BARS XQUC XQLC XQFI YQUC YQLC YQFI'.split() # GRAD 
-parametricAxesItalic = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTUR XTUD XTLC XTLR XTLD XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF                               XTTW YTTL YTOS XUCS XUCR XUCD XLCS XLCR XLCD XFIR WDSP XDOT BARS                              '.split()
+parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTUR XTUD XTUA XTLC XTLR XTLD XTLA XTFI YTUC YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XVAU YHAU XVAL YHAL XVAF YHAF XTTW YTTL YTOS XUCS XUCR XUCD XLCS XLCR XLCD XFIR WDSP XDOT XQUC XQLC XQFI YQUC YQLC YQFI'.split() # XTAB BARS 
+parametricAxesItalic = parametricAxesRoman
 
 parametricAxes = parametricAxesRoman if subFamilyName == 'Roman' else parametricAxesItalic
 
@@ -23,20 +23,20 @@ axes = {
     "opsz" : {
       "name"    : "Optical size",
       "default" : 14,
-      "min"     : 8,
-      "max"     : 144,
+      "minimum" : 8,
+      "maximum" : 144,
     },
     "wght" : {
       "name"    : "Weight",
       "default" : 400,
-      "min"     : 100,
-      "max"     : 1000,
+      "minimum" : 100,
+      "maximum" : 1000,
     },
     "wdth": {
       "name"    : "Width",
       "default" : 100,
-      "min"     : 50,
-      "max"     : 125,
+      "minimum" : 50,
+      "maximum" : 125,
     }
 }
 
