@@ -97,13 +97,6 @@
         <dimension name="Width" xvalue="50"/>
       </location>
     </source>
-    <source filename="Amstelvar-Italic_opsz36.ufo" familyname="Amstelvar" stylename="opsz36">
-      <location>
-        <dimension name="Optical size" xvalue="36"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-      </location>
-    </source>
     <source filename="Amstelvar-Italic_wght100.ufo" familyname="Amstelvar" stylename="wght100">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -146,13 +139,6 @@
         <dimension name="Width" xvalue="125"/>
       </location>
     </source>
-    <source filename="Amstelvar-Italic_opsz24.ufo" familyname="Amstelvar" stylename="opsz24">
-      <location>
-        <dimension name="Optical size" xvalue="24"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
-      </location>
-    </source>
     <source filename="Amstelvar-Italic_wdth125.ufo" familyname="Amstelvar" stylename="wdth125">
       <location>
         <dimension name="Optical size" xvalue="14"/>
@@ -186,13 +172,6 @@
         <dimension name="Optical size" xvalue="14"/>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="50"/>
-      </location>
-    </source>
-    <source filename="Amstelvar-Italic_opsz84.ufo" familyname="Amstelvar" stylename="opsz84">
-      <location>
-        <dimension name="Optical size" xvalue="84"/>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="Width" xvalue="100"/>
       </location>
     </source>
     <source filename="Amstelvar-Italic_wght1000.ufo" familyname="Amstelvar" stylename="wght1000">
