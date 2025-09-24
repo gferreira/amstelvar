@@ -638,6 +638,15 @@
       "point 2": "5",
       "parent": null,
       "description": null
+    },
+    "YTJD": {
+      "direction": "y",
+      "glyph 1": "J",
+      "point 1": "B",
+      "glyph 2": "J",
+      "point 2": 19,
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {
@@ -1532,45 +1541,45 @@
       }
     },
     "J": {
-      "-1 12": {
-        "direction": "y",
-        "name": "YTUC"
+      "9 14": {
+        "name": "XOUC",
+        "direction": "x"
       },
       "1 7": {
-        "direction": "x",
-        "name": "XTUC"
-      },
-      "10 11": {
-        "direction": "y",
-        "name": "YSHU"
-      },
-      "12 13": {
-        "direction": "y",
-        "name": "YSHU"
-      },
-      "13 14": {
-        "direction": "x",
-        "name": "XSHU"
+        "name": "XTUC",
+        "direction": "x"
       },
       "4 19": {
-        "direction": "y",
-        "name": "YOUC"
+        "name": "YOUC",
+        "direction": "y"
       },
-      "9 -1": {
-        "direction": "x",
-        "name": "XUCS"
+      "-1 12": {
+        "name": "YTUC",
+        "direction": "y"
+      },
+      "13 14": {
+        "name": "XSHU",
+        "direction": "x"
       },
       "9 10": {
-        "direction": "x",
-        "name": "XSHU"
+        "name": "XSHU",
+        "direction": "x"
       },
-      "9 14": {
-        "direction": "x",
-        "name": "XOUC"
+      "10 11": {
+        "name": "YSHU",
+        "direction": "y"
+      },
+      "12 13": {
+        "name": "YSHU",
+        "direction": "y"
+      },
+      "9 -1": {
+        "name": "XUCS",
+        "direction": "x"
       },
       "99 14": {
-        "direction": "x",
-        "name": "XUCS"
+        "name": "XUCS",
+        "direction": "x"
       }
     },
     "K": {

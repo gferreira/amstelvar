@@ -593,6 +593,15 @@
       "point 2": 5,
       "parent": null,
       "description": null
+    },
+    "YTJD": {
+      "direction": "y",
+      "glyph 1": "J",
+      "point 1": "B",
+      "glyph 2": "J",
+      "point 2": 19,
+      "parent": null,
+      "description": null
     }
   },
   "glyphs": {
