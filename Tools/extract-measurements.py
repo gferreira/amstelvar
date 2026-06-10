@@ -1,15 +1,19 @@
 # menuTitle: extract parametric blends from Amstelvar1 extrema
 
+from importlib import reload
+import xTools4.modules.measurements
+reload(xTools4.modules.measurements)
+
 import os, glob, json
-from xTools4.modules.measurements import FontMeasurements, permille
+from xTools4.modules.measurements import extractMeasurements
 
 subFamilyName    = ['Roman', 'Italic'][1]
-baseFolder       = os.getcwd()
+baseFolder       = os.path.dirname(os.getcwd())
 sourcesFolder    = os.path.join(baseFolder, subFamilyName)
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
 blendsPath       = os.path.join(sourcesFolder, 'blends.json')
 
-parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XTUC XTUR XTUD XTUA XTLC XTLR XTLD XTLA XTFI YTUC YTJD YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XVAU YHAU XVAL YHAL XVAF YHAF XTTW YTTL YTOS XUCS XUCR XUCD XLCS XLCR XLCD XFIR WDSP XDOT XQUC XQLC XQFI YQUC YQLC YQFI'.split() # XTAB BARS 
+parametricAxesRoman  = 'XOUC XOLC XOFI YOUC YOLC YOFI XOUA XOLA YOUA YOLA XTUC XTUR XTUD XTUA XTLC XTLR XTLD XTLA XTFI YTUC YTJD YTLC YTAS YTDE YTFI XSHU YSHU XSVU YSVU XSHL YSHL XSVL YSVL XSHF YSHF XSVF YSVF XTTW YTTL YTOS XUCS XUCR XUCD XLCS XLCR XLCD XFIR WDSP XDOT XQUC XQLC XQFI YQUC YQLC YQFI XVAU'.split() # U#XO U#YO U#XT U#XQ YHAU XVAL YHAL XVAF YHAF
 parametricAxesItalic = parametricAxesRoman
 
 parametricAxes = parametricAxesRoman if subFamilyName == 'Roman' else parametricAxesItalic
@@ -44,20 +48,7 @@ axes = {
 
 ufos = [f for f in glob.glob(f'{sourcesFolder}/*.ufo') if 'GRAD' not in f]
 
-print(f'extracting measurements from {subFamilyName} sources...')
-
-sources = {}
-for ufoPath in sorted(ufos):
-    fontName = os.path.splitext(os.path.split(ufoPath)[-1])[0]
-    styleName = '_'.join(fontName.split('_')[1:])
-    f = OpenFont(ufoPath, showInterface=False)
-    print(f'\t{fontName}')
-    M = FontMeasurements()
-    M.read(measurementsPath)
-    M.measure(f)
-    sources[styleName] = { k: permille(v, f.info.unitsPerEm) for k, v in M.values.items() if k in parametricAxes }
-
-print()
+sources = extractMeasurements(ufos, measurementsPath, parametricAxes)
 
 # save measurements to JSON blends file
 
@@ -66,7 +57,7 @@ blendsDict = {
     'sources' : sources,
 }
 
-print('saving measurements data to blends.json...\n')
+print('saving blended axes and measurements to blends.json...\n')
 
 with open(blendsPath, 'w', encoding='utf-8') as f:
     json.dump(blendsDict, f, indent=2)

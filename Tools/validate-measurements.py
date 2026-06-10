@@ -12,7 +12,7 @@ from xTools4.modules.measurements import FontMeasurements
 subfamilyName     = ['Roman', 'Italic'][0]
 defaultName       = 'wght400'
 
-baseFolder1       = os.getcwd()
+baseFolder1       = os.path.dirname(os.getcwd())
 sourcesFolder1    = os.path.join(baseFolder1, subfamilyName)
 measurementsPath1 = os.path.join(sourcesFolder1, 'measurements.json')
 defaultPath1      = os.path.join(sourcesFolder1, f'Amstelvar-{subfamilyName}_{defaultName}.ufo')

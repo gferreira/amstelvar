@@ -64,7 +64,7 @@ class AmstelvarDesignSpaceBuilder:
 
     @property
     def baseFolder(self):
-        return os.getcwd()
+        return os.path.dirname(os.getcwd())
 
     @property
     def sourcesFolder(self):

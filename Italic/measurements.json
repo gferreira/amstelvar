@@ -293,7 +293,7 @@
       "glyph 1": "T",
       "point 1": "3",
       "glyph 2": "T",
-      "point 2": "2",
+      "point 2": "5",
       "parent": "YSVA",
       "description": "Y vertical serif uppercase"
     },
@@ -323,6 +323,42 @@
       "point 2": "3",
       "parent": "",
       "description": "General y overshoot"
+    },
+    "XOUA": {
+      "direction": "a",
+      "glyph 1": "tildecomb.case",
+      "point 1": "19",
+      "glyph 2": "tildecomb.case",
+      "point 2": "6",
+      "parent": "XOAC",
+      "description": "Uppercase accents main weight"
+    },
+    "XOLA": {
+      "direction": "a",
+      "glyph 1": "tilde",
+      "point 1": "19",
+      "glyph 2": "tilde",
+      "point 2": "6",
+      "parent": "XOAC",
+      "description": "Lowercase accents main weight"
+    },
+    "YOUA": {
+      "direction": "a",
+      "glyph 1": "tildecomb.case",
+      "point 1": "0",
+      "glyph 2": "tildecomb.case",
+      "point 2": "25",
+      "parent": "YOAC",
+      "description": "Uppercase accents secondary weight"
+    },
+    "YOLA": {
+      "direction": "a",
+      "glyph 1": "tilde",
+      "point 1": "0",
+      "glyph 2": "tilde",
+      "point 2": "25",
+      "parent": "YOAC",
+      "description": "Lowercase accents secondary weight"
     },
     "XUCS": {
       "direction": "x",
@@ -1686,6 +1722,10 @@
       },
       "13 12": {
         "name": "YSHU",
+        "direction": "y"
+      },
+      "B 19": {
+        "name": "YTJD",
         "direction": "y"
       }
     },
@@ -10536,6 +10576,19 @@
     "circumflex": {},
     "circumflexcomb.case": {},
     "cedillacomb.case": {},
-    "breveinvertedcomb.case": {}
+    "breveinvertedcomb.case": {},
+    "abrevetilde": {},
+    "tilde": {},
+    "tildecomb.case": {
+      "0 25": {
+        "name": "YOLA",
+        "direction": "a"
+      },
+      "12 13": {
+        "name": "YOLA",
+        "direction": "a"
+      }
+    },
+    "Otilde": {}
   }
 }

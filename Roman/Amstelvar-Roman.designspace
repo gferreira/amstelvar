@@ -387,4 +387,10 @@
       </location>
     </instance>
   </instances>
+  <lib>
+    <dict>
+      <key>com.xTools4.xProject.measurementsPath</key>
+      <string>measurements.json</string>
+    </dict>
+  </lib>
 </designspace>
