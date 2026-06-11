@@ -36,12 +36,9 @@
     <contour>
       <point x="228" y="-278" type="qcurve"/>
       <point x="179" y="-224" type="line"/>
-      <point x="216" y="-138"/>
-      <point x="325" y="-45"/>
-      <point x="379" y="-39" type="qcurve"/>
-      <point x="505" y="263" type="line"/>
-      <point x="583" y="218" type="line"/>
-      <point x="472" y="-66" type="line"/>
+      <point x="218" y="-131"/>
+      <point x="349" y="-31"/>
+      <point x="411" y="-34" type="qcurve"/>
       <point x="816" y="-247" type="line"/>
       <point x="856" y="-247"/>
       <point x="910" y="-169"/>
@@ -53,6 +50,12 @@
       <point x="375" y="-194" type="line"/>
       <point x="335" y="-194"/>
       <point x="265" y="-226"/>
+    </contour>
+    <contour>
+      <point x="374" y="-51" type="line"/>
+      <point x="505" y="263" type="line"/>
+      <point x="583" y="218" type="line"/>
+      <point x="467" y="-78" type="line"/>
     </contour>
   </outline>
 </glyph>
