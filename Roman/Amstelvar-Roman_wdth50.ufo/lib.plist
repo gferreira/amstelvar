@@ -42,8 +42,6 @@
     <string>qcurve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
-    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
-    <string>6975265168</string>
     <key>com.typesupply.defcon.sortDescriptor</key>
     <array>
       <dict>
