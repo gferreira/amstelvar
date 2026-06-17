@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="x" format="2">
   <advance width="1441"/>
+  <unicode hex="0078"/>
   <anchor x="720.5" y="0" name="bottom"/>
   <anchor x="720.5" y="1100" name="top"/>
   <outline>
     <contour>
+      <point x="-32" y="0" type="line"/>
+      <point x="-32" y="190" type="line"/>
+      <point x="127" y="226" type="line"/>
+      <point x="439" y="491" type="line"/>
+      <point x="99" y="874" type="line"/>
       <point x="-20" y="909" type="line"/>
       <point x="-20" y="1100" type="line"/>
       <point x="791" y="1100" type="line"/>
@@ -34,11 +40,6 @@
       <point x="374" y="225" type="line"/>
       <point x="460" y="190" type="line"/>
       <point x="460" y="0" type="line"/>
-      <point x="-32" y="0" type="line"/>
-      <point x="-32" y="190" type="line"/>
-      <point x="127" y="226" type="line"/>
-      <point x="439" y="491" type="line"/>
-      <point x="99" y="874" type="line"/>
     </contour>
   </outline>
 </glyph>
