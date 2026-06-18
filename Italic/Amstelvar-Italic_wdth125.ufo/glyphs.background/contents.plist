@@ -4,6 +4,8 @@
   <dict>
     <key>Pe</key>
     <string>P_e.glif</string>
+    <key>Q</key>
+    <string>Q_.glif</string>
     <key>abrevecyr</key>
     <string>abrevecyr.glif</string>
     <key>breve.cyr</key>
@@ -20,11 +22,17 @@
     <string>ishort.glif</string>
     <key>ishort.bgr</key>
     <string>ishort.bgr.glif</string>
+    <key>k</key>
+    <string>k.glif</string>
     <key>ka</key>
     <string>ka.glif</string>
     <key>kaverticalstrokecyr</key>
     <string>kaverticalstrokecyr.glif</string>
     <key>nje</key>
     <string>nje.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
   </dict>
 </plist>
