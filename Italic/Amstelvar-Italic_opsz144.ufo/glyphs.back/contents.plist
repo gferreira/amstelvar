@@ -10,5 +10,7 @@
     <string>ka.glif</string>
     <key>kaverticalstrokecyr</key>
     <string>kaverticalstrokecyr.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
   </dict>
 </plist>

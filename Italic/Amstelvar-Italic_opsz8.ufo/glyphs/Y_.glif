@@ -11,7 +11,8 @@
       <point x="620" y="1345" type="line"/>
       <point x="465" y="1324" type="line"/>
       <point x="562" y="1055" type="line"/>
-      <point x="668" y="768" type="line"/>
+      <point x="662" y="768" type="line"/>
+      <point x="674" y="768" type="line"/>
       <point x="873" y="1075" type="line"/>
       <point x="1041" y="1322" type="line"/>
       <point x="877" y="1340" type="line"/>
@@ -32,10 +33,4 @@
       <point x="244" y="1329" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.uupWM0SuHo</key>
-      <integer>5</integer>
-    </dict>
-  </lib>
 </glyph>
