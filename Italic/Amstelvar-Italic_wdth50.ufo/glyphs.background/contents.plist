@@ -68,6 +68,8 @@
     <string>hadescender.glif</string>
     <key>hryvnia</key>
     <string>hryvnia.glif</string>
+    <key>k</key>
+    <string>k.glif</string>
     <key>ka</key>
     <string>ka.glif</string>
     <key>kadescender</key>
@@ -84,6 +86,8 @@
     <string>ve.glif</string>
     <key>ve.bgr</key>
     <string>ve.bgr.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>ya</key>
