@@ -2,7 +2,7 @@
 <glyph name="idotless" format="2">
   <advance width="616"/>
   <unicode hex="0131"/>
-  <guideline x="380" y="1000" angle="79" identifier="5usEsQpK4A"/>
+  <guideline x="380" y="1000" angle="79"/>
   <outline>
     <contour>
       <point x="95" y="-21" type="line"/>
@@ -15,6 +15,7 @@
       <point x="455" y="1028" type="line"/>
       <point x="465" y="914" type="line"/>
       <point x="409" y="732" type="line"/>
+      <point x="349" y="482" type="line"/>
       <point x="274" y="166" type="line"/>
       <point x="463" y="168" type="line"/>
       <point x="463" y="52" type="line"/>
