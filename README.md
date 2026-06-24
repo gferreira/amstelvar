@@ -1,7 +1,10 @@
 Amstelvar
 =========
 
-A fork of the original Amstelvar used to produce the initial blend parameters for [AmstelvarA2], with all unnecessary files removed and a few new ones added.
+> [!CAUTION]
+> This repository is no longer in use. Amstelvar reference files are now in the [AmstelvarA2] repository.
+
+A fork of the original Amstelvar used to produce the initial blend parameters for AmstelvarA2, with all unnecessary files removed and a few new ones added.
 
 [AmstelvarA2]: http://github.com/gferreira2/amstelvar-avar2
 
